@@ -1,0 +1,170 @@
+{
+ "meta": {
+  "name": "取名技法库",
+  "source": "李正明《给孩子起个好名字》20技法",
+  "version": "1.0"
+ },
+ "techniques": [
+  {
+   "id": 1,
+   "name": "借地（巧借地名）",
+   "description": "以出生地、祖籍、纪念地入名",
+   "example": "沪生、冀来、京生",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 2,
+   "name": "借典（妙借典故）",
+   "description": "从典籍诗文截取",
+   "example": "思齐、徽音",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 3,
+   "name": "借俗（俗能生雅）",
+   "description": "化用俗语俚语出雅趣",
+   "example": "大俗大雅的巧劲",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 4,
+   "name": "谐音（寓庄于谐）",
+   "description": "谐音双关寄深意",
+   "example": "\"程门立雪\"式藏典谐音",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 5,
+   "name": "借义（寄名于义）",
+   "description": "直取字义寄望",
+   "example": "德、仁、慧系",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 6,
+   "name": "仰慕（慕名巧嵌）",
+   "description": "仰慕先贤，嵌其名",
+   "example": "慕陶、景行（高山仰止景行行止）",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 7,
+   "name": "矛盾（相反相成）",
+   "description": "对立字并置生张力",
+   "example": "若拙、守黑",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 8,
+   "name": "离合（离合生辉）",
+   "description": "拆字合字构造",
+   "example": "名字互含偏旁",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 9,
+   "name": "形似（形像貌似）",
+   "description": "字形相近取意",
+   "example": "形近字的趣味",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 10,
+   "name": "反向（倒逆取名）",
+   "description": "词序倒转",
+   "example": "明光→光明",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 11,
+   "name": "仿拟（模拟创新）",
+   "description": "仿既有名结构创新",
+   "example": "仿\"周树人\"造\"李树兰\"",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 12,
+   "name": "加减（加加减减）",
+   "description": "增删偏旁笔画",
+   "example": "琳→淋（改五行）",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 13,
+   "name": "分嵌（分别镶嵌）",
+   "description": "兄弟名分别嵌同字",
+   "example": "一\"文\"一\"武\"嵌排行",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 14,
+   "name": "再嵌（明嵌暗嵌）",
+   "description": "显隐两层嵌字",
+   "example": "姓与名合藏一字",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 15,
+   "name": "随机（听天由命）",
+   "description": "翻典籍随机点字",
+   "example": "古\"抓周\"遗风",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 16,
+   "name": "贬斥（貌贬神褒）",
+   "description": "表面贬义实为亲昵期许",
+   "example": "贬词褒用的反差",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 17,
+   "name": "近义（一方倾斜）",
+   "description": "近义字中取偏锋",
+   "example": "同义簇里选冷僻者",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 18,
+   "name": "刚柔（刚柔相济）",
+   "description": "刚字柔字配对",
+   "example": "平衡气质",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 19,
+   "name": "虚实（虚实相间）",
+   "description": "虚字实字相搭",
+   "example": "\"若\"\"之\"配实义字",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  },
+  {
+   "id": 20,
+   "name": "二孩（因地制宜）",
+   "description": "二孩与长子女名呼应",
+   "example": "大宝\"知春\"二宝\"知秋\"",
+   "category": "创造学技法",
+   "source": "李正明《给孩子起个好名字》"
+  }
+ ],
+ "count": 20
+}

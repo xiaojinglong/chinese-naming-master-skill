@@ -1,0 +1,1406 @@
+{
+ "source": "周易",
+ "desc": "群经之首，哲理深厚，多用于'大气/稳重/吉祥'风格",
+ "items": [
+  {
+   "word": "自强",
+   "origin": "《周易·乾卦》",
+   "quote": "天行健，君子以自强不息",
+   "meaning": "刚健有为、奋发图强",
+   "usage": "男名",
+   "pinyin": "zì qiáng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "厚德",
+   "origin": "《周易·坤卦》",
+   "quote": "地势坤，君子以厚德载物",
+   "meaning": "宽厚德行、包容万物",
+   "usage": "男名",
+   "pinyin": "hòu dé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "谦谦",
+   "origin": "《周易·谦卦》",
+   "quote": "谦谦君子，卑以自牧",
+   "meaning": "谦逊有礼、自律修身",
+   "usage": "男名",
+   "pinyin": "qiān qiān",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自牧",
+   "origin": "《周易·谦卦》",
+   "quote": "谦谦君子，卑以自牧",
+   "meaning": "自我修养",
+   "usage": "男名",
+   "pinyin": "zì mù",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "天佑",
+   "origin": "《周易·大有卦》",
+   "quote": "自天佑之，吉无不利",
+   "meaning": "上天保佑，吉祥顺遂",
+   "usage": "男女皆宜",
+   "pinyin": "tiān yòu",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "昭明",
+   "origin": "《周易·晋卦》",
+   "quote": "君子以自昭明德",
+   "meaning": "自我彰显光明德行",
+   "usage": "男名",
+   "pinyin": "zhāo míng",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "顺德",
+   "origin": "《周易·升卦》",
+   "quote": "君子以顺德，积小以高大",
+   "meaning": "顺应德行，积小成大",
+   "usage": "男女皆宜",
+   "pinyin": "shùn dé",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "中孚",
+   "origin": "《周易·中孚卦》",
+   "quote": "中孚，豚鱼吉，利涉大川",
+   "meaning": "诚信之德，感通万物",
+   "usage": "男名",
+   "pinyin": "zhōng fú",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "观光",
+   "origin": "《周易·观卦》",
+   "quote": "观国之光，利用宾于王",
+   "meaning": "见识宏阔、光耀门庭",
+   "usage": "男名",
+   "pinyin": "guān guāng",
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "畜德",
+   "origin": "《周易·大畜卦》",
+   "quote": "君子以多识前言往行，以畜其德",
+   "meaning": "积蓄德行",
+   "usage": "男名",
+   "pinyin": "xù dé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "立恒",
+   "origin": "《周易·恒卦》",
+   "quote": "君子以立不易方",
+   "meaning": "立身有恒、坚守正道",
+   "usage": "男名",
+   "pinyin": "lì héng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "嘉遁",
+   "origin": "《周易·遁卦》",
+   "quote": "嘉遁贞吉，以正志也",
+   "meaning": "适时而退、坚守正志",
+   "usage": "男名",
+   "pinyin": "jiā dùn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "如临",
+   "origin": "《周易·临卦》",
+   "quote": "君子以教思无穷，容保民无疆",
+   "meaning": "（取'临'字）居高临下、仁厚",
+   "usage": "男名",
+   "pinyin": "rú lín",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "晋升",
+   "origin": "《周易·晋卦》",
+   "quote": "晋，进也。明出地上",
+   "meaning": "进取向上、光明渐盛",
+   "usage": "男名",
+   "pinyin": "jìn shēng",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "复见",
+   "origin": "《周易·复卦》",
+   "quote": "复，其见天地之心乎",
+   "meaning": "（取'复'字）周而复始、生生不息",
+   "usage": "男女皆宜",
+   "pinyin": "fù jiàn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "含章",
+   "origin": "《周易·坤卦》",
+   "quote": "含章可贞，或从王事，无成有终",
+   "meaning": "内蕴华彩，喻才华内敛",
+   "usage": "女名",
+   "pinyin": "hán zhāng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "谦光",
+   "origin": "《周易·谦卦》",
+   "quote": "谦尊而光，卑而不可逾",
+   "meaning": "谦逊而光耀，喻谦和有德",
+   "usage": "男名",
+   "pinyin": "qiān guāng",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "元亨",
+   "origin": "《周易·乾卦》",
+   "quote": "元亨利贞",
+   "meaning": "大善大通，喻顺遂亨达",
+   "usage": "男名",
+   "pinyin": "yuán hēng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "利贞",
+   "origin": "《周易·乾卦》",
+   "quote": "元亨利贞",
+   "meaning": "利万物而守正，喻正直有利",
+   "usage": "男女皆宜",
+   "pinyin": "lì zhēn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "咸临",
+   "origin": "《周易·临卦》",
+   "quote": "咸临，吉无不利",
+   "meaning": "感而临之，喻以德服人",
+   "usage": "男名",
+   "pinyin": "xián lín",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "豫顺",
+   "origin": "《周易·豫卦》",
+   "quote": "豫顺以动，故日月不过",
+   "meaning": "喜悦顺遂，喻乐观通达",
+   "usage": "男女皆宜",
+   "pinyin": "yù shùn",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "无咎",
+   "origin": "《周易·系辞》",
+   "quote": "无咎者，善补过者也",
+   "meaning": "没有过失，喻谨慎自持",
+   "usage": "男名",
+   "pinyin": "wú jiù",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "日新",
+   "origin": "《周易·系辞》",
+   "quote": "日新之谓盛德",
+   "meaning": "日日更新，喻不断进步",
+   "usage": "男名",
+   "pinyin": "rì xīn",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "崇德",
+   "origin": "《周易·系辞》",
+   "quote": "崇德广业",
+   "meaning": "推崇美德，喻重视品德",
+   "usage": "男名",
+   "pinyin": "chóng dé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "履霜",
+   "origin": "《周易·坤卦》",
+   "quote": "履霜，坚冰至",
+   "meaning": "踏霜知冰将至，喻见微知著",
+   "usage": "女名",
+   "pinyin": "lǚ shuāng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "时中",
+   "origin": "《周易·蒙卦》",
+   "quote": "时中也，蒙以养正",
+   "meaning": "适时守中，喻恰到好处",
+   "usage": "男女皆宜",
+   "pinyin": "shí zhōng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "恒德",
+   "origin": "《周易·恒卦》",
+   "quote": "不恒其德，或承之羞",
+   "meaning": "持久之德，喻恒心毅力",
+   "usage": "男名",
+   "pinyin": "héng dé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "行健",
+   "origin": "《周易·乾·象传》",
+   "quote": "天行健，君子以自强不息",
+   "meaning": "刚健运行，永不停息（清华校训上半，李行健等）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "文明",
+   "origin": "《周易·乾·文言》",
+   "quote": "见龙在田，天下文明",
+   "meaning": "文采光明",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "元善",
+   "origin": "《周易·乾·文言》",
+   "quote": "元者，善之长也",
+   "meaning": "众善之首",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "役德类",
+   "origin": "《周易·乾·文言》",
+   "quote": "不役其德",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "载物",
+   "origin": "《周易·坤·象传》",
+   "quote": "地势坤，君子以厚德载物",
+   "meaning": "宽厚承载万物（清华校训下半）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "弘光",
+   "origin": "《周易·坤·彖传》",
+   "quote": "含弘光大",
+   "meaning": "包容广大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "含弘",
+   "origin": "《周易·坤·彖传》",
+   "quote": "含弘光大",
+   "meaning": "包容广大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "余庆",
+   "origin": "《周易·坤·文言》",
+   "quote": "积善之家，必有余庆",
+   "meaning": "行善积福，泽被后人",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "经纶",
+   "origin": "《周易·屯·象传》",
+   "quote": "君子以经纶",
+   "meaning": "治国才略",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "养正",
+   "origin": "《周易·蒙·彖传》",
+   "quote": "蒙以养正，圣功也",
+   "meaning": "涵养纯正心性",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "鸣谦",
+   "origin": "《周易·谦·爻辞》",
+   "quote": "鸣谦，贞吉",
+   "meaning": "名声与谦德兼具",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "劳谦",
+   "origin": "《周易·谦·爻辞》",
+   "quote": "劳谦君子，有终吉",
+   "meaning": "勤劳而谦虚，善终",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有终",
+   "origin": "《周易·谦·爻辞》",
+   "quote": "劳谦君子，有终吉",
+   "meaning": "勤劳而谦虚，善终",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "顺豫",
+   "origin": "《周易·豫·彖传》",
+   "quote": "顺以动，豫",
+   "meaning": "顺应时机而动则乐",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "观国",
+   "origin": "《周易·观·爻辞》",
+   "quote": "观国之光",
+   "meaning": "观览国之盛德光辉",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "国光",
+   "origin": "《周易·观·爻辞》",
+   "quote": "观国之光",
+   "meaning": "观览国之盛德光辉",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "敕法类",
+   "origin": "《周易·噬嗑·象传》",
+   "quote": "先王以明罚敕法",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "人文",
+   "origin": "《周易·贲·彖传》",
+   "quote": "观乎人文，以化成天下",
+   "meaning": "人文教化之源",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "化成",
+   "origin": "《周易·贲·彖传》",
+   "quote": "观乎人文，以化成天下",
+   "meaning": "人文教化之源",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "识往",
+   "origin": "《周易·大畜·象传》",
+   "quote": "君子以多识前言往行",
+   "meaning": "学习前贤言行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "多识",
+   "origin": "《周易·大畜·象传》",
+   "quote": "君子以多识前言往行",
+   "meaning": "学习前贤言行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "立方",
+   "origin": "《周易·恒·象传》",
+   "quote": "君子以立不易方",
+   "meaning": "持守正道不改变",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不易",
+   "origin": "《周易·恒·象传》",
+   "quote": "君子以立不易方",
+   "meaning": "持守正道不改变",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "明德",
+   "origin": "《周易·晋·象传》",
+   "quote": "君子以自昭明德",
+   "meaning": "自我彰显光明之德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "晦明",
+   "origin": "《周易·明夷·象传》",
+   "quote": "君子以莅众，用晦而明",
+   "meaning": "韬光养晦",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "有恒",
+   "origin": "《周易·家人·象传》",
+   "quote": "君子以言有物而行有恒",
+   "meaning": "言之有物，行而有恒",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有物",
+   "origin": "《周易·家人·象传》",
+   "quote": "君子以言有物而行有恒",
+   "meaning": "言之有物，行而有恒",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不取",
+   "origin": "《周易·萃·象传》",
+   "quote": "君子以除戎器",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "冽泉",
+   "origin": "《周易·井·卦辞》",
+   "quote": "井冽寒泉食",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "凝命",
+   "origin": "《周易·鼎·象传》",
+   "quote": "君子以正位凝命",
+   "meaning": "安正其位，凝定使命",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "正位",
+   "origin": "《周易·鼎·象传》",
+   "quote": "君子以正位凝命",
+   "meaning": "安正其位，凝定使命",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "百里",
+   "origin": "《周易·震·卦辞》",
+   "quote": "震惊百里",
+   "meaning": "声威远播（蒋百里）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "贤德",
+   "origin": "《周易·渐·象传》",
+   "quote": "君子以居贤德善俗",
+   "meaning": "积累贤德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "豫防",
+   "origin": "《周易·既济·象传》",
+   "quote": "君子以思患而豫防之",
+   "meaning": "居安思危",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "谓道",
+   "origin": "《周易·系辞上》",
+   "quote": "一阴一阳之谓道",
+   "meaning": "变化的根本规律",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "阴阳",
+   "origin": "《周易·系辞上》",
+   "quote": "一阴一阳之谓道",
+   "meaning": "变化的根本规律",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "乐天",
+   "origin": "《周易·系辞上》",
+   "quote": "乐天知命，故不忧",
+   "meaning": "乐观知命（白居易字乐天）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "知命",
+   "origin": "《周易·系辞上》",
+   "quote": "乐天知命，故不忧",
+   "meaning": "乐观知命（白居易字乐天）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "存存",
+   "origin": "《周易·系辞上》",
+   "quote": "成性存存，道义之门",
+   "meaning": "保存本性",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "道义",
+   "origin": "《周易·系辞上》",
+   "quote": "成性存存，道义之门",
+   "meaning": "保存本性",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "精义",
+   "origin": "《周易·系辞下》",
+   "quote": "精义入神",
+   "meaning": "钻研义理到神妙",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "入神",
+   "origin": "《周易·系辞下》",
+   "quote": "精义入神",
+   "meaning": "钻研义理到神妙",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "立道",
+   "origin": "《周易·说卦》",
+   "quote": "立天之道曰阴与阳",
+   "meaning": "确立天道",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "立诚",
+   "origin": "《周易·乾·文言》",
+   "quote": "修辞立其诚",
+   "meaning": "修饰言辞，立于诚信",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "敬直",
+   "origin": "《周易·坤·文言》",
+   "quote": "君子敬以直内，义以方外",
+   "meaning": "内敬而直，外义而方",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "义方",
+   "origin": "《周易·坤·文言》",
+   "quote": "君子敬以直内，义以方外",
+   "meaning": "内敬而直，外义而方",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "懿德",
+   "origin": "《周易·小畜·象传》",
+   "quote": "君子以懿文德",
+   "meaning": "修美文德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "履坦",
+   "origin": "《周易·履·九二爻辞》",
+   "quote": "履道坦坦，幽人贞吉",
+   "meaning": "行道坦荡",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "白贲",
+   "origin": "《周易·贲·上九爻辞》",
+   "quote": "白贲，无咎",
+   "meaning": "质素无华，返璞归真",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "辉光",
+   "origin": "《周易·大畜·彖传》",
+   "quote": "刚健笃实，辉光日新",
+   "meaning": "刚健笃实，日新其德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "慎言",
+   "origin": "《周易·颐·象传》",
+   "quote": "君子以慎言语，节饮食",
+   "meaning": "言语谨慎",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "独立",
+   "origin": "《周易·大过·象传》",
+   "quote": "君子以独立不惧，遯世无闷",
+   "meaning": "特立独行，无所畏惧",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "常德",
+   "origin": "《周易·坎·象传》",
+   "quote": "君子以常德行，习教事",
+   "meaning": "恒常其德（地名\"常德\"源）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "虚受",
+   "origin": "《周易·咸·象传》",
+   "quote": "君子以虚受人",
+   "meaning": "虚怀纳人",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "反身",
+   "origin": "《周易·蹇·象传》",
+   "quote": "君子以反身修德",
+   "meaning": "反躬自省",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "修德",
+   "origin": "《周易·蹇·象传》",
+   "quote": "君子以反身修德",
+   "meaning": "反躬自省",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "迁善",
+   "origin": "《周易·益·象传》",
+   "quote": "君子以见善则迁，有过则改",
+   "meaning": "见善则迁",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "豹变",
+   "origin": "《周易·革·上六象传》",
+   "quote": "君子豹变，其文蔚也",
+   "meaning": "文采斐然",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "蔚文",
+   "origin": "《周易·革·上六象传》",
+   "quote": "君子豹变，其文蔚也",
+   "meaning": "文采斐然",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "时行",
+   "origin": "《周易·艮·彖传》",
+   "quote": "时止则止，时行则行",
+   "meaning": "因时而动",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "丽泽",
+   "origin": "《周易·兑·象传》",
+   "quote": "丽泽，兑；君子以朋友讲习",
+   "meaning": "朋友讲习（书院常用名）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "鸣鹤",
+   "origin": "《周易·中孚·九二爻辞》",
+   "quote": "鸣鹤在阴，其子和之",
+   "meaning": "声气相求",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "和之",
+   "origin": "《周易·中孚·九二爻辞》",
+   "quote": "鸣鹤在阴，其子和之",
+   "meaning": "声气相求",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "辨物",
+   "origin": "《周易·未济·象传》",
+   "quote": "君子以慎辨物居方",
+   "meaning": "明辨事物",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "介石",
+   "origin": "《周易·豫·六二爻辞》",
+   "quote": "介于石，不终日，贞吉",
+   "meaning": "耿介如石（蒋中正字介石）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "润之",
+   "origin": "《周易·系辞上》",
+   "quote": "鼓之以雷霆，润之以风雨",
+   "meaning": "风雨润泽（毛泽东字润之）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "致用",
+   "origin": "《周易·系辞上》",
+   "quote": "备物致用，立成器以为天下利",
+   "meaning": "学以致用",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "广业",
+   "origin": "《周易·系辞上》",
+   "quote": "夫易，圣人所以崇德而广业也",
+   "meaning": "崇德广业",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "致远",
+   "origin": "《周易·系辞上》",
+   "quote": "探赜索隐，钩深致远",
+   "meaning": "探幽致远",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "索隐",
+   "origin": "《周易·系辞上》",
+   "quote": "探赜索隐，钩深致远",
+   "meaning": "探幽致远",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "谋始",
+   "origin": "《周易·讼·象传》",
+   "quote": "君子以作事谋始",
+   "meaning": "做事谋划于始",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "容民",
+   "origin": "《周易·师·象传》",
+   "quote": "君子以容民畜众",
+   "meaning": "容纳民众",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "建万",
+   "origin": "《周易·比·象传》",
+   "quote": "先王以建万国，亲诸侯",
+   "meaning": "建立万国，亲睦诸侯",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "亲侯",
+   "origin": "《周易·比·象传》",
+   "quote": "先王以建万国，亲诸侯",
+   "meaning": "建立万国，亲睦诸侯",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "俭德",
+   "origin": "《周易·否·象传》",
+   "quote": "君子以俭德辟难",
+   "meaning": "以俭朴之德避难",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "同人",
+   "origin": "《周易·同人·卦辞》",
+   "quote": "同人于野，亨",
+   "meaning": "与人和同于旷野（\"于野\"旷达）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "于野",
+   "origin": "《周易·同人·卦辞》",
+   "quote": "同人于野，亨",
+   "meaning": "与人和同于旷野（\"于野\"旷达）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "类族",
+   "origin": "《周易·同人·象传》",
+   "quote": "君子以类族辨物",
+   "meaning": "分门别类，明辨事物",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "随时",
+   "origin": "《周易·随·彖传》",
+   "quote": "随时之义大矣",
+   "meaning": "顺应时势",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "振民",
+   "origin": "《周易·蛊·象传》",
+   "quote": "君子以振民育德",
+   "meaning": "振奋民众，培育德行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "育德",
+   "origin": "《周易·蛊·象传》",
+   "quote": "君子以振民育德",
+   "meaning": "振奋民众，培育德行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "厚下",
+   "origin": "《周易·剥·象传》",
+   "quote": "上以厚下安宅",
+   "meaning": "厚待根基",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无妄",
+   "origin": "《周易·无妄·象传》",
+   "quote": "天下雷行，物与无妄",
+   "meaning": "不虚妄，真实无欺",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "刚健系",
+   "origin": "《周易·无妄·彖传》",
+   "quote": "刚自外来而为主于内",
+   "meaning": "刚健守正",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "继明",
+   "origin": "《周易·离·象传》",
+   "quote": "大人以继明照于四方",
+   "meaning": "前后相继以明德照四方",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "丽天",
+   "origin": "《周易·离·彖传》",
+   "quote": "日月丽乎天，百谷草木丽乎土",
+   "meaning": "附丽于天",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "—（退隐义",
+   "origin": "《周易·遁·彖传》",
+   "quote": "遁而亨",
+   "meaning": "隐退以求亨通",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "慎入名）",
+   "origin": "《周易·遁·彖传》",
+   "quote": "遁而亨",
+   "meaning": "隐退以求亨通",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "弗履",
+   "origin": "《周易·大壮·象传》",
+   "quote": "君子以非礼弗履",
+   "meaning": "不行非礼之事",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "同异",
+   "origin": "《周易·睽·象传》",
+   "quote": "君子以同而异",
+   "meaning": "求同存异",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "偕行",
+   "origin": "《周易·损·彖传》",
+   "quote": "损益盈虚，与时偕行",
+   "meaning": "与时俱进",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "施禄",
+   "origin": "《周易·夬·象传》",
+   "quote": "君子以施禄及下",
+   "meaning": "施恩禄于下",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "施命",
+   "origin": "《周易·姤·象传》",
+   "quote": "后以施命诰四方",
+   "meaning": "施行政令",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "遂志",
+   "origin": "《周易·困·象传》",
+   "quote": "君子以致命遂志",
+   "meaning": "舍命以遂其志",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "永终",
+   "origin": "《周易·归妹·象传》",
+   "quote": "君子以永终知敝",
+   "meaning": "永保善终",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "明慎",
+   "origin": "《周易·旅·象传》",
+   "quote": "君子以明慎用刑而不留狱",
+   "meaning": "明察审慎",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "申命",
+   "origin": "《周易·巽·象传》",
+   "quote": "君子以申命行事",
+   "meaning": "申明政令以行事",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "—（涣散义",
+   "origin": "《周易·涣·象传》",
+   "quote": "风行水上，涣",
+   "meaning": "风行水上，流散",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（戒律义",
+   "origin": "《周易·小过·象传》",
+   "quote": "君子以行过乎恭，丧过乎哀，用过乎俭",
+   "meaning": "行事过于恭敬",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不入名）",
+   "origin": "《周易·小过·象传》",
+   "quote": "君子以行过乎恭，丧过乎哀，用过乎俭",
+   "meaning": "行事过于恭敬",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 127
+}

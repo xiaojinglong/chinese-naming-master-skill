@@ -1,0 +1,88 @@
+# -*- coding: utf-8 -*-
+"""生成生肖喜忌偏旁表 03-生肖喜忌偏旁表.json"""
+import json, os
+
+DATA = {
+    "meta": {
+        "name": "十二生肖喜忌偏旁表",
+        "version": "1.0",
+        "basis": "通行民俗版本（基于生肖生活习性、地支六冲六害三合六合），不同资料存在差异",
+        "usage": "以候选汉字部首(radical)与喜/忌偏旁做包含匹配；忌用偏旁为排除项，喜用偏旁为加分项",
+    },
+    "liu_chong": {"子":"午","午":"子","丑":"未","未":"丑","寅":"申","申":"寅","卯":"酉","酉":"卯","辰":"戌","戌":"辰","巳":"亥","亥":"巳"},
+    "liu_hai": {"子":"未","未":"子","丑":"午","午":"丑","寅":"巳","巳":"寅","卯":"辰","辰":"卯","申":"亥","亥":"申","酉":"戌","戌":"酉"},
+    "san_he": [["申","子","辰"],["寅","午","戌"],["巳","酉","丑"],["亥","卯","未"]],
+    "liu_he": {"子":"丑","丑":"子","寅":"亥","亥":"寅","卯":"戌","戌":"卯","辰":"酉","酉":"辰","巳":"申","申":"巳","午":"未","未":"午"},
+    "zodiacs": [
+        {"zodiac": "鼠", "zhi": "子", "wuxing": "水",
+         "like_radicals": ["宀", "艹", "口", "米", "王", "田", "夕", "亻", "水", "氵", "金", "钅"],
+         "dislike_radicals": ["午", "马", "羊", "未", "火", "灬", "日", "辶", "心", "忄"],
+         "like_reason": "洞穴栖居、喜食谷物、生肖之首为王",
+         "dislike_reason": "子午冲、子未害，忌火字形"},
+        {"zodiac": "牛", "zhi": "丑", "wuxing": "土",
+         "like_radicals": ["艹", "宀", "禾", "豆", "米", "辶", "酉", "木", "田"],
+         "dislike_radicals": ["羊", "未", "马", "午", "火", "灬", "日"],
+         "like_reason": "食草、居棚、勤耕",
+         "dislike_reason": "丑未冲、丑午害"},
+        {"zodiac": "虎", "zhi": "寅", "wuxing": "木",
+         "like_radicals": ["山", "木", "宀", "王", "月", "氵", "水", "衣", "衤"],
+         "dislike_radicals": ["申", "猴", "辶", "辶", "彳", "亻", "心", "忄"],
+         "like_reason": "山林之王、栖息深山、王字显威",
+         "dislike_reason": "寅申冲"},
+        {"zodiac": "兔", "zhi": "卯", "wuxing": "木",
+         "like_radicals": ["艹", "宀", "木", "禾", "米", "口", "田"],
+         "dislike_radicals": ["酉", "鸡", "鸟", "羽", "金", "钅", "刀", "刂"],
+         "like_reason": "食草、居穴、温顺",
+         "dislike_reason": "卯酉冲"},
+        {"zodiac": "龙", "zhi": "辰", "wuxing": "土",
+         "like_radicals": ["氵", "水", "雨", "王", "日", "月", "金", "钅", "云"],
+         "dislike_radicals": ["戌", "狗", "山", "土", "田", "艹", "虫"],
+         "like_reason": "龙行云布雨、喜水喜日、王者之象",
+         "dislike_reason": "辰戌冲"},
+        {"zodiac": "蛇", "zhi": "巳", "wuxing": "火",
+         "like_radicals": ["宀", "艹", "虫", "酉", "木", "口", "田"],
+         "dislike_radicals": ["亥", "猪", "氵", "水", "火", "灬", "日"],
+         "like_reason": "居穴、食虫、喜草木阴凉",
+         "dislike_reason": "巳亥冲"},
+        {"zodiac": "马", "zhi": "午", "wuxing": "火",
+         "like_radicals": ["艹", "木", "宀", "王", "禾", "米", "豆", "衣", "衤"],
+         "dislike_radicals": ["子", "鼠", "牛", "丑", "氵", "水", "雨"],
+         "like_reason": "食草、驰骋、居厩",
+         "dislike_reason": "午子冲、午丑害"},
+        {"zodiac": "羊", "zhi": "未", "wuxing": "土",
+         "like_radicals": ["艹", "宀", "禾", "木", "米", "豆", "田", "口"],
+         "dislike_radicals": ["丑", "牛", "狗", "戌", "马", "午", "水", "氵"],
+         "like_reason": "食草、温顺、合群",
+         "dislike_reason": "未丑冲、未戌刑"},
+        {"zodiac": "猴", "zhi": "申", "wuxing": "金",
+         "like_radicals": ["木", "山", "亻", "禾", "宀", "王", "口", "金", "钅"],
+         "dislike_radicals": ["寅", "虎", "火", "灬", "日", "豕", "亥"],
+         "like_reason": "居山林、近人、机敏、食果",
+         "dislike_reason": "寅申冲、申亥害"},
+        {"zodiac": "鸡", "zhi": "酉", "wuxing": "金",
+         "like_radicals": ["宀", "豆", "禾", "米", "田", "口", "土", "金", "钅"],
+         "dislike_radicals": ["卯", "兔", "鸟", "羽", "月", "心", "忄"],
+         "like_reason": "居巢、食谷、司晨",
+         "dislike_reason": "卯酉冲"},
+        {"zodiac": "狗", "zhi": "戌", "wuxing": "土",
+         "like_radicals": ["亻", "宀", "土", "心", "忄", "王", "月", "金", "钅"],
+         "dislike_radicals": ["辰", "龙", "羊", "未", "火", "灬", "日", "酉", "鸡"],
+         "like_reason": "忠义、伴人、守家",
+         "dislike_reason": "辰戌冲、未戌刑、酉戌害"},
+        {"zodiac": "猪", "zhi": "亥", "wuxing": "水",
+         "like_radicals": ["宀", "水", "氵", "木", "禾", "米", "豆", "艹", "田", "金", "钅"],
+         "dislike_radicals": ["巳", "蛇", "火", "灬", "日", "虫", "刀", "刂"],
+         "like_reason": "居圈、食谷、喜水、福气",
+         "dislike_reason": "亥巳冲"},
+    ],
+}
+
+def main():
+    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "02-规则与算法资料"))
+    DATA["count"] = len(DATA["zodiacs"])
+    with open(os.path.join(base, "03-生肖喜忌偏旁表.json"), "w", encoding="utf-8") as f:
+        json.dump(DATA, f, ensure_ascii=False, indent=2)
+    print("生肖喜忌偏旁表生成完毕，共", DATA["count"], "个生肖")
+
+if __name__ == "__main__":
+    main()

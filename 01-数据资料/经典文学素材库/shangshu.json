@@ -1,0 +1,651 @@
+{
+ "source": "尚书",
+ "desc": "尚书取名素材（含知识库精读笔记提取）",
+ "items": [
+  {
+   "word": "谦",
+   "origin": "《尚书·大禹谟》",
+   "quote": "满招损，谦受益",
+   "meaning": "谦逊受益（成语源头）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "受益",
+   "origin": "《尚书·大禹谟》",
+   "quote": "满招损，谦受益",
+   "meaning": "谦逊受益（成语源头）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "谦益",
+   "origin": "《尚书·大禹谟》",
+   "quote": "满招损，谦受益",
+   "meaning": "谦逊受益（成语源头）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "克勤",
+   "origin": "《尚书·大禹谟》",
+   "quote": "克勤于邦，克俭于家",
+   "meaning": "勤俭持家立国",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "克俭",
+   "origin": "《尚书·大禹谟》",
+   "quote": "克勤于邦，克俭于家",
+   "meaning": "勤俭持家立国",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "俊德",
+   "origin": "《尚书·尧典》",
+   "quote": "克明俊德",
+   "meaning": "发扬大德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "明德",
+   "origin": "《尚书·尧典》",
+   "quote": "克明俊德",
+   "meaning": "发扬大德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "允恭",
+   "origin": "《尚书·尧典》",
+   "quote": "允恭克让",
+   "meaning": "诚信恭谨，能够谦让",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "克让",
+   "origin": "《尚书·尧典》",
+   "quote": "允恭克让",
+   "meaning": "诚信恭谨，能够谦让",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "浚哲",
+   "origin": "《尚书·舜典》",
+   "quote": "浚哲文明，温恭允塞",
+   "meaning": "深智文明、温和恭敬、诚实充塞",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "温恭",
+   "origin": "《尚书·舜典》",
+   "quote": "浚哲文明，温恭允塞",
+   "meaning": "深智文明、温和恭敬、诚实充塞",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "允塞",
+   "origin": "《尚书·舜典》",
+   "quote": "浚哲文明，温恭允塞",
+   "meaning": "深智文明、温和恭敬、诚实充塞",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "言志",
+   "origin": "《尚书·舜典》",
+   "quote": "诗言志，歌永言",
+   "meaning": "诗歌言志之本",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "直温",
+   "origin": "《尚书·舜典（九德）》",
+   "quote": "直而温，宽而栗",
+   "meaning": "正直而温和，宽宏而坚毅",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "宽栗",
+   "origin": "《尚书·舜典（九德）》",
+   "quote": "直而温，宽而栗",
+   "meaning": "正直而温和，宽宏而坚毅",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "修身",
+   "origin": "《尚书·皋陶谟》",
+   "quote": "慎厥身，修思永",
+   "meaning": "谨慎修身，谋虑长远",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "思永",
+   "origin": "《尚书·皋陶谟》",
+   "quote": "慎厥身，修思永",
+   "meaning": "谨慎修身，谋虑长远",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "克明",
+   "origin": "《尚书·伊训》",
+   "quote": "居上克明，为下克忠",
+   "meaning": "明察与忠诚",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "克忠",
+   "origin": "《尚书·伊训》",
+   "quote": "居上克明，为下克忠",
+   "meaning": "明察与忠诚",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "民视类",
+   "origin": "《尚书·太甲》",
+   "quote": "天视自我民视",
+   "meaning": "民本思想",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "九仞",
+   "origin": "《尚书·旅獒》",
+   "quote": "为山九仞，功亏一篑",
+   "meaning": "积极进取（取正面）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "为山",
+   "origin": "《尚书·旅獒》",
+   "quote": "为山九仞，功亏一篑",
+   "meaning": "积极进取（取正面）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "细行",
+   "origin": "《尚书·旅獒》",
+   "quote": "不矜细行，终累大德",
+   "meaning": "注重小节",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "好问",
+   "origin": "《尚书·仲虺之诰》",
+   "quote": "好问则裕，自用则小",
+   "meaning": "勤学好问则学识充裕",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "则裕",
+   "origin": "《尚书·仲虺之诰》",
+   "quote": "好问则裕，自用则小",
+   "meaning": "勤学好问则学识充裕",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "日新",
+   "origin": "《尚书·咸有一德》",
+   "quote": "终始惟一，时乃日新",
+   "meaning": "日日更新，始终如一",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "惟一",
+   "origin": "《尚书·咸有一德》",
+   "quote": "终始惟一，时乃日新",
+   "meaning": "日日更新，始终如一",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "树德",
+   "origin": "《尚书·泰誓》",
+   "quote": "树德务滋，除恶务本",
+   "meaning": "树立德行要不断滋养",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "务滋",
+   "origin": "《尚书·泰誓》",
+   "quote": "树德务滋，除恶务本",
+   "meaning": "树立德行要不断滋养",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "崇志",
+   "origin": "《尚书·周官》",
+   "quote": "功崇惟志，业广惟勤",
+   "meaning": "功业靠志向与勤奋",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "惟勤",
+   "origin": "《尚书·周官》",
+   "quote": "功崇惟志，业广惟勤",
+   "meaning": "功业靠志向与勤奋",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "业广",
+   "origin": "《尚书·周官》",
+   "quote": "功崇惟志，业广惟勤",
+   "meaning": "功业靠志向与勤奋",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有容",
+   "origin": "《尚书·君陈》",
+   "quote": "有容，德乃大",
+   "meaning": "有容乃大（成语源头）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "懋德",
+   "origin": "《尚书·毕命》",
+   "quote": "惟公懋德",
+   "meaning": "勉力修德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "钦明",
+   "origin": "《尚书·尧典》",
+   "quote": "钦明文思安安",
+   "meaning": "恭敬明察",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "光被",
+   "origin": "《尚书·尧典》",
+   "quote": "光被四表，格于上下",
+   "meaning": "德光普照四方",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "精一",
+   "origin": "《尚书·大禹谟》",
+   "quote": "人心惟危，道心惟微，惟精惟一，允执厥中",
+   "meaning": "\"十六字心传\"，宋儒奉为道统核心",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "执中",
+   "origin": "《尚书·大禹谟》",
+   "quote": "人心惟危，道心惟微，惟精惟一，允执厥中",
+   "meaning": "\"十六字心传\"，宋儒奉为道统核心",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "行之",
+   "origin": "《尚书·说命》",
+   "quote": "非知之艰，行之惟艰",
+   "meaning": "\"知行\"之辨的经典源头",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知行",
+   "origin": "《尚书·说命》",
+   "quote": "非知之艰，行之惟艰",
+   "meaning": "\"知行\"之辨的经典源头",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "沈潜",
+   "origin": "《尚书·洪范》",
+   "quote": "沈潜刚克，高明柔克",
+   "meaning": "刚柔互济以治性",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "高明",
+   "origin": "《尚书·洪范》",
+   "quote": "沈潜刚克，高明柔克",
+   "meaning": "刚柔互济以治性",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "无偏",
+   "origin": "《尚书·洪范》",
+   "quote": "无偏无党，王道荡荡",
+   "meaning": "公正不偏",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无逸",
+   "origin": "《尚书·无逸》",
+   "quote": "无逸",
+   "meaning": "不贪图安逸（周公诫成王）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "九德",
+   "origin": "《尚书·皋陶谟》",
+   "quote": "九德：宽而栗，柔而立……强而义",
+   "meaning": "选才九德（系统命名素材）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有条",
+   "origin": "《尚书·盘庚》",
+   "quote": "若网在纲，有条而不紊",
+   "meaning": "条理分明",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "德辅",
+   "origin": "《尚书·蔡仲之命》",
+   "quote": "皇天无亲，惟德是辅",
+   "meaning": "上天只辅助有德者（伪古文）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "休休",
+   "origin": "《尚书·秦誓》",
+   "quote": "其心休休焉，其如有容",
+   "meaning": "宽厚从容",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "断断",
+   "origin": "《尚书·秦誓》",
+   "quote": "如有一介臣，断断猗无他技",
+   "meaning": "诚恳专一",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "德威",
+   "origin": "《尚书·吕刑》",
+   "quote": "德威惟畏，德明惟明",
+   "meaning": "以德立威、以德明察",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "德明",
+   "origin": "《尚书·吕刑》",
+   "quote": "德威惟畏，德明惟明",
+   "meaning": "以德立威、以德明察",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "穆穆",
+   "origin": "《尚书·吕刑》",
+   "quote": "穆穆在上，明明在下",
+   "meaning": "庄敬和穆",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "康心",
+   "origin": "《尚书·康诰》",
+   "quote": "用康乃心，顺乃德",
+   "meaning": "安定心志，顺应德性",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "遵义",
+   "origin": "《尚书·洪范》",
+   "quote": "无偏无陂，遵王之义",
+   "meaning": "无偏无私，遵循大义",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "惇信",
+   "origin": "《尚书·武成》",
+   "quote": "惇信明义",
+   "meaning": "诚信厚实，明晓大义",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "明义",
+   "origin": "《尚书·武成》",
+   "quote": "惇信明义",
+   "meaning": "诚信厚实，明晓大义",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "—（因果义",
+   "origin": "《尚书·汤诰》",
+   "quote": "福善祸淫",
+   "meaning": "天道福善祸淫",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "不入名）",
+   "origin": "《尚书·汤诰》",
+   "quote": "福善祸淫",
+   "meaning": "天道福善祸淫",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  }
+ ],
+ "count": 58
+}

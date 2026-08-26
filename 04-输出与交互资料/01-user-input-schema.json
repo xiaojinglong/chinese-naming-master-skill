@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "name": "用户输入 Schema（取名请求）",
+    "version": "1.0",
+    "usage": "Skill 解析用户输入后填充该结构；缺失字段走降级模式",
+    "modes": ["full（含八字）", "reduced（无八字）"]
+  },
+  "fields": {
+    "surname": {
+      "type": "string",
+      "required": true,
+      "description": "姓氏（单姓或复姓）",
+      "example": "李"
+    },
+    "gender": {
+      "type": "string",
+      "required": true,
+      "enum": ["男", "女"],
+      "description": "性别"
+    },
+    "birth_date": {
+      "type": "string",
+      "format": "date",
+      "required": false,
+      "description": "公历出生日期 YYYY-MM-DD",
+      "example": "2026-08-26"
+    },
+    "birth_time": {
+      "type": "string",
+      "format": "HH:mm",
+      "required": false,
+      "description": "出生时间，缺省按默认时辰并标注",
+      "example": "10:30"
+    },
+    "birth_place": {
+      "type": "string",
+      "required": false,
+      "description": "出生地（真太阳时可选）",
+      "example": "北京"
+    },
+    "forbidden_chars": {
+      "type": "array",
+      "items": {"type": "string"},
+      "required": false,
+      "description": "忌用字（长辈用字/不喜欢的字）",
+      "example": ["伟", "强"]
+    },
+    "style": {
+      "type": "string",
+      "required": false,
+      "enum": ["文雅古风", "大气庄重", "现代好听", "吉祥祝福", "清新自然", "均衡"],
+      "description": "风格偏好，缺省均衡",
+      "example": "文雅古风"
+    },
+    "name_length": {
+      "type": "string",
+      "required": false,
+      "enum": ["2字名", "3字名", "both"],
+      "description": "名字字数（含姓）",
+      "example": "2字名"
+    },
+    "expected_wuxing": {
+      "type": "array",
+      "items": {"type": "string", "enum": ["金", "木", "水", "火", "土"]},
+      "required": false,
+      "description": "用户期望补益的五行（可选，缺省按八字喜用神）",
+      "example": ["木", "火"]
+    },
+    "special_requirements": {
+      "type": "string",
+      "required": false,
+      "description": "特殊要求（字辈字、纪念字等）",
+      "example": "字辈'承'"
+    },
+    "family_name_notes": {
+      "type": "string",
+      "required": false,
+      "description": "家族其他说明（如排行、避讳）"
+    }
+  },
+  "derived": {
+    "mode": "full | reduced",
+    "zodiac": "出生年份对应的生肖（立春为界）",
+    "bazi": "四柱（含八字时）",
+    "xiyongshen": "喜用神五行（含八字时）",
+    "weight_preset": "按 style 映射的评分权重预设"
+  }
+}

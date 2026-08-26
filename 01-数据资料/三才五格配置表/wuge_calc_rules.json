@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "name": "五格笔画计算规则",
+    "version": "1.0"
+  },
+  "rules": [
+    {
+      "ge": "天格",
+      "desc": "祖上运，代表父母、长辈",
+      "formula_single": "单姓：姓氏康熙笔画 + 1",
+      "formula_compound": "复姓：姓氏两字康熙笔画之和 + 1"
+    },
+    {
+      "ge": "人格",
+      "desc": "主运，代表本人一生运势核心",
+      "formula_single": "单姓：姓笔画 + 名首字笔画",
+      "formula_compound": "复姓：姓第二字笔画 + 名首字笔画"
+    },
+    {
+      "ge": "地格",
+      "desc": "前运，代表中年前运（35岁前）",
+      "formula_double": "双字名：名两字笔画之和",
+      "formula_single": "单字名：名笔画 + 1"
+    },
+    {
+      "ge": "外格",
+      "desc": "副运，代表外在环境与社交",
+      "formula_double_single_surname": "单姓双字名：名字末字康熙笔画 + 1",
+      "formula_double_compound_surname": "复姓双字名：名字末字康熙笔画 + 1",
+      "formula_single_single_surname": "单姓单字名：固定为 2",
+      "formula_single_compound_surname": "复姓单字名：姓氏首字康熙笔画 + 1",
+      "formula_note": "外格计算因姓名结构而异；单姓单字名时外格恒为2，姓名学上认为外格影响力较弱"
+    },
+    {
+      "ge": "总格",
+      "desc": "后运，代表中年后至晚年整体运势",
+      "formula": "姓名全部康熙笔画之和"
+    }
+  ],
+  "sancai": "三才 = 天格五行 / 人格五行 / 地格五行（以人格为中枢），用于查三才配置吉凶表",
+  "stroke_basis": "一律以繁体字形康熙字典笔画为准，不用简体笔画"
+}

@@ -1,0 +1,1150 @@
+{
+  "meta": {
+    "name": "三才配置吉凶表（125 种）",
+    "version": "1.0",
+    "basis": "五行生克原理推导版：天格→人格、人格→地格两步生克打分（相生+1/比和0/相克-1），总分≥2大吉、1吉、0半吉、-1半凶、≤-2凶。与熊崎健翁等流派标准表在个别组合上存在差异，生产环境建议以权威三才配置表交叉核对。",
+    "usage": "五格计算后取天格/人格/地格五行，查此表得三才配置吉凶",
+    "wuxing_sheng": {
+      "木": "火",
+      "火": "土",
+      "土": "金",
+      "金": "水",
+      "水": "木"
+    },
+    "wuxing_ke": {
+      "木": "土",
+      "土": "水",
+      "水": "火",
+      "火": "金",
+      "金": "木"
+    }
+  },
+  "count": 125,
+  "sancai": [
+    {
+      "tian": "金",
+      "ren": "金",
+      "di": "金",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "比和",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "金",
+      "di": "木",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "金",
+      "ren": "金",
+      "di": "水",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "金",
+      "ren": "金",
+      "di": "火",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "金",
+      "ren": "金",
+      "di": "土",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "金",
+      "ren": "木",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "金",
+      "ren": "木",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "金",
+      "ren": "木",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "木",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "木",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "金",
+      "ren": "水",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "金",
+      "ren": "水",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "金",
+      "ren": "水",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "金",
+      "ren": "水",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "水",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "火",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "金",
+      "ren": "火",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "火",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "金",
+      "ren": "火",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "金",
+      "ren": "火",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "土",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "金",
+      "ren": "土",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "土",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "金",
+      "ren": "土",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "金",
+      "ren": "土",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "木",
+      "ren": "金",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "木",
+      "ren": "金",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "木",
+      "ren": "金",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "金",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "木",
+      "ren": "金",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "木",
+      "di": "金",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "木",
+      "ren": "木",
+      "di": "木",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "比和",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "木",
+      "di": "水",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "木",
+      "ren": "木",
+      "di": "火",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "木",
+      "ren": "木",
+      "di": "土",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "木",
+      "ren": "水",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "木",
+      "ren": "水",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "木",
+      "ren": "水",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "木",
+      "ren": "水",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "水",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "火",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "火",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "木",
+      "ren": "火",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "火",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "木",
+      "ren": "火",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "木",
+      "ren": "土",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "土",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "木",
+      "ren": "土",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "木",
+      "ren": "土",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "木",
+      "ren": "土",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "水",
+      "ren": "金",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "水",
+      "ren": "金",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "金",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "水",
+      "ren": "金",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "金",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "水",
+      "ren": "木",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "木",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "水",
+      "ren": "木",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "水",
+      "ren": "木",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "水",
+      "ren": "木",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "水",
+      "di": "金",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "水",
+      "ren": "水",
+      "di": "木",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "水",
+      "ren": "水",
+      "di": "水",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "比和",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "水",
+      "di": "火",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "水",
+      "ren": "水",
+      "di": "土",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "水",
+      "ren": "火",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "水",
+      "ren": "火",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "火",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "水",
+      "ren": "火",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "水",
+      "ren": "火",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "土",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "土",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "水",
+      "ren": "土",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "水",
+      "ren": "土",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "水",
+      "ren": "土",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "火",
+      "ren": "金",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "火",
+      "ren": "金",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "火",
+      "ren": "金",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "金",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "火",
+      "ren": "金",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "木",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "木",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "火",
+      "ren": "木",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "火",
+      "ren": "木",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "火",
+      "ren": "木",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "水",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "水",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "水",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "火",
+      "ren": "水",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "火",
+      "ren": "水",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "火",
+      "ren": "火",
+      "di": "金",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "火",
+      "ren": "火",
+      "di": "木",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "火",
+      "ren": "火",
+      "di": "水",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "火",
+      "ren": "火",
+      "di": "火",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "比和",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "火",
+      "di": "土",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "火",
+      "ren": "土",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "火",
+      "ren": "土",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "土",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "火",
+      "ren": "土",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "火",
+      "ren": "土",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "土",
+      "ren": "金",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "土",
+      "ren": "金",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "金",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "土",
+      "ren": "金",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "金",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "土",
+      "ren": "木",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "土",
+      "ren": "木",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "土",
+      "ren": "木",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "木",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "木",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "土",
+      "ren": "水",
+      "di": "金",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "水",
+      "di": "木",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相生",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "水",
+      "di": "水",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "比和",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "土",
+      "ren": "水",
+      "di": "火",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "土",
+      "ren": "水",
+      "di": "土",
+      "relation_tian_ren": "相克",
+      "relation_ren_di": "相克",
+      "score": -2,
+      "grade": "凶"
+    },
+    {
+      "tian": "土",
+      "ren": "火",
+      "di": "金",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "火",
+      "di": "木",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "土",
+      "ren": "火",
+      "di": "水",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相克",
+      "score": 0,
+      "grade": "半吉"
+    },
+    {
+      "tian": "土",
+      "ren": "火",
+      "di": "火",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "比和",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "土",
+      "ren": "火",
+      "di": "土",
+      "relation_tian_ren": "相生",
+      "relation_ren_di": "相生",
+      "score": 2,
+      "grade": "大吉"
+    },
+    {
+      "tian": "土",
+      "ren": "土",
+      "di": "金",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "土",
+      "ren": "土",
+      "di": "木",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "土",
+      "ren": "土",
+      "di": "水",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相克",
+      "score": -1,
+      "grade": "半凶"
+    },
+    {
+      "tian": "土",
+      "ren": "土",
+      "di": "火",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "相生",
+      "score": 1,
+      "grade": "吉"
+    },
+    {
+      "tian": "土",
+      "ren": "土",
+      "di": "土",
+      "relation_tian_ren": "比和",
+      "relation_ren_di": "比和",
+      "score": 0,
+      "grade": "半吉"
+    }
+  ]
+}

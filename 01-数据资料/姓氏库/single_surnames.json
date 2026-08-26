@@ -1,0 +1,3736 @@
+{
+  "meta": {
+    "name": "单姓库",
+    "version": "1.0",
+    "count_placeholder": null,
+    "fields": [
+      "surname",
+      "traditional",
+      "pinyin",
+      "strokes_kangxi",
+      "wuxing",
+      "notes"
+    ],
+    "note": "康熙笔画以繁体字形为准；五行取常见资料口径（不同流派有差异）；郁姓笔画两说已备注",
+    "count": 413
+  },
+  "surnames": [
+    {
+      "surname": "赵",
+      "traditional": "趙",
+      "pinyin": "zhào",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "百家姓首姓",
+      "common": true
+    },
+    {
+      "surname": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "strokes_kangxi": 16,
+      "wuxing": "金",
+      "notes": "钱氏",
+      "common": true
+    },
+    {
+      "surname": "孙",
+      "traditional": "孫",
+      "pinyin": "sūn",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "孙氏",
+      "common": true
+    },
+    {
+      "surname": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "李唐国姓，木子为李",
+      "common": true
+    },
+    {
+      "surname": "周",
+      "traditional": "周",
+      "pinyin": "zhōu",
+      "strokes_kangxi": 8,
+      "wuxing": "金",
+      "notes": "周氏",
+      "common": true
+    },
+    {
+      "surname": "吴",
+      "traditional": "吳",
+      "pinyin": "wú",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "吴氏",
+      "common": true
+    },
+    {
+      "surname": "郑",
+      "traditional": "鄭",
+      "pinyin": "zhèng",
+      "strokes_kangxi": 19,
+      "wuxing": "火",
+      "notes": "郑氏",
+      "common": true
+    },
+    {
+      "surname": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "strokes_kangxi": 4,
+      "wuxing": "土",
+      "notes": "王为三横一竖，取土",
+      "common": true
+    },
+    {
+      "surname": "冯",
+      "traditional": "馮",
+      "pinyin": "féng",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "冯氏",
+      "common": true
+    },
+    {
+      "surname": "陈",
+      "traditional": "陳",
+      "pinyin": "chén",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "陈氏",
+      "common": true
+    },
+    {
+      "surname": "褚",
+      "traditional": "褚",
+      "pinyin": "chǔ",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "褚氏",
+      "common": true
+    },
+    {
+      "surname": "卫",
+      "traditional": "衛",
+      "pinyin": "wèi",
+      "strokes_kangxi": 15,
+      "wuxing": "土",
+      "notes": "卫氏",
+      "common": true
+    },
+    {
+      "surname": "蒋",
+      "traditional": "蔣",
+      "pinyin": "jiǎng",
+      "strokes_kangxi": 17,
+      "wuxing": "木",
+      "notes": "蒋氏",
+      "common": true
+    },
+    {
+      "surname": "沈",
+      "traditional": "沈",
+      "pinyin": "shěn",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "沈氏",
+      "common": true
+    },
+    {
+      "surname": "韩",
+      "traditional": "韓",
+      "pinyin": "hán",
+      "strokes_kangxi": 17,
+      "wuxing": "水",
+      "notes": "韩氏",
+      "common": true
+    },
+    {
+      "surname": "杨",
+      "traditional": "楊",
+      "pinyin": "yáng",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "杨氏",
+      "common": true
+    },
+    {
+      "surname": "朱",
+      "traditional": "朱",
+      "pinyin": "zhū",
+      "strokes_kangxi": 6,
+      "wuxing": "木",
+      "notes": "朱氏",
+      "common": true
+    },
+    {
+      "surname": "秦",
+      "traditional": "秦",
+      "pinyin": "qín",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "秦氏",
+      "common": true
+    },
+    {
+      "surname": "尤",
+      "traditional": "尤",
+      "pinyin": "yóu",
+      "strokes_kangxi": 4,
+      "wuxing": "土",
+      "notes": "尤氏",
+      "common": true
+    },
+    {
+      "surname": "许",
+      "traditional": "許",
+      "pinyin": "xǔ",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "许氏",
+      "common": true
+    },
+    {
+      "surname": "何",
+      "traditional": "何",
+      "pinyin": "hé",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "何氏",
+      "common": true
+    },
+    {
+      "surname": "吕",
+      "traditional": "呂",
+      "pinyin": "lǚ",
+      "strokes_kangxi": 7,
+      "wuxing": "火",
+      "notes": "吕氏",
+      "common": true
+    },
+    {
+      "surname": "施",
+      "traditional": "施",
+      "pinyin": "shī",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "施氏",
+      "common": true
+    },
+    {
+      "surname": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "张氏",
+      "common": true
+    },
+    {
+      "surname": "孔",
+      "traditional": "孔",
+      "pinyin": "kǒng",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "孔子后裔",
+      "common": true
+    },
+    {
+      "surname": "曹",
+      "traditional": "曹",
+      "pinyin": "cáo",
+      "strokes_kangxi": 11,
+      "wuxing": "金",
+      "notes": "曹氏",
+      "common": true
+    },
+    {
+      "surname": "严",
+      "traditional": "嚴",
+      "pinyin": "yán",
+      "strokes_kangxi": 20,
+      "wuxing": "木",
+      "notes": "严氏",
+      "common": true
+    },
+    {
+      "surname": "华",
+      "traditional": "華",
+      "pinyin": "huá",
+      "strokes_kangxi": 14,
+      "wuxing": "水",
+      "notes": "华氏",
+      "common": true
+    },
+    {
+      "surname": "金",
+      "traditional": "金",
+      "pinyin": "jīn",
+      "strokes_kangxi": 8,
+      "wuxing": "金",
+      "notes": "金氏",
+      "common": true
+    },
+    {
+      "surname": "魏",
+      "traditional": "魏",
+      "pinyin": "wèi",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "魏氏",
+      "common": true
+    },
+    {
+      "surname": "陶",
+      "traditional": "陶",
+      "pinyin": "táo",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "陶氏",
+      "common": true
+    },
+    {
+      "surname": "姜",
+      "traditional": "姜",
+      "pinyin": "jiāng",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "姜氏",
+      "common": true
+    },
+    {
+      "surname": "戚",
+      "traditional": "戚",
+      "pinyin": "qī",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "戚氏",
+      "common": true
+    },
+    {
+      "surname": "谢",
+      "traditional": "謝",
+      "pinyin": "xiè",
+      "strokes_kangxi": 17,
+      "wuxing": "金",
+      "notes": "谢氏",
+      "common": true
+    },
+    {
+      "surname": "邹",
+      "traditional": "鄒",
+      "pinyin": "zōu",
+      "strokes_kangxi": 17,
+      "wuxing": "火",
+      "notes": "邹氏",
+      "common": true
+    },
+    {
+      "surname": "喻",
+      "traditional": "喻",
+      "pinyin": "yù",
+      "strokes_kangxi": 12,
+      "wuxing": "金",
+      "notes": "喻氏",
+      "common": true
+    },
+    {
+      "surname": "柏",
+      "traditional": "柏",
+      "pinyin": "bǎi",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "柏氏",
+      "common": true
+    },
+    {
+      "surname": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "strokes_kangxi": 4,
+      "wuxing": "水",
+      "notes": "水氏",
+      "common": true
+    },
+    {
+      "surname": "窦",
+      "traditional": "竇",
+      "pinyin": "dòu",
+      "strokes_kangxi": 20,
+      "wuxing": "火",
+      "notes": "窦氏",
+      "common": true
+    },
+    {
+      "surname": "章",
+      "traditional": "章",
+      "pinyin": "zhāng",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "章氏",
+      "common": true
+    },
+    {
+      "surname": "云",
+      "traditional": "雲",
+      "pinyin": "yún",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "云氏",
+      "common": true
+    },
+    {
+      "surname": "苏",
+      "traditional": "蘇",
+      "pinyin": "sū",
+      "strokes_kangxi": 22,
+      "wuxing": "木",
+      "notes": "苏氏",
+      "common": true
+    },
+    {
+      "surname": "潘",
+      "traditional": "潘",
+      "pinyin": "pān",
+      "strokes_kangxi": 16,
+      "wuxing": "水",
+      "notes": "潘氏",
+      "common": true
+    },
+    {
+      "surname": "葛",
+      "traditional": "葛",
+      "pinyin": "gě",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "葛氏",
+      "common": true
+    },
+    {
+      "surname": "奚",
+      "traditional": "奚",
+      "pinyin": "xī",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "奚氏",
+      "common": true
+    },
+    {
+      "surname": "范",
+      "traditional": "範",
+      "pinyin": "fàn",
+      "strokes_kangxi": 15,
+      "wuxing": "水",
+      "notes": "范氏",
+      "common": true
+    },
+    {
+      "surname": "彭",
+      "traditional": "彭",
+      "pinyin": "péng",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "彭氏",
+      "common": true
+    },
+    {
+      "surname": "郎",
+      "traditional": "郎",
+      "pinyin": "láng",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "郎氏",
+      "common": true
+    },
+    {
+      "surname": "鲁",
+      "traditional": "魯",
+      "pinyin": "lǔ",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "鲁氏",
+      "common": true
+    },
+    {
+      "surname": "韦",
+      "traditional": "韋",
+      "pinyin": "wéi",
+      "strokes_kangxi": 9,
+      "wuxing": "土",
+      "notes": "韦氏",
+      "common": true
+    },
+    {
+      "surname": "昌",
+      "traditional": "昌",
+      "pinyin": "chāng",
+      "strokes_kangxi": 8,
+      "wuxing": "火",
+      "notes": "昌氏",
+      "common": true
+    },
+    {
+      "surname": "马",
+      "traditional": "馬",
+      "pinyin": "mǎ",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "马氏",
+      "common": true
+    },
+    {
+      "surname": "苗",
+      "traditional": "苗",
+      "pinyin": "miáo",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "苗氏",
+      "common": true
+    },
+    {
+      "surname": "凤",
+      "traditional": "鳳",
+      "pinyin": "fèng",
+      "strokes_kangxi": 14,
+      "wuxing": "水",
+      "notes": "凤氏",
+      "common": true
+    },
+    {
+      "surname": "花",
+      "traditional": "花",
+      "pinyin": "huā",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "花氏",
+      "common": true
+    },
+    {
+      "surname": "方",
+      "traditional": "方",
+      "pinyin": "fāng",
+      "strokes_kangxi": 4,
+      "wuxing": "水",
+      "notes": "方氏",
+      "common": true
+    },
+    {
+      "surname": "俞",
+      "traditional": "俞",
+      "pinyin": "yú",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "俞氏",
+      "common": true
+    },
+    {
+      "surname": "任",
+      "traditional": "任",
+      "pinyin": "rén",
+      "strokes_kangxi": 6,
+      "wuxing": "金",
+      "notes": "任氏",
+      "common": true
+    },
+    {
+      "surname": "袁",
+      "traditional": "袁",
+      "pinyin": "yuán",
+      "strokes_kangxi": 10,
+      "wuxing": "土",
+      "notes": "袁氏",
+      "common": true
+    },
+    {
+      "surname": "柳",
+      "traditional": "柳",
+      "pinyin": "liǔ",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "柳氏",
+      "common": true
+    },
+    {
+      "surname": "鲍",
+      "traditional": "鮑",
+      "pinyin": "bào",
+      "strokes_kangxi": 16,
+      "wuxing": "水",
+      "notes": "鲍氏",
+      "common": true
+    },
+    {
+      "surname": "史",
+      "traditional": "史",
+      "pinyin": "shǐ",
+      "strokes_kangxi": 5,
+      "wuxing": "金",
+      "notes": "史氏",
+      "common": true
+    },
+    {
+      "surname": "唐",
+      "traditional": "唐",
+      "pinyin": "táng",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "唐氏",
+      "common": true
+    },
+    {
+      "surname": "费",
+      "traditional": "費",
+      "pinyin": "fèi",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "费氏",
+      "common": true
+    },
+    {
+      "surname": "廉",
+      "traditional": "廉",
+      "pinyin": "lián",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "廉氏",
+      "common": true
+    },
+    {
+      "surname": "岑",
+      "traditional": "岑",
+      "pinyin": "cén",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "岑氏",
+      "common": true
+    },
+    {
+      "surname": "薛",
+      "traditional": "薛",
+      "pinyin": "xuē",
+      "strokes_kangxi": 19,
+      "wuxing": "木",
+      "notes": "薛氏",
+      "common": true
+    },
+    {
+      "surname": "雷",
+      "traditional": "雷",
+      "pinyin": "léi",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "雷氏",
+      "common": true
+    },
+    {
+      "surname": "贺",
+      "traditional": "賀",
+      "pinyin": "hè",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "贺氏",
+      "common": true
+    },
+    {
+      "surname": "倪",
+      "traditional": "倪",
+      "pinyin": "ní",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "倪氏",
+      "common": true
+    },
+    {
+      "surname": "汤",
+      "traditional": "湯",
+      "pinyin": "tāng",
+      "strokes_kangxi": 13,
+      "wuxing": "水",
+      "notes": "汤氏",
+      "common": true
+    },
+    {
+      "surname": "滕",
+      "traditional": "滕",
+      "pinyin": "téng",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "滕氏",
+      "common": true
+    },
+    {
+      "surname": "殷",
+      "traditional": "殷",
+      "pinyin": "yīn",
+      "strokes_kangxi": 10,
+      "wuxing": "土",
+      "notes": "殷氏",
+      "common": true
+    },
+    {
+      "surname": "罗",
+      "traditional": "羅",
+      "pinyin": "luó",
+      "strokes_kangxi": 20,
+      "wuxing": "火",
+      "notes": "罗氏",
+      "common": true
+    },
+    {
+      "surname": "毕",
+      "traditional": "畢",
+      "pinyin": "bì",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "毕氏",
+      "common": true
+    },
+    {
+      "surname": "郝",
+      "traditional": "郝",
+      "pinyin": "hǎo",
+      "strokes_kangxi": 14,
+      "wuxing": "金",
+      "notes": "郝氏",
+      "common": true
+    },
+    {
+      "surname": "邬",
+      "traditional": "鄔",
+      "pinyin": "wū",
+      "strokes_kangxi": 17,
+      "wuxing": "土",
+      "notes": "邬氏",
+      "common": true
+    },
+    {
+      "surname": "安",
+      "traditional": "安",
+      "pinyin": "ān",
+      "strokes_kangxi": 6,
+      "wuxing": "土",
+      "notes": "安氏",
+      "common": true
+    },
+    {
+      "surname": "常",
+      "traditional": "常",
+      "pinyin": "cháng",
+      "strokes_kangxi": 11,
+      "wuxing": "金",
+      "notes": "常氏",
+      "common": true
+    },
+    {
+      "surname": "乐",
+      "traditional": "樂",
+      "pinyin": "lè",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "乐氏",
+      "common": true
+    },
+    {
+      "surname": "于",
+      "traditional": "于",
+      "pinyin": "yú",
+      "strokes_kangxi": 3,
+      "wuxing": "土",
+      "notes": "于氏",
+      "common": true
+    },
+    {
+      "surname": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "时氏",
+      "common": true
+    },
+    {
+      "surname": "傅",
+      "traditional": "傅",
+      "pinyin": "fù",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "傅氏",
+      "common": true
+    },
+    {
+      "surname": "皮",
+      "traditional": "皮",
+      "pinyin": "pí",
+      "strokes_kangxi": 5,
+      "wuxing": "水",
+      "notes": "皮氏",
+      "common": true
+    },
+    {
+      "surname": "卞",
+      "traditional": "卞",
+      "pinyin": "biàn",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "卞氏",
+      "common": true
+    },
+    {
+      "surname": "齐",
+      "traditional": "齊",
+      "pinyin": "qí",
+      "strokes_kangxi": 14,
+      "wuxing": "金",
+      "notes": "齐氏",
+      "common": true
+    },
+    {
+      "surname": "康",
+      "traditional": "康",
+      "pinyin": "kāng",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "康氏",
+      "common": true
+    },
+    {
+      "surname": "伍",
+      "traditional": "伍",
+      "pinyin": "wǔ",
+      "strokes_kangxi": 6,
+      "wuxing": "土",
+      "notes": "伍氏",
+      "common": true
+    },
+    {
+      "surname": "余",
+      "traditional": "余",
+      "pinyin": "yú",
+      "strokes_kangxi": 7,
+      "wuxing": "土",
+      "notes": "余氏",
+      "common": true
+    },
+    {
+      "surname": "元",
+      "traditional": "元",
+      "pinyin": "yuán",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "元氏",
+      "common": true
+    },
+    {
+      "surname": "卜",
+      "traditional": "卜",
+      "pinyin": "bǔ",
+      "strokes_kangxi": 2,
+      "wuxing": "水",
+      "notes": "卜氏",
+      "common": true
+    },
+    {
+      "surname": "顾",
+      "traditional": "顧",
+      "pinyin": "gù",
+      "strokes_kangxi": 21,
+      "wuxing": "木",
+      "notes": "顾氏",
+      "common": true
+    },
+    {
+      "surname": "孟",
+      "traditional": "孟",
+      "pinyin": "mèng",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "孟氏",
+      "common": true
+    },
+    {
+      "surname": "平",
+      "traditional": "平",
+      "pinyin": "píng",
+      "strokes_kangxi": 5,
+      "wuxing": "水",
+      "notes": "平氏",
+      "common": true
+    },
+    {
+      "surname": "黄",
+      "traditional": "黃",
+      "pinyin": "huáng",
+      "strokes_kangxi": 12,
+      "wuxing": "土",
+      "notes": "黄氏",
+      "common": true
+    },
+    {
+      "surname": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "strokes_kangxi": 8,
+      "wuxing": "土",
+      "notes": "和氏",
+      "common": true
+    },
+    {
+      "surname": "穆",
+      "traditional": "穆",
+      "pinyin": "mù",
+      "strokes_kangxi": 16,
+      "wuxing": "木",
+      "notes": "穆氏",
+      "common": true
+    },
+    {
+      "surname": "萧",
+      "traditional": "蕭",
+      "pinyin": "xiāo",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "萧氏",
+      "common": true
+    },
+    {
+      "surname": "尹",
+      "traditional": "尹",
+      "pinyin": "yǐn",
+      "strokes_kangxi": 4,
+      "wuxing": "土",
+      "notes": "尹氏",
+      "common": true
+    },
+    {
+      "surname": "姚",
+      "traditional": "姚",
+      "pinyin": "yáo",
+      "strokes_kangxi": 9,
+      "wuxing": "土",
+      "notes": "姚氏",
+      "common": true
+    },
+    {
+      "surname": "邵",
+      "traditional": "邵",
+      "pinyin": "shào",
+      "strokes_kangxi": 12,
+      "wuxing": "金",
+      "notes": "邵氏",
+      "common": true
+    },
+    {
+      "surname": "湛",
+      "traditional": "湛",
+      "pinyin": "zhàn",
+      "strokes_kangxi": 13,
+      "wuxing": "水",
+      "notes": "湛氏",
+      "common": true
+    },
+    {
+      "surname": "汪",
+      "traditional": "汪",
+      "pinyin": "wāng",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "汪氏",
+      "common": true
+    },
+    {
+      "surname": "祁",
+      "traditional": "祁",
+      "pinyin": "qí",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "祁氏",
+      "common": true
+    },
+    {
+      "surname": "毛",
+      "traditional": "毛",
+      "pinyin": "máo",
+      "strokes_kangxi": 4,
+      "wuxing": "水",
+      "notes": "毛氏",
+      "common": true
+    },
+    {
+      "surname": "禹",
+      "traditional": "禹",
+      "pinyin": "yǔ",
+      "strokes_kangxi": 9,
+      "wuxing": "土",
+      "notes": "禹氏",
+      "common": true
+    },
+    {
+      "surname": "狄",
+      "traditional": "狄",
+      "pinyin": "dí",
+      "strokes_kangxi": 8,
+      "wuxing": "火",
+      "notes": "狄氏",
+      "common": true
+    },
+    {
+      "surname": "米",
+      "traditional": "米",
+      "pinyin": "mǐ",
+      "strokes_kangxi": 6,
+      "wuxing": "水",
+      "notes": "米氏",
+      "common": true
+    },
+    {
+      "surname": "贝",
+      "traditional": "貝",
+      "pinyin": "bèi",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "贝氏",
+      "common": true
+    },
+    {
+      "surname": "明",
+      "traditional": "明",
+      "pinyin": "míng",
+      "strokes_kangxi": 8,
+      "wuxing": "火",
+      "notes": "明氏",
+      "common": true
+    },
+    {
+      "surname": "计",
+      "traditional": "計",
+      "pinyin": "jì",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "计氏",
+      "common": true
+    },
+    {
+      "surname": "成",
+      "traditional": "成",
+      "pinyin": "chéng",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "成氏",
+      "common": true
+    },
+    {
+      "surname": "戴",
+      "traditional": "戴",
+      "pinyin": "dài",
+      "strokes_kangxi": 18,
+      "wuxing": "火",
+      "notes": "戴氏",
+      "common": true
+    },
+    {
+      "surname": "谈",
+      "traditional": "談",
+      "pinyin": "tán",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "谈氏",
+      "common": true
+    },
+    {
+      "surname": "宋",
+      "traditional": "宋",
+      "pinyin": "sòng",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "宋氏",
+      "common": true
+    },
+    {
+      "surname": "茅",
+      "traditional": "茅",
+      "pinyin": "máo",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "茅氏",
+      "common": true
+    },
+    {
+      "surname": "庞",
+      "traditional": "龐",
+      "pinyin": "páng",
+      "strokes_kangxi": 19,
+      "wuxing": "火",
+      "notes": "庞氏",
+      "common": true
+    },
+    {
+      "surname": "熊",
+      "traditional": "熊",
+      "pinyin": "xióng",
+      "strokes_kangxi": 14,
+      "wuxing": "水",
+      "notes": "熊氏",
+      "common": true
+    },
+    {
+      "surname": "纪",
+      "traditional": "紀",
+      "pinyin": "jì",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "纪氏",
+      "common": true
+    },
+    {
+      "surname": "舒",
+      "traditional": "舒",
+      "pinyin": "shū",
+      "strokes_kangxi": 12,
+      "wuxing": "金",
+      "notes": "舒氏",
+      "common": true
+    },
+    {
+      "surname": "屈",
+      "traditional": "屈",
+      "pinyin": "qū",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "屈氏",
+      "common": true
+    },
+    {
+      "surname": "项",
+      "traditional": "項",
+      "pinyin": "xiàng",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "项氏",
+      "common": true
+    },
+    {
+      "surname": "祝",
+      "traditional": "祝",
+      "pinyin": "zhù",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "祝氏",
+      "common": true
+    },
+    {
+      "surname": "董",
+      "traditional": "董",
+      "pinyin": "dǒng",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "董氏",
+      "common": true
+    },
+    {
+      "surname": "梁",
+      "traditional": "梁",
+      "pinyin": "liáng",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "梁氏",
+      "common": true
+    },
+    {
+      "surname": "杜",
+      "traditional": "杜",
+      "pinyin": "dù",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "杜氏",
+      "common": true
+    },
+    {
+      "surname": "阮",
+      "traditional": "阮",
+      "pinyin": "ruǎn",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "阮氏",
+      "common": true
+    },
+    {
+      "surname": "蓝",
+      "traditional": "藍",
+      "pinyin": "lán",
+      "strokes_kangxi": 20,
+      "wuxing": "木",
+      "notes": "蓝氏",
+      "common": true
+    },
+    {
+      "surname": "闵",
+      "traditional": "閔",
+      "pinyin": "mǐn",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "闵氏",
+      "common": true
+    },
+    {
+      "surname": "席",
+      "traditional": "席",
+      "pinyin": "xí",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "席氏",
+      "common": true
+    },
+    {
+      "surname": "季",
+      "traditional": "季",
+      "pinyin": "jì",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "季氏",
+      "common": true
+    },
+    {
+      "surname": "麻",
+      "traditional": "麻",
+      "pinyin": "má",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "麻氏",
+      "common": true
+    },
+    {
+      "surname": "强",
+      "traditional": "強",
+      "pinyin": "qiáng",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "强氏",
+      "common": true
+    },
+    {
+      "surname": "贾",
+      "traditional": "賈",
+      "pinyin": "jiǎ",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "贾氏",
+      "common": true
+    },
+    {
+      "surname": "路",
+      "traditional": "路",
+      "pinyin": "lù",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "路氏",
+      "common": true
+    },
+    {
+      "surname": "娄",
+      "traditional": "婁",
+      "pinyin": "lóu",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "娄氏",
+      "common": true
+    },
+    {
+      "surname": "危",
+      "traditional": "危",
+      "pinyin": "wēi",
+      "strokes_kangxi": 6,
+      "wuxing": "水",
+      "notes": "危氏",
+      "common": true
+    },
+    {
+      "surname": "江",
+      "traditional": "江",
+      "pinyin": "jiāng",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "江氏",
+      "common": true
+    },
+    {
+      "surname": "童",
+      "traditional": "童",
+      "pinyin": "tóng",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "童氏",
+      "common": true
+    },
+    {
+      "surname": "颜",
+      "traditional": "顏",
+      "pinyin": "yán",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "颜氏",
+      "common": true
+    },
+    {
+      "surname": "郭",
+      "traditional": "郭",
+      "pinyin": "guō",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "郭氏",
+      "common": true
+    },
+    {
+      "surname": "梅",
+      "traditional": "梅",
+      "pinyin": "méi",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "梅氏",
+      "common": true
+    },
+    {
+      "surname": "盛",
+      "traditional": "盛",
+      "pinyin": "shèng",
+      "strokes_kangxi": 11,
+      "wuxing": "金",
+      "notes": "盛氏",
+      "common": true
+    },
+    {
+      "surname": "林",
+      "traditional": "林",
+      "pinyin": "lín",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "林氏",
+      "common": true
+    },
+    {
+      "surname": "刁",
+      "traditional": "刁",
+      "pinyin": "diāo",
+      "strokes_kangxi": 2,
+      "wuxing": "火",
+      "notes": "刁氏",
+      "common": true
+    },
+    {
+      "surname": "钟",
+      "traditional": "鍾",
+      "pinyin": "zhōng",
+      "strokes_kangxi": 17,
+      "wuxing": "金",
+      "notes": "钟氏（钟灵毓秀用鍾）",
+      "common": true
+    },
+    {
+      "surname": "徐",
+      "traditional": "徐",
+      "pinyin": "xú",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "徐氏",
+      "common": true
+    },
+    {
+      "surname": "邱",
+      "traditional": "邱",
+      "pinyin": "qiū",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "邱氏",
+      "common": true
+    },
+    {
+      "surname": "骆",
+      "traditional": "駱",
+      "pinyin": "luò",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "骆氏",
+      "common": true
+    },
+    {
+      "surname": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "高氏",
+      "common": true
+    },
+    {
+      "surname": "夏",
+      "traditional": "夏",
+      "pinyin": "xià",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "夏氏",
+      "common": true
+    },
+    {
+      "surname": "蔡",
+      "traditional": "蔡",
+      "pinyin": "cài",
+      "strokes_kangxi": 17,
+      "wuxing": "木",
+      "notes": "蔡氏",
+      "common": true
+    },
+    {
+      "surname": "田",
+      "traditional": "田",
+      "pinyin": "tián",
+      "strokes_kangxi": 5,
+      "wuxing": "火",
+      "notes": "田氏",
+      "common": true
+    },
+    {
+      "surname": "胡",
+      "traditional": "胡",
+      "pinyin": "hú",
+      "strokes_kangxi": 11,
+      "wuxing": "土",
+      "notes": "胡氏",
+      "common": true
+    },
+    {
+      "surname": "凌",
+      "traditional": "凌",
+      "pinyin": "líng",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "凌氏",
+      "common": true
+    },
+    {
+      "surname": "霍",
+      "traditional": "霍",
+      "pinyin": "huò",
+      "strokes_kangxi": 16,
+      "wuxing": "水",
+      "notes": "霍氏",
+      "common": true
+    },
+    {
+      "surname": "虞",
+      "traditional": "虞",
+      "pinyin": "yú",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "虞氏",
+      "common": true
+    },
+    {
+      "surname": "万",
+      "traditional": "萬",
+      "pinyin": "wàn",
+      "strokes_kangxi": 15,
+      "wuxing": "水",
+      "notes": "万氏",
+      "common": true
+    },
+    {
+      "surname": "支",
+      "traditional": "支",
+      "pinyin": "zhī",
+      "strokes_kangxi": 4,
+      "wuxing": "火",
+      "notes": "支氏",
+      "common": true
+    },
+    {
+      "surname": "柯",
+      "traditional": "柯",
+      "pinyin": "kē",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "柯氏",
+      "common": true
+    },
+    {
+      "surname": "管",
+      "traditional": "管",
+      "pinyin": "guǎn",
+      "strokes_kangxi": 14,
+      "wuxing": "木",
+      "notes": "管氏",
+      "common": true
+    },
+    {
+      "surname": "卢",
+      "traditional": "盧",
+      "pinyin": "lú",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "卢氏",
+      "common": true
+    },
+    {
+      "surname": "莫",
+      "traditional": "莫",
+      "pinyin": "mò",
+      "strokes_kangxi": 13,
+      "wuxing": "水",
+      "notes": "莫氏",
+      "common": true
+    },
+    {
+      "surname": "经",
+      "traditional": "經",
+      "pinyin": "jīng",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "经氏",
+      "common": true
+    },
+    {
+      "surname": "房",
+      "traditional": "房",
+      "pinyin": "fáng",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "房氏",
+      "common": true
+    },
+    {
+      "surname": "裘",
+      "traditional": "裘",
+      "pinyin": "qiú",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "裘氏",
+      "common": true
+    },
+    {
+      "surname": "缪",
+      "traditional": "繆",
+      "pinyin": "miào",
+      "strokes_kangxi": 17,
+      "wuxing": "火",
+      "notes": "缪氏",
+      "common": true
+    },
+    {
+      "surname": "干",
+      "traditional": "干",
+      "pinyin": "gān",
+      "strokes_kangxi": 3,
+      "wuxing": "木",
+      "notes": "干氏",
+      "common": true
+    },
+    {
+      "surname": "解",
+      "traditional": "解",
+      "pinyin": "xiè",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "解氏",
+      "common": true
+    },
+    {
+      "surname": "应",
+      "traditional": "應",
+      "pinyin": "yīng",
+      "strokes_kangxi": 17,
+      "wuxing": "土",
+      "notes": "应氏",
+      "common": true
+    },
+    {
+      "surname": "宗",
+      "traditional": "宗",
+      "pinyin": "zōng",
+      "strokes_kangxi": 8,
+      "wuxing": "金",
+      "notes": "宗氏",
+      "common": true
+    },
+    {
+      "surname": "丁",
+      "traditional": "丁",
+      "pinyin": "dīng",
+      "strokes_kangxi": 2,
+      "wuxing": "火",
+      "notes": "丁氏",
+      "common": true
+    },
+    {
+      "surname": "宣",
+      "traditional": "宣",
+      "pinyin": "xuān",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "宣氏",
+      "common": true
+    },
+    {
+      "surname": "邓",
+      "traditional": "鄧",
+      "pinyin": "dèng",
+      "strokes_kangxi": 19,
+      "wuxing": "火",
+      "notes": "邓氏",
+      "common": true
+    },
+    {
+      "surname": "郁",
+      "traditional": "鬱",
+      "pinyin": "yù",
+      "strokes_kangxi": 29,
+      "wuxing": "水",
+      "notes": "郁姓笔画有13画(本字)与29画(鬱)两说，常用按13画",
+      "common": true
+    },
+    {
+      "surname": "单",
+      "traditional": "單",
+      "pinyin": "shàn",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "单氏",
+      "common": true
+    },
+    {
+      "surname": "杭",
+      "traditional": "杭",
+      "pinyin": "háng",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "杭氏",
+      "common": true
+    },
+    {
+      "surname": "洪",
+      "traditional": "洪",
+      "pinyin": "hóng",
+      "strokes_kangxi": 10,
+      "wuxing": "水",
+      "notes": "洪氏",
+      "common": true
+    },
+    {
+      "surname": "包",
+      "traditional": "包",
+      "pinyin": "bāo",
+      "strokes_kangxi": 5,
+      "wuxing": "水",
+      "notes": "包氏",
+      "common": true
+    },
+    {
+      "surname": "诸",
+      "traditional": "諸",
+      "pinyin": "zhū",
+      "strokes_kangxi": 16,
+      "wuxing": "金",
+      "notes": "诸氏",
+      "common": true
+    },
+    {
+      "surname": "左",
+      "traditional": "左",
+      "pinyin": "zuǒ",
+      "strokes_kangxi": 5,
+      "wuxing": "火",
+      "notes": "左氏",
+      "common": true
+    },
+    {
+      "surname": "石",
+      "traditional": "石",
+      "pinyin": "shí",
+      "strokes_kangxi": 5,
+      "wuxing": "金",
+      "notes": "石氏",
+      "common": true
+    },
+    {
+      "surname": "崔",
+      "traditional": "崔",
+      "pinyin": "cuī",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "崔氏",
+      "common": true
+    },
+    {
+      "surname": "吉",
+      "traditional": "吉",
+      "pinyin": "jí",
+      "strokes_kangxi": 6,
+      "wuxing": "木",
+      "notes": "吉氏",
+      "common": true
+    },
+    {
+      "surname": "龚",
+      "traditional": "龔",
+      "pinyin": "gōng",
+      "strokes_kangxi": 22,
+      "wuxing": "木",
+      "notes": "龚氏",
+      "common": true
+    },
+    {
+      "surname": "程",
+      "traditional": "程",
+      "pinyin": "chéng",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "程氏",
+      "common": true
+    },
+    {
+      "surname": "嵇",
+      "traditional": "嵇",
+      "pinyin": "jī",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "嵇氏",
+      "common": true
+    },
+    {
+      "surname": "邢",
+      "traditional": "邢",
+      "pinyin": "xíng",
+      "strokes_kangxi": 11,
+      "wuxing": "金",
+      "notes": "邢氏",
+      "common": true
+    },
+    {
+      "surname": "滑",
+      "traditional": "滑",
+      "pinyin": "huá",
+      "strokes_kangxi": 13,
+      "wuxing": "水",
+      "notes": "滑氏",
+      "common": true
+    },
+    {
+      "surname": "裴",
+      "traditional": "裴",
+      "pinyin": "péi",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "裴氏",
+      "common": true
+    },
+    {
+      "surname": "陆",
+      "traditional": "陸",
+      "pinyin": "lù",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "陆氏",
+      "common": true
+    },
+    {
+      "surname": "荣",
+      "traditional": "榮",
+      "pinyin": "róng",
+      "strokes_kangxi": 14,
+      "wuxing": "木",
+      "notes": "荣氏",
+      "common": true
+    },
+    {
+      "surname": "翁",
+      "traditional": "翁",
+      "pinyin": "wēng",
+      "strokes_kangxi": 10,
+      "wuxing": "土",
+      "notes": "翁氏",
+      "common": true
+    },
+    {
+      "surname": "荀",
+      "traditional": "荀",
+      "pinyin": "xún",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "荀氏",
+      "common": true
+    },
+    {
+      "surname": "羊",
+      "traditional": "羊",
+      "pinyin": "yáng",
+      "strokes_kangxi": 6,
+      "wuxing": "土",
+      "notes": "羊氏",
+      "common": true
+    },
+    {
+      "surname": "惠",
+      "traditional": "惠",
+      "pinyin": "huì",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "惠氏",
+      "common": true
+    },
+    {
+      "surname": "甄",
+      "traditional": "甄",
+      "pinyin": "zhēn",
+      "strokes_kangxi": 14,
+      "wuxing": "金",
+      "notes": "甄氏",
+      "common": true
+    },
+    {
+      "surname": "曲",
+      "traditional": "曲",
+      "pinyin": "qū",
+      "strokes_kangxi": 6,
+      "wuxing": "木",
+      "notes": "曲氏",
+      "common": true
+    },
+    {
+      "surname": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "家氏",
+      "common": true
+    },
+    {
+      "surname": "封",
+      "traditional": "封",
+      "pinyin": "fēng",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "封氏",
+      "common": true
+    },
+    {
+      "surname": "芮",
+      "traditional": "芮",
+      "pinyin": "ruì",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "芮氏",
+      "common": true
+    },
+    {
+      "surname": "羿",
+      "traditional": "羿",
+      "pinyin": "yì",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "羿氏",
+      "common": true
+    },
+    {
+      "surname": "储",
+      "traditional": "儲",
+      "pinyin": "chǔ",
+      "strokes_kangxi": 18,
+      "wuxing": "金",
+      "notes": "储氏",
+      "common": true
+    },
+    {
+      "surname": "靳",
+      "traditional": "靳",
+      "pinyin": "jìn",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "靳氏",
+      "common": true
+    },
+    {
+      "surname": "汲",
+      "traditional": "汲",
+      "pinyin": "jí",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "汲氏",
+      "common": true
+    },
+    {
+      "surname": "邴",
+      "traditional": "邴",
+      "pinyin": "bǐng",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "邴氏",
+      "common": true
+    },
+    {
+      "surname": "糜",
+      "traditional": "糜",
+      "pinyin": "mí",
+      "strokes_kangxi": 17,
+      "wuxing": "火",
+      "notes": "糜氏",
+      "common": true
+    },
+    {
+      "surname": "松",
+      "traditional": "松",
+      "pinyin": "sōng",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "松氏",
+      "common": true
+    },
+    {
+      "surname": "井",
+      "traditional": "井",
+      "pinyin": "jǐng",
+      "strokes_kangxi": 4,
+      "wuxing": "火",
+      "notes": "井氏",
+      "common": true
+    },
+    {
+      "surname": "段",
+      "traditional": "段",
+      "pinyin": "duàn",
+      "strokes_kangxi": 9,
+      "wuxing": "火",
+      "notes": "段氏",
+      "common": true
+    },
+    {
+      "surname": "富",
+      "traditional": "富",
+      "pinyin": "fù",
+      "strokes_kangxi": 12,
+      "wuxing": "水",
+      "notes": "富氏",
+      "common": true
+    },
+    {
+      "surname": "巫",
+      "traditional": "巫",
+      "pinyin": "wū",
+      "strokes_kangxi": 7,
+      "wuxing": "火",
+      "notes": "巫氏",
+      "common": true
+    },
+    {
+      "surname": "乌",
+      "traditional": "烏",
+      "pinyin": "wū",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "乌氏",
+      "common": true
+    },
+    {
+      "surname": "焦",
+      "traditional": "焦",
+      "pinyin": "jiāo",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "焦氏",
+      "common": true
+    },
+    {
+      "surname": "巴",
+      "traditional": "巴",
+      "pinyin": "bā",
+      "strokes_kangxi": 4,
+      "wuxing": "水",
+      "notes": "巴氏",
+      "common": true
+    },
+    {
+      "surname": "弓",
+      "traditional": "弓",
+      "pinyin": "gōng",
+      "strokes_kangxi": 3,
+      "wuxing": "木",
+      "notes": "弓氏",
+      "common": true
+    },
+    {
+      "surname": "牧",
+      "traditional": "牧",
+      "pinyin": "mù",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "牧氏",
+      "common": true
+    },
+    {
+      "surname": "隗",
+      "traditional": "隗",
+      "pinyin": "kuí",
+      "strokes_kangxi": 14,
+      "wuxing": "土",
+      "notes": "隗氏",
+      "common": true
+    },
+    {
+      "surname": "山",
+      "traditional": "山",
+      "pinyin": "shān",
+      "strokes_kangxi": 3,
+      "wuxing": "土",
+      "notes": "山氏",
+      "common": true
+    },
+    {
+      "surname": "谷",
+      "traditional": "谷",
+      "pinyin": "gǔ",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "谷氏",
+      "common": true
+    },
+    {
+      "surname": "车",
+      "traditional": "車",
+      "pinyin": "chē",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "车氏",
+      "common": true
+    },
+    {
+      "surname": "侯",
+      "traditional": "侯",
+      "pinyin": "hóu",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "侯氏",
+      "common": true
+    },
+    {
+      "surname": "全",
+      "traditional": "全",
+      "pinyin": "quán",
+      "strokes_kangxi": 6,
+      "wuxing": "火",
+      "notes": "全氏",
+      "common": true
+    },
+    {
+      "surname": "班",
+      "traditional": "班",
+      "pinyin": "bān",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "班氏",
+      "common": true
+    },
+    {
+      "surname": "仰",
+      "traditional": "仰",
+      "pinyin": "yǎng",
+      "strokes_kangxi": 6,
+      "wuxing": "木",
+      "notes": "仰氏",
+      "common": true
+    },
+    {
+      "surname": "秋",
+      "traditional": "秋",
+      "pinyin": "qiū",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "秋氏",
+      "common": true
+    },
+    {
+      "surname": "仲",
+      "traditional": "仲",
+      "pinyin": "zhòng",
+      "strokes_kangxi": 6,
+      "wuxing": "火",
+      "notes": "仲氏",
+      "common": true
+    },
+    {
+      "surname": "伊",
+      "traditional": "伊",
+      "pinyin": "yī",
+      "strokes_kangxi": 6,
+      "wuxing": "土",
+      "notes": "伊氏",
+      "common": true
+    },
+    {
+      "surname": "宫",
+      "traditional": "宮",
+      "pinyin": "gōng",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "宫氏",
+      "common": true
+    },
+    {
+      "surname": "宁",
+      "traditional": "寧",
+      "pinyin": "níng",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "宁氏",
+      "common": true
+    },
+    {
+      "surname": "仇",
+      "traditional": "仇",
+      "pinyin": "qiú",
+      "strokes_kangxi": 4,
+      "wuxing": "金",
+      "notes": "仇氏",
+      "common": true
+    },
+    {
+      "surname": "栾",
+      "traditional": "欒",
+      "pinyin": "luán",
+      "strokes_kangxi": 23,
+      "wuxing": "火",
+      "notes": "栾氏",
+      "common": true
+    },
+    {
+      "surname": "暴",
+      "traditional": "暴",
+      "pinyin": "bào",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "暴氏",
+      "common": true
+    },
+    {
+      "surname": "甘",
+      "traditional": "甘",
+      "pinyin": "gān",
+      "strokes_kangxi": 5,
+      "wuxing": "木",
+      "notes": "甘氏",
+      "common": true
+    },
+    {
+      "surname": "厉",
+      "traditional": "厲",
+      "pinyin": "lì",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "厉氏",
+      "common": true
+    },
+    {
+      "surname": "戎",
+      "traditional": "戎",
+      "pinyin": "róng",
+      "strokes_kangxi": 6,
+      "wuxing": "木",
+      "notes": "戎氏",
+      "common": true
+    },
+    {
+      "surname": "祖",
+      "traditional": "祖",
+      "pinyin": "zǔ",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "祖氏",
+      "common": true
+    },
+    {
+      "surname": "武",
+      "traditional": "武",
+      "pinyin": "wǔ",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "武氏",
+      "common": true
+    },
+    {
+      "surname": "符",
+      "traditional": "符",
+      "pinyin": "fú",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "符氏",
+      "common": true
+    },
+    {
+      "surname": "刘",
+      "traditional": "劉",
+      "pinyin": "liú",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "刘氏",
+      "common": true
+    },
+    {
+      "surname": "景",
+      "traditional": "景",
+      "pinyin": "jǐng",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "景氏",
+      "common": true
+    },
+    {
+      "surname": "詹",
+      "traditional": "詹",
+      "pinyin": "zhān",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "詹氏",
+      "common": true
+    },
+    {
+      "surname": "束",
+      "traditional": "束",
+      "pinyin": "shù",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "束氏",
+      "common": true
+    },
+    {
+      "surname": "龙",
+      "traditional": "龍",
+      "pinyin": "lóng",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "龙氏",
+      "common": true
+    },
+    {
+      "surname": "叶",
+      "traditional": "葉",
+      "pinyin": "yè",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "叶氏",
+      "common": true
+    },
+    {
+      "surname": "幸",
+      "traditional": "幸",
+      "pinyin": "xìng",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "幸氏",
+      "common": true
+    },
+    {
+      "surname": "司",
+      "traditional": "司",
+      "pinyin": "sī",
+      "strokes_kangxi": 5,
+      "wuxing": "金",
+      "notes": "司氏",
+      "common": true
+    },
+    {
+      "surname": "黎",
+      "traditional": "黎",
+      "pinyin": "lí",
+      "strokes_kangxi": 15,
+      "wuxing": "火",
+      "notes": "黎氏",
+      "common": true
+    },
+    {
+      "surname": "薄",
+      "traditional": "薄",
+      "pinyin": "bó",
+      "strokes_kangxi": 19,
+      "wuxing": "水",
+      "notes": "薄氏",
+      "common": true
+    },
+    {
+      "surname": "印",
+      "traditional": "印",
+      "pinyin": "yìn",
+      "strokes_kangxi": 6,
+      "wuxing": "水",
+      "notes": "印氏",
+      "common": true
+    },
+    {
+      "surname": "宿",
+      "traditional": "宿",
+      "pinyin": "sù",
+      "strokes_kangxi": 11,
+      "wuxing": "土",
+      "notes": "宿氏",
+      "common": true
+    },
+    {
+      "surname": "白",
+      "traditional": "白",
+      "pinyin": "bái",
+      "strokes_kangxi": 5,
+      "wuxing": "水",
+      "notes": "白氏",
+      "common": true
+    },
+    {
+      "surname": "怀",
+      "traditional": "懷",
+      "pinyin": "huái",
+      "strokes_kangxi": 20,
+      "wuxing": "水",
+      "notes": "怀氏",
+      "common": true
+    },
+    {
+      "surname": "蒲",
+      "traditional": "蒲",
+      "pinyin": "pú",
+      "strokes_kangxi": 16,
+      "wuxing": "水",
+      "notes": "蒲氏",
+      "common": true
+    },
+    {
+      "surname": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "从氏",
+      "common": true
+    },
+    {
+      "surname": "鄂",
+      "traditional": "鄂",
+      "pinyin": "è",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "鄂氏",
+      "common": true
+    },
+    {
+      "surname": "索",
+      "traditional": "索",
+      "pinyin": "suǒ",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "索氏",
+      "common": true
+    },
+    {
+      "surname": "咸",
+      "traditional": "咸",
+      "pinyin": "xián",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "咸氏",
+      "common": true
+    },
+    {
+      "surname": "籍",
+      "traditional": "籍",
+      "pinyin": "jí",
+      "strokes_kangxi": 20,
+      "wuxing": "木",
+      "notes": "籍氏",
+      "common": true
+    },
+    {
+      "surname": "赖",
+      "traditional": "賴",
+      "pinyin": "lài",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "赖氏",
+      "common": true
+    },
+    {
+      "surname": "卓",
+      "traditional": "卓",
+      "pinyin": "zhuó",
+      "strokes_kangxi": 8,
+      "wuxing": "火",
+      "notes": "卓氏",
+      "common": true
+    },
+    {
+      "surname": "蔺",
+      "traditional": "藺",
+      "pinyin": "lìn",
+      "strokes_kangxi": 22,
+      "wuxing": "木",
+      "notes": "蔺氏",
+      "common": true
+    },
+    {
+      "surname": "屠",
+      "traditional": "屠",
+      "pinyin": "tú",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "屠氏",
+      "common": true
+    },
+    {
+      "surname": "蒙",
+      "traditional": "蒙",
+      "pinyin": "méng",
+      "strokes_kangxi": 17,
+      "wuxing": "水",
+      "notes": "蒙氏",
+      "common": true
+    },
+    {
+      "surname": "池",
+      "traditional": "池",
+      "pinyin": "chí",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "池氏",
+      "common": true
+    },
+    {
+      "surname": "乔",
+      "traditional": "喬",
+      "pinyin": "qiáo",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "乔氏",
+      "common": true
+    },
+    {
+      "surname": "阴",
+      "traditional": "陰",
+      "pinyin": "yīn",
+      "strokes_kangxi": 17,
+      "wuxing": "土",
+      "notes": "阴氏",
+      "common": true
+    },
+    {
+      "surname": "胥",
+      "traditional": "胥",
+      "pinyin": "xū",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "胥氏",
+      "common": true
+    },
+    {
+      "surname": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "能氏",
+      "common": true
+    },
+    {
+      "surname": "苍",
+      "traditional": "蒼",
+      "pinyin": "cāng",
+      "strokes_kangxi": 16,
+      "wuxing": "木",
+      "notes": "苍氏",
+      "common": true
+    },
+    {
+      "surname": "双",
+      "traditional": "雙",
+      "pinyin": "shuāng",
+      "strokes_kangxi": 18,
+      "wuxing": "金",
+      "notes": "双氏",
+      "common": true
+    },
+    {
+      "surname": "闻",
+      "traditional": "聞",
+      "pinyin": "wén",
+      "strokes_kangxi": 14,
+      "wuxing": "水",
+      "notes": "闻氏",
+      "common": true
+    },
+    {
+      "surname": "莘",
+      "traditional": "莘",
+      "pinyin": "shēn",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "莘氏",
+      "common": true
+    },
+    {
+      "surname": "党",
+      "traditional": "黨",
+      "pinyin": "dǎng",
+      "strokes_kangxi": 20,
+      "wuxing": "火",
+      "notes": "党氏",
+      "common": true
+    },
+    {
+      "surname": "翟",
+      "traditional": "翟",
+      "pinyin": "zhái",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "翟氏",
+      "common": true
+    },
+    {
+      "surname": "谭",
+      "traditional": "譚",
+      "pinyin": "tán",
+      "strokes_kangxi": 19,
+      "wuxing": "火",
+      "notes": "谭氏",
+      "common": true
+    },
+    {
+      "surname": "贡",
+      "traditional": "貢",
+      "pinyin": "gòng",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "贡氏",
+      "common": true
+    },
+    {
+      "surname": "劳",
+      "traditional": "勞",
+      "pinyin": "láo",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "劳氏",
+      "common": true
+    },
+    {
+      "surname": "姬",
+      "traditional": "姬",
+      "pinyin": "jī",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "姬氏",
+      "common": true
+    },
+    {
+      "surname": "申",
+      "traditional": "申",
+      "pinyin": "shēn",
+      "strokes_kangxi": 5,
+      "wuxing": "金",
+      "notes": "申氏",
+      "common": true
+    },
+    {
+      "surname": "扶",
+      "traditional": "扶",
+      "pinyin": "fú",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "扶氏",
+      "common": true
+    },
+    {
+      "surname": "堵",
+      "traditional": "堵",
+      "pinyin": "dǔ",
+      "strokes_kangxi": 12,
+      "wuxing": "火",
+      "notes": "堵氏",
+      "common": true
+    },
+    {
+      "surname": "冉",
+      "traditional": "冉",
+      "pinyin": "rǎn",
+      "strokes_kangxi": 5,
+      "wuxing": "火",
+      "notes": "冉氏",
+      "common": true
+    },
+    {
+      "surname": "宰",
+      "traditional": "宰",
+      "pinyin": "zǎi",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "宰氏",
+      "common": true
+    },
+    {
+      "surname": "郦",
+      "traditional": "酈",
+      "pinyin": "lì",
+      "strokes_kangxi": 22,
+      "wuxing": "火",
+      "notes": "郦氏",
+      "common": true
+    },
+    {
+      "surname": "雍",
+      "traditional": "雍",
+      "pinyin": "yōng",
+      "strokes_kangxi": 13,
+      "wuxing": "土",
+      "notes": "雍氏",
+      "common": true
+    },
+    {
+      "surname": "璩",
+      "traditional": "璩",
+      "pinyin": "qú",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "璩氏",
+      "common": true
+    },
+    {
+      "surname": "桑",
+      "traditional": "桑",
+      "pinyin": "sāng",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "桑氏",
+      "common": true
+    },
+    {
+      "surname": "桂",
+      "traditional": "桂",
+      "pinyin": "guì",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "桂氏",
+      "common": true
+    },
+    {
+      "surname": "濮",
+      "traditional": "濮",
+      "pinyin": "pú",
+      "strokes_kangxi": 18,
+      "wuxing": "水",
+      "notes": "濮氏",
+      "common": true
+    },
+    {
+      "surname": "牛",
+      "traditional": "牛",
+      "pinyin": "niú",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "牛氏",
+      "common": true
+    },
+    {
+      "surname": "寿",
+      "traditional": "壽",
+      "pinyin": "shòu",
+      "strokes_kangxi": 14,
+      "wuxing": "金",
+      "notes": "寿氏",
+      "common": true
+    },
+    {
+      "surname": "通",
+      "traditional": "通",
+      "pinyin": "tōng",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "通氏",
+      "common": true
+    },
+    {
+      "surname": "边",
+      "traditional": "邊",
+      "pinyin": "biān",
+      "strokes_kangxi": 22,
+      "wuxing": "水",
+      "notes": "边氏",
+      "common": true
+    },
+    {
+      "surname": "扈",
+      "traditional": "扈",
+      "pinyin": "hù",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "扈氏",
+      "common": true
+    },
+    {
+      "surname": "燕",
+      "traditional": "燕",
+      "pinyin": "yàn",
+      "strokes_kangxi": 16,
+      "wuxing": "土",
+      "notes": "燕氏",
+      "common": true
+    },
+    {
+      "surname": "冀",
+      "traditional": "冀",
+      "pinyin": "jì",
+      "strokes_kangxi": 16,
+      "wuxing": "木",
+      "notes": "冀氏",
+      "common": true
+    },
+    {
+      "surname": "浦",
+      "traditional": "浦",
+      "pinyin": "pǔ",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "浦氏",
+      "common": true
+    },
+    {
+      "surname": "尚",
+      "traditional": "尚",
+      "pinyin": "shàng",
+      "strokes_kangxi": 8,
+      "wuxing": "金",
+      "notes": "尚氏",
+      "common": true
+    },
+    {
+      "surname": "农",
+      "traditional": "農",
+      "pinyin": "nóng",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "农氏",
+      "common": true
+    },
+    {
+      "surname": "温",
+      "traditional": "溫",
+      "pinyin": "wēn",
+      "strokes_kangxi": 13,
+      "wuxing": "土",
+      "notes": "温氏",
+      "common": true
+    },
+    {
+      "surname": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "别氏",
+      "common": true
+    },
+    {
+      "surname": "庄",
+      "traditional": "莊",
+      "pinyin": "zhuāng",
+      "strokes_kangxi": 13,
+      "wuxing": "金",
+      "notes": "庄氏",
+      "common": true
+    },
+    {
+      "surname": "晏",
+      "traditional": "晏",
+      "pinyin": "yàn",
+      "strokes_kangxi": 10,
+      "wuxing": "土",
+      "notes": "晏氏",
+      "common": true
+    },
+    {
+      "surname": "柴",
+      "traditional": "柴",
+      "pinyin": "chái",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "柴氏",
+      "common": true
+    },
+    {
+      "surname": "瞿",
+      "traditional": "瞿",
+      "pinyin": "qú",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "瞿氏",
+      "common": true
+    },
+    {
+      "surname": "阎",
+      "traditional": "閻",
+      "pinyin": "yán",
+      "strokes_kangxi": 16,
+      "wuxing": "木",
+      "notes": "阎氏",
+      "common": true
+    },
+    {
+      "surname": "充",
+      "traditional": "充",
+      "pinyin": "chōng",
+      "strokes_kangxi": 6,
+      "wuxing": "土",
+      "notes": "充氏",
+      "common": true
+    },
+    {
+      "surname": "慕",
+      "traditional": "慕",
+      "pinyin": "mù",
+      "strokes_kangxi": 15,
+      "wuxing": "水",
+      "notes": "慕氏",
+      "common": true
+    },
+    {
+      "surname": "连",
+      "traditional": "連",
+      "pinyin": "lián",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "连氏",
+      "common": true
+    },
+    {
+      "surname": "茹",
+      "traditional": "茹",
+      "pinyin": "rú",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "茹氏",
+      "common": true
+    },
+    {
+      "surname": "习",
+      "traditional": "習",
+      "pinyin": "xí",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "习氏",
+      "common": true
+    },
+    {
+      "surname": "宦",
+      "traditional": "宦",
+      "pinyin": "huàn",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "宦氏",
+      "common": true
+    },
+    {
+      "surname": "艾",
+      "traditional": "艾",
+      "pinyin": "ài",
+      "strokes_kangxi": 8,
+      "wuxing": "土",
+      "notes": "艾氏",
+      "common": true
+    },
+    {
+      "surname": "鱼",
+      "traditional": "魚",
+      "pinyin": "yú",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "鱼氏",
+      "common": true
+    },
+    {
+      "surname": "容",
+      "traditional": "容",
+      "pinyin": "róng",
+      "strokes_kangxi": 10,
+      "wuxing": "土",
+      "notes": "容氏",
+      "common": true
+    },
+    {
+      "surname": "向",
+      "traditional": "向",
+      "pinyin": "xiàng",
+      "strokes_kangxi": 6,
+      "wuxing": "火",
+      "notes": "向氏",
+      "common": true
+    },
+    {
+      "surname": "古",
+      "traditional": "古",
+      "pinyin": "gǔ",
+      "strokes_kangxi": 5,
+      "wuxing": "木",
+      "notes": "古氏",
+      "common": true
+    },
+    {
+      "surname": "易",
+      "traditional": "易",
+      "pinyin": "yì",
+      "strokes_kangxi": 8,
+      "wuxing": "火",
+      "notes": "易氏",
+      "common": true
+    },
+    {
+      "surname": "慎",
+      "traditional": "慎",
+      "pinyin": "shèn",
+      "strokes_kangxi": 14,
+      "wuxing": "金",
+      "notes": "慎氏",
+      "common": true
+    },
+    {
+      "surname": "戈",
+      "traditional": "戈",
+      "pinyin": "gē",
+      "strokes_kangxi": 4,
+      "wuxing": "金",
+      "notes": "戈氏",
+      "common": true
+    },
+    {
+      "surname": "廖",
+      "traditional": "廖",
+      "pinyin": "liào",
+      "strokes_kangxi": 14,
+      "wuxing": "火",
+      "notes": "廖氏",
+      "common": true
+    },
+    {
+      "surname": "庾",
+      "traditional": "庾",
+      "pinyin": "yǔ",
+      "strokes_kangxi": 12,
+      "wuxing": "木",
+      "notes": "庾氏",
+      "common": true
+    },
+    {
+      "surname": "终",
+      "traditional": "終",
+      "pinyin": "zhōng",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "终氏",
+      "common": true
+    },
+    {
+      "surname": "暨",
+      "traditional": "暨",
+      "pinyin": "jì",
+      "strokes_kangxi": 14,
+      "wuxing": "木",
+      "notes": "暨氏",
+      "common": true
+    },
+    {
+      "surname": "居",
+      "traditional": "居",
+      "pinyin": "jū",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "居氏",
+      "common": true
+    },
+    {
+      "surname": "衡",
+      "traditional": "衡",
+      "pinyin": "héng",
+      "strokes_kangxi": 16,
+      "wuxing": "土",
+      "notes": "衡氏",
+      "common": true
+    },
+    {
+      "surname": "步",
+      "traditional": "步",
+      "pinyin": "bù",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "步氏",
+      "common": true
+    },
+    {
+      "surname": "都",
+      "traditional": "都",
+      "pinyin": "dū",
+      "strokes_kangxi": 16,
+      "wuxing": "火",
+      "notes": "都氏",
+      "common": true
+    },
+    {
+      "surname": "耿",
+      "traditional": "耿",
+      "pinyin": "gěng",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "耿氏",
+      "common": true
+    },
+    {
+      "surname": "满",
+      "traditional": "滿",
+      "pinyin": "mǎn",
+      "strokes_kangxi": 15,
+      "wuxing": "水",
+      "notes": "满氏",
+      "common": true
+    },
+    {
+      "surname": "弘",
+      "traditional": "弘",
+      "pinyin": "hóng",
+      "strokes_kangxi": 5,
+      "wuxing": "水",
+      "notes": "弘氏",
+      "common": true
+    },
+    {
+      "surname": "匡",
+      "traditional": "匡",
+      "pinyin": "kuāng",
+      "strokes_kangxi": 6,
+      "wuxing": "木",
+      "notes": "匡氏",
+      "common": true
+    },
+    {
+      "surname": "国",
+      "traditional": "國",
+      "pinyin": "guó",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "国氏",
+      "common": true
+    },
+    {
+      "surname": "文",
+      "traditional": "文",
+      "pinyin": "wén",
+      "strokes_kangxi": 4,
+      "wuxing": "水",
+      "notes": "文氏",
+      "common": true
+    },
+    {
+      "surname": "寇",
+      "traditional": "寇",
+      "pinyin": "kòu",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "寇氏",
+      "common": true
+    },
+    {
+      "surname": "广",
+      "traditional": "廣",
+      "pinyin": "guǎng",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "广氏",
+      "common": true
+    },
+    {
+      "surname": "禄",
+      "traditional": "祿",
+      "pinyin": "lù",
+      "strokes_kangxi": 13,
+      "wuxing": "火",
+      "notes": "禄氏",
+      "common": true
+    },
+    {
+      "surname": "阙",
+      "traditional": "闕",
+      "pinyin": "què",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "阙氏",
+      "common": true
+    },
+    {
+      "surname": "东",
+      "traditional": "東",
+      "pinyin": "dōng",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "东氏",
+      "common": true
+    },
+    {
+      "surname": "欧",
+      "traditional": "歐",
+      "pinyin": "ōu",
+      "strokes_kangxi": 15,
+      "wuxing": "土",
+      "notes": "欧氏",
+      "common": true
+    },
+    {
+      "surname": "沃",
+      "traditional": "沃",
+      "pinyin": "wò",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "沃氏",
+      "common": true
+    },
+    {
+      "surname": "利",
+      "traditional": "利",
+      "pinyin": "lì",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "利氏",
+      "common": true
+    },
+    {
+      "surname": "蔚",
+      "traditional": "蔚",
+      "pinyin": "wèi",
+      "strokes_kangxi": 17,
+      "wuxing": "木",
+      "notes": "蔚氏",
+      "common": true
+    },
+    {
+      "surname": "越",
+      "traditional": "越",
+      "pinyin": "yuè",
+      "strokes_kangxi": 12,
+      "wuxing": "土",
+      "notes": "越氏",
+      "common": true
+    },
+    {
+      "surname": "隆",
+      "traditional": "隆",
+      "pinyin": "lóng",
+      "strokes_kangxi": 17,
+      "wuxing": "火",
+      "notes": "隆氏",
+      "common": true
+    },
+    {
+      "surname": "师",
+      "traditional": "師",
+      "pinyin": "shī",
+      "strokes_kangxi": 10,
+      "wuxing": "金",
+      "notes": "师氏",
+      "common": true
+    },
+    {
+      "surname": "巩",
+      "traditional": "鞏",
+      "pinyin": "gǒng",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "巩氏",
+      "common": true
+    },
+    {
+      "surname": "聂",
+      "traditional": "聶",
+      "pinyin": "niè",
+      "strokes_kangxi": 18,
+      "wuxing": "火",
+      "notes": "聂氏",
+      "common": true
+    },
+    {
+      "surname": "晁",
+      "traditional": "晁",
+      "pinyin": "cháo",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "晁氏",
+      "common": true
+    },
+    {
+      "surname": "勾",
+      "traditional": "勾",
+      "pinyin": "gōu",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "勾氏",
+      "common": true
+    },
+    {
+      "surname": "敖",
+      "traditional": "敖",
+      "pinyin": "áo",
+      "strokes_kangxi": 11,
+      "wuxing": "土",
+      "notes": "敖氏",
+      "common": true
+    },
+    {
+      "surname": "融",
+      "traditional": "融",
+      "pinyin": "róng",
+      "strokes_kangxi": 16,
+      "wuxing": "土",
+      "notes": "融氏",
+      "common": true
+    },
+    {
+      "surname": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "冷氏",
+      "common": true
+    },
+    {
+      "surname": "辛",
+      "traditional": "辛",
+      "pinyin": "xīn",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "辛氏",
+      "common": true
+    },
+    {
+      "surname": "阚",
+      "traditional": "闞",
+      "pinyin": "kàn",
+      "strokes_kangxi": 20,
+      "wuxing": "木",
+      "notes": "阚氏",
+      "common": true
+    },
+    {
+      "surname": "那",
+      "traditional": "那",
+      "pinyin": "nā",
+      "strokes_kangxi": 11,
+      "wuxing": "火",
+      "notes": "那氏",
+      "common": true
+    },
+    {
+      "surname": "简",
+      "traditional": "簡",
+      "pinyin": "jiǎn",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "简氏",
+      "common": true
+    },
+    {
+      "surname": "饶",
+      "traditional": "饒",
+      "pinyin": "ráo",
+      "strokes_kangxi": 21,
+      "wuxing": "木",
+      "notes": "饶氏",
+      "common": true
+    },
+    {
+      "surname": "空",
+      "traditional": "空",
+      "pinyin": "kōng",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "空氏",
+      "common": true
+    },
+    {
+      "surname": "曾",
+      "traditional": "曾",
+      "pinyin": "zēng",
+      "strokes_kangxi": 12,
+      "wuxing": "金",
+      "notes": "曾氏",
+      "common": true
+    },
+    {
+      "surname": "毋",
+      "traditional": "毋",
+      "pinyin": "wú",
+      "strokes_kangxi": 4,
+      "wuxing": "水",
+      "notes": "毋氏",
+      "common": true
+    },
+    {
+      "surname": "沙",
+      "traditional": "沙",
+      "pinyin": "shā",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "沙氏",
+      "common": true
+    },
+    {
+      "surname": "养",
+      "traditional": "養",
+      "pinyin": "yǎng",
+      "strokes_kangxi": 15,
+      "wuxing": "土",
+      "notes": "养氏",
+      "common": true
+    },
+    {
+      "surname": "鞠",
+      "traditional": "鞠",
+      "pinyin": "jū",
+      "strokes_kangxi": 17,
+      "wuxing": "木",
+      "notes": "鞠氏",
+      "common": true
+    },
+    {
+      "surname": "须",
+      "traditional": "須",
+      "pinyin": "xū",
+      "strokes_kangxi": 12,
+      "wuxing": "金",
+      "notes": "须氏",
+      "common": true
+    },
+    {
+      "surname": "丰",
+      "traditional": "豐",
+      "pinyin": "fēng",
+      "strokes_kangxi": 18,
+      "wuxing": "火",
+      "notes": "丰氏",
+      "common": true
+    },
+    {
+      "surname": "巢",
+      "traditional": "巢",
+      "pinyin": "cháo",
+      "strokes_kangxi": 11,
+      "wuxing": "金",
+      "notes": "巢氏",
+      "common": true
+    },
+    {
+      "surname": "关",
+      "traditional": "關",
+      "pinyin": "guān",
+      "strokes_kangxi": 19,
+      "wuxing": "木",
+      "notes": "关氏",
+      "common": true
+    },
+    {
+      "surname": "蒯",
+      "traditional": "蒯",
+      "pinyin": "kuǎi",
+      "strokes_kangxi": 16,
+      "wuxing": "木",
+      "notes": "蒯氏",
+      "common": true
+    },
+    {
+      "surname": "相",
+      "traditional": "相",
+      "pinyin": "xiāng",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "相氏",
+      "common": true
+    },
+    {
+      "surname": "查",
+      "traditional": "查",
+      "pinyin": "zhā",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "查氏",
+      "common": true
+    },
+    {
+      "surname": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "后氏",
+      "common": true
+    },
+    {
+      "surname": "荆",
+      "traditional": "荊",
+      "pinyin": "jīng",
+      "strokes_kangxi": 9,
+      "wuxing": "木",
+      "notes": "荆氏",
+      "common": true
+    },
+    {
+      "surname": "红",
+      "traditional": "紅",
+      "pinyin": "hóng",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "红氏",
+      "common": true
+    },
+    {
+      "surname": "游",
+      "traditional": "遊",
+      "pinyin": "yóu",
+      "strokes_kangxi": 13,
+      "wuxing": "水",
+      "notes": "游氏",
+      "common": true
+    },
+    {
+      "surname": "竺",
+      "traditional": "竺",
+      "pinyin": "zhú",
+      "strokes_kangxi": 8,
+      "wuxing": "木",
+      "notes": "竺氏",
+      "common": true
+    },
+    {
+      "surname": "权",
+      "traditional": "權",
+      "pinyin": "quán",
+      "strokes_kangxi": 22,
+      "wuxing": "木",
+      "notes": "权氏",
+      "common": true
+    },
+    {
+      "surname": "盖",
+      "traditional": "蓋",
+      "pinyin": "gài",
+      "strokes_kangxi": 14,
+      "wuxing": "木",
+      "notes": "盖氏",
+      "common": true
+    },
+    {
+      "surname": "益",
+      "traditional": "益",
+      "pinyin": "yì",
+      "strokes_kangxi": 10,
+      "wuxing": "土",
+      "notes": "益氏",
+      "common": true
+    },
+    {
+      "surname": "桓",
+      "traditional": "桓",
+      "pinyin": "huán",
+      "strokes_kangxi": 10,
+      "wuxing": "木",
+      "notes": "桓氏",
+      "common": true
+    },
+    {
+      "surname": "公",
+      "traditional": "公",
+      "pinyin": "gōng",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "公氏",
+      "common": true
+    },
+    {
+      "surname": "晋",
+      "traditional": "晉",
+      "pinyin": "jìn",
+      "strokes_kangxi": 10,
+      "wuxing": "火",
+      "notes": "晋氏",
+      "common": true
+    },
+    {
+      "surname": "楚",
+      "traditional": "楚",
+      "pinyin": "chǔ",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "楚氏",
+      "common": true
+    },
+    {
+      "surname": "闫",
+      "traditional": "閆",
+      "pinyin": "yán",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "闫氏",
+      "common": true
+    },
+    {
+      "surname": "法",
+      "traditional": "法",
+      "pinyin": "fǎ",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "法氏",
+      "common": true
+    },
+    {
+      "surname": "汝",
+      "traditional": "汝",
+      "pinyin": "rǔ",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "汝氏",
+      "common": true
+    },
+    {
+      "surname": "鄢",
+      "traditional": "鄢",
+      "pinyin": "yān",
+      "strokes_kangxi": 19,
+      "wuxing": "土",
+      "notes": "鄢氏",
+      "common": true
+    },
+    {
+      "surname": "涂",
+      "traditional": "塗",
+      "pinyin": "tú",
+      "strokes_kangxi": 13,
+      "wuxing": "水",
+      "notes": "涂氏",
+      "common": true
+    },
+    {
+      "surname": "钦",
+      "traditional": "欽",
+      "pinyin": "qīn",
+      "strokes_kangxi": 12,
+      "wuxing": "金",
+      "notes": "钦氏",
+      "common": true
+    },
+    {
+      "surname": "归",
+      "traditional": "歸",
+      "pinyin": "guī",
+      "strokes_kangxi": 18,
+      "wuxing": "木",
+      "notes": "归氏",
+      "common": true
+    },
+    {
+      "surname": "海",
+      "traditional": "海",
+      "pinyin": "hǎi",
+      "strokes_kangxi": 11,
+      "wuxing": "水",
+      "notes": "海氏",
+      "common": true
+    },
+    {
+      "surname": "岳",
+      "traditional": "岳",
+      "pinyin": "yuè",
+      "strokes_kangxi": 8,
+      "wuxing": "土",
+      "notes": "岳氏",
+      "common": true
+    },
+    {
+      "surname": "帅",
+      "traditional": "帥",
+      "pinyin": "shuài",
+      "strokes_kangxi": 9,
+      "wuxing": "金",
+      "notes": "帅氏",
+      "common": true
+    },
+    {
+      "surname": "缑",
+      "traditional": "緱",
+      "pinyin": "gōu",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "缑氏",
+      "common": true
+    },
+    {
+      "surname": "亢",
+      "traditional": "亢",
+      "pinyin": "kàng",
+      "strokes_kangxi": 4,
+      "wuxing": "木",
+      "notes": "亢氏",
+      "common": true
+    },
+    {
+      "surname": "况",
+      "traditional": "況",
+      "pinyin": "kuàng",
+      "strokes_kangxi": 8,
+      "wuxing": "水",
+      "notes": "况氏",
+      "common": true
+    },
+    {
+      "surname": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "strokes_kangxi": 6,
+      "wuxing": "土",
+      "notes": "有氏",
+      "common": true
+    },
+    {
+      "surname": "琴",
+      "traditional": "琴",
+      "pinyin": "qín",
+      "strokes_kangxi": 13,
+      "wuxing": "木",
+      "notes": "琴氏",
+      "common": true
+    },
+    {
+      "surname": "商",
+      "traditional": "商",
+      "pinyin": "shāng",
+      "strokes_kangxi": 11,
+      "wuxing": "金",
+      "notes": "商氏",
+      "common": true
+    },
+    {
+      "surname": "牟",
+      "traditional": "牟",
+      "pinyin": "móu",
+      "strokes_kangxi": 6,
+      "wuxing": "水",
+      "notes": "牟氏",
+      "common": true
+    },
+    {
+      "surname": "佘",
+      "traditional": "佘",
+      "pinyin": "shé",
+      "strokes_kangxi": 7,
+      "wuxing": "金",
+      "notes": "佘氏",
+      "common": true
+    },
+    {
+      "surname": "伯",
+      "traditional": "伯",
+      "pinyin": "bó",
+      "strokes_kangxi": 7,
+      "wuxing": "水",
+      "notes": "伯氏",
+      "common": true
+    },
+    {
+      "surname": "墨",
+      "traditional": "墨",
+      "pinyin": "mò",
+      "strokes_kangxi": 15,
+      "wuxing": "水",
+      "notes": "墨氏",
+      "common": true
+    },
+    {
+      "surname": "哈",
+      "traditional": "哈",
+      "pinyin": "hǎ",
+      "strokes_kangxi": 9,
+      "wuxing": "水",
+      "notes": "哈氏",
+      "common": true
+    },
+    {
+      "surname": "谯",
+      "traditional": "譙",
+      "pinyin": "qiáo",
+      "strokes_kangxi": 15,
+      "wuxing": "木",
+      "notes": "谯氏",
+      "common": true
+    },
+    {
+      "surname": "笪",
+      "traditional": "笪",
+      "pinyin": "dá",
+      "strokes_kangxi": 11,
+      "wuxing": "木",
+      "notes": "笪氏",
+      "common": true
+    },
+    {
+      "surname": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "strokes_kangxi": 6,
+      "wuxing": "火",
+      "notes": "年氏",
+      "common": true
+    },
+    {
+      "surname": "爱",
+      "traditional": "愛",
+      "pinyin": "ài",
+      "strokes_kangxi": 13,
+      "wuxing": "土",
+      "notes": "爱氏",
+      "common": true
+    },
+    {
+      "surname": "阳",
+      "traditional": "陽",
+      "pinyin": "yáng",
+      "strokes_kangxi": 17,
+      "wuxing": "火",
+      "notes": "阳氏",
+      "common": true
+    },
+    {
+      "surname": "佟",
+      "traditional": "佟",
+      "pinyin": "tóng",
+      "strokes_kangxi": 7,
+      "wuxing": "火",
+      "notes": "佟氏",
+      "common": true
+    },
+    {
+      "surname": "言",
+      "traditional": "言",
+      "pinyin": "yán",
+      "strokes_kangxi": 7,
+      "wuxing": "木",
+      "notes": "言氏",
+      "common": true
+    },
+    {
+      "surname": "福",
+      "traditional": "福",
+      "pinyin": "fú",
+      "strokes_kangxi": 14,
+      "wuxing": "水",
+      "notes": "福氏",
+      "common": true
+    }
+  ]
+}

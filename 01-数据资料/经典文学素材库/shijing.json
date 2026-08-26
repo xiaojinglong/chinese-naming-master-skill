@@ -1,0 +1,1975 @@
+{
+ "source": "诗经",
+ "desc": "中国最早的诗歌总集，取名用字古雅含蓄，多用于'古风/文雅'风格",
+ "items": [
+  {
+   "word": "清扬",
+   "origin": "《诗经·郑风·野有蔓草》",
+   "quote": "有美一人，清扬婉兮",
+   "meaning": "眉目清秀、神采飞扬",
+   "usage": "女名多用",
+   "pinyin": "qīng yáng",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "静姝",
+   "origin": "《诗经·邶风·静女》",
+   "quote": "静女其姝，俟我于城隅",
+   "meaning": "娴静美好的女子",
+   "usage": "女名",
+   "pinyin": "jìng shū",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "徽音",
+   "origin": "《诗经·大雅·思齐》",
+   "quote": "大姒嗣徽音，则百斯男",
+   "meaning": "美好的声誉、美德（林徽因名出此）",
+   "usage": "女名",
+   "pinyin": "huī yīn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "维桢",
+   "origin": "《诗经·大雅·文王》",
+   "quote": "王国克生，维周之桢",
+   "meaning": "国家的栋梁之材",
+   "usage": "男名",
+   "pinyin": "wéi zhēn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "鹤鸣",
+   "origin": "《诗经·小雅·鹤鸣》",
+   "quote": "鹤鸣于九皋，声闻于天",
+   "meaning": "贤才名声远播",
+   "usage": "男名",
+   "pinyin": "hè míng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "懿德",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "民之秉彝，好是懿德",
+   "meaning": "美好的品德",
+   "usage": "男女皆宜",
+   "pinyin": "yì dé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "昭明",
+   "origin": "《诗经·大雅·既醉》",
+   "quote": "昭明有融，高朗令终",
+   "meaning": "光明显耀、前程光明",
+   "usage": "男名",
+   "pinyin": "zhāo míng",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "灼华",
+   "origin": "《诗经·周南·桃夭》",
+   "quote": "桃之夭夭，灼灼其华",
+   "meaning": "桃花灿烂盛开，青春焕发",
+   "usage": "女名",
+   "pinyin": "zhuó huá",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "燕婉",
+   "origin": "《诗经·邶风·新台》",
+   "quote": "燕婉之求，得此戚施",
+   "meaning": "温婉美好",
+   "usage": "女名",
+   "pinyin": "yàn wǎn",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "露晞",
+   "origin": "《诗经·小雅·湛露》",
+   "quote": "湛湛露斯，匪阳不晞",
+   "meaning": "露水待朝阳而干，含生机之意",
+   "usage": "男女皆宜",
+   "pinyin": "lù xī",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "甘棠",
+   "origin": "《诗经·召南·甘棠》",
+   "quote": "蔽芾甘棠，勿剪勿伐",
+   "meaning": "德政爱民的象征",
+   "usage": "男名",
+   "pinyin": "gān táng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "振鹭",
+   "origin": "《诗经·周颂·振鹭》",
+   "quote": "振鹭于飞，于彼西雍",
+   "meaning": "白鹭振翅高飞，喻高洁",
+   "usage": "男女皆宜",
+   "pinyin": "zhèn lù",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "嘉树",
+   "origin": "《诗经·小雅·南有嘉鱼》",
+   "quote": "南有嘉鱼，烝然罩罩",
+   "meaning": "美好的树木，引申嘉美",
+   "usage": "男女皆宜",
+   "pinyin": "jiā shù",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "洵美",
+   "origin": "《诗经·邶风·静女》",
+   "quote": "自牧归荑，洵美且异",
+   "meaning": "确实美好而与众不同",
+   "usage": "女名",
+   "pinyin": "xún měi",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "秉彝",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "天生烝民，有物有则；民之秉彝，好是懿德",
+   "meaning": "秉持常道、天性善良",
+   "usage": "男名",
+   "pinyin": "bǐng yí",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "悠宁",
+   "origin": "《诗经·小雅·斯干》",
+   "quote": "君子攸宁",
+   "meaning": "安宁、安居",
+   "usage": "男女皆宜",
+   "pinyin": "yōu níng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "蓁蓁",
+   "origin": "《诗经·周南·桃夭》",
+   "quote": "桃之夭夭，其叶蓁蓁",
+   "meaning": "草木茂盛貌，喻生机蓬勃",
+   "usage": "女名",
+   "pinyin": "zhēn zhēn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "燕飞",
+   "origin": "《诗经·邶风·燕燕》",
+   "quote": "燕燕于飞，差池其羽",
+   "meaning": "燕子飞翔，喻自由轻盈",
+   "usage": "女名",
+   "pinyin": "yàn fēi",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "惠然",
+   "origin": "《诗经·邶风·终风》",
+   "quote": "惠然肯来",
+   "meaning": "温和善意地，喻仁慈宽厚",
+   "usage": "男女皆宜",
+   "pinyin": "huì rán",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "静嘉",
+   "origin": "《诗经·大雅·既醉》",
+   "quote": "其告维何，笾豆静嘉",
+   "meaning": "洁净美好，喻品德高洁",
+   "usage": "女名",
+   "pinyin": "jìng jiā",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "其琛",
+   "origin": "《诗经·鲁颂·泮水》",
+   "quote": "憬彼淮夷，来献其琛",
+   "meaning": "珍宝，喻珍贵美好",
+   "usage": "男名",
+   "pinyin": "qí chēn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "凯风",
+   "origin": "《诗经·邶风·凯风》",
+   "quote": "凯风自南，吹彼棘心",
+   "meaning": "和暖的风，喻温和仁爱",
+   "usage": "男名",
+   "pinyin": "kǎi fēng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "如雪",
+   "origin": "《诗经·曹风·蜉蝣》",
+   "quote": "蜉蝣之羽，衣裳如雪",
+   "meaning": "洁白如雪，喻纯洁无瑕",
+   "usage": "女名",
+   "pinyin": "rú xuě",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "菁菁",
+   "origin": "《诗经·唐风·杕杜》",
+   "quote": "有杕之杜，其叶菁菁",
+   "meaning": "草木茂盛，喻朝气蓬勃",
+   "usage": "女名",
+   "pinyin": "jīng jīng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "零露",
+   "origin": "《诗经·郑风·野有蔓草》",
+   "quote": "野有蔓草，零露漙兮",
+   "meaning": "晶莹的露水，喻清新润泽",
+   "usage": "女名",
+   "pinyin": "líng lù",
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "邦彦",
+   "origin": "《诗经·郑风·羔裘》",
+   "quote": "彼其之子，邦之彦兮",
+   "meaning": "国之英才，喻杰出人才",
+   "usage": "男名",
+   "pinyin": "bāng yàn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "柔惠",
+   "origin": "《诗经·大雅·崧高》",
+   "quote": "柔亦不茹，刚亦不吐",
+   "meaning": "柔和仁惠，喻性情温和善良",
+   "usage": "女名",
+   "pinyin": "róu huì",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "佩玖",
+   "origin": "《诗经·王风·大车》",
+   "quote": "谓予不信，有如皎日",
+   "meaning": "佩戴之美玉，喻品德如玉",
+   "usage": "女名",
+   "pinyin": "pèi jiǔ",
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "扶苏",
+   "origin": "《诗经·郑风·山有扶苏》",
+   "quote": "山有扶苏，隰有荷华",
+   "meaning": "枝叶繁茂的大树",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "婉兮",
+   "origin": "《诗经·郑风·野有蔓草》",
+   "quote": "有美一人，清扬婉兮",
+   "meaning": "眉目清秀、婉转动人",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "如晦",
+   "origin": "《诗经·郑风·风雨》",
+   "quote": "风雨如晦，鸡鸣不已",
+   "meaning": "乱世中坚守（杜如晦）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "子衿",
+   "origin": "《诗经·郑风·子衿》",
+   "quote": "青青子衿，悠悠我心",
+   "meaning": "学子青领，思慕悠长",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "悠悠",
+   "origin": "《诗经·郑风·子衿》",
+   "quote": "青青子衿，悠悠我心",
+   "meaning": "学子青领，思慕悠长",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "舜华",
+   "origin": "《诗经·郑风·有女同车》",
+   "quote": "颜如舜华……颜如舜英",
+   "meaning": "容颜如木槿花",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "舜英",
+   "origin": "《诗经·郑风·有女同车》",
+   "quote": "颜如舜华……颜如舜英",
+   "meaning": "容颜如木槿花",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "德音",
+   "origin": "《诗经·郑风·有女同车》",
+   "quote": "德音不忘",
+   "meaning": "美德声誉长存",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "温惠",
+   "origin": "《诗经·邶风·燕燕》",
+   "quote": "终温且惠，淑慎其身",
+   "meaning": "温柔和顺、善良谨慎",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "淑慎",
+   "origin": "《诗经·邶风·燕燕》",
+   "quote": "终温且惠，淑慎其身",
+   "meaning": "温柔和顺、善良谨慎",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "巧倩",
+   "origin": "《诗经·卫风·硕人》",
+   "quote": "巧笑倩兮，美目盼兮",
+   "meaning": "笑靥动人、顾盼生辉",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "美盼",
+   "origin": "《诗经·卫风·硕人》",
+   "quote": "巧笑倩兮，美目盼兮",
+   "meaning": "笑靥动人、顾盼生辉",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "如琢",
+   "origin": "《诗经·卫风·淇奥》",
+   "quote": "如切如磋，如琢如磨",
+   "meaning": "精益求精的自我修炼",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "如磨",
+   "origin": "《诗经·卫风·淇奥》",
+   "quote": "如切如磋，如琢如磨",
+   "meaning": "精益求精的自我修炼",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "琇莹",
+   "origin": "《诗经·卫风·淇奥》",
+   "quote": "充耳琇莹",
+   "meaning": "宝石晶莹",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "猗猗",
+   "origin": "《诗经·卫风·淇奥》",
+   "quote": "瞻彼淇奥，绿竹猗猗",
+   "meaning": "绿竹挺秀，风姿清雅",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "蒹葭",
+   "origin": "《诗经·秦风·蒹葭》",
+   "quote": "蒹葭苍苍，白露为霜",
+   "meaning": "芦苇秋霜，可望难即之美",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "白露",
+   "origin": "《诗经·秦风·蒹葭》",
+   "quote": "蒹葭苍苍，白露为霜",
+   "meaning": "芦苇秋霜，可望难即之美",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "伊人",
+   "origin": "《诗经·秦风·蒹葭》",
+   "quote": "所谓伊人，在水一方",
+   "meaning": "心中所向往之人",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "一方",
+   "origin": "《诗经·秦风·蒹葭》",
+   "quote": "所谓伊人，在水一方",
+   "meaning": "心中所向往之人",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "温如",
+   "origin": "《诗经·秦风·小戎》",
+   "quote": "言念君子，温其如玉",
+   "meaning": "温润如玉的君子品格",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "如玉",
+   "origin": "《诗经·秦风·小戎》",
+   "quote": "言念君子，温其如玉",
+   "meaning": "温润如玉的君子品格",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "皓皓",
+   "origin": "《诗经·唐风·扬之水》",
+   "quote": "扬之水，白石皓皓",
+   "meaning": "洁白光明",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "如英",
+   "origin": "《诗经·魏风·汾沮洳》",
+   "quote": "美如英……美如玉",
+   "meaning": "英俊如花、温润如玉",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "颀长",
+   "origin": "《诗经·齐风·猗嗟》",
+   "quote": "猗嗟昌兮，颀而长兮",
+   "meaning": "赞美身姿修长、仪表堂堂",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "昌兮",
+   "origin": "《诗经·齐风·猗嗟》",
+   "quote": "猗嗟昌兮，颀而长兮",
+   "meaning": "赞美身姿修长、仪表堂堂",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "姝子",
+   "origin": "《诗经·齐风·东方之日》",
+   "quote": "彼姝者子，在我室兮",
+   "meaning": "美好的人（\"姝\"=美好）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "南山",
+   "origin": "《诗经·齐风·南山》",
+   "quote": "南山崔崔，雄狐绥绥",
+   "meaning": "南山高峻",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "崔崔",
+   "origin": "《诗经·齐风·南山》",
+   "quote": "南山崔崔，雄狐绥绥",
+   "meaning": "南山高峻",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "素冠",
+   "origin": "《诗经·桧风·素冠》",
+   "quote": "庶见素冠兮，棘人栾栾兮",
+   "meaning": "素朴之冠，哀思之容",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "阳阳",
+   "origin": "《诗经·王风·君子阳阳》",
+   "quote": "君子阳阳",
+   "meaning": "得意喜乐",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "载阳",
+   "origin": "《诗经·豳风·七月》",
+   "quote": "春日载阳",
+   "meaning": "春日阳光和暖",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "窈窕",
+   "origin": "《诗经·周南·关雎》",
+   "quote": "窈窕淑女，君子好逑",
+   "meaning": "娴静美好，君子佳偶",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "采采",
+   "origin": "《诗经·周南·卷耳》",
+   "quote": "采采卷耳，不盈顷筐",
+   "meaning": "茂盛鲜明，勤于所事",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "桃夭",
+   "origin": "《诗经·周南·桃夭》",
+   "quote": "桃之夭夭，灼灼其华",
+   "meaning": "桃花盛放，光华明艳",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "宜家",
+   "origin": "《诗经·周南·桃夭》",
+   "quote": "之子于归，宜其室家",
+   "meaning": "家庭和美（\"宜家\"品牌名即取此）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "宜室",
+   "origin": "《诗经·周南·桃夭》",
+   "quote": "之子于归，宜其室家",
+   "meaning": "家庭和美（\"宜家\"品牌名即取此）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "干城",
+   "origin": "《诗经·周南·兔罝》",
+   "quote": "赳赳武夫，公侯干城",
+   "meaning": "干城之才，卫国屏障",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "福履",
+   "origin": "《诗经·周南·樛木》",
+   "quote": "乐只君子，福履绥之",
+   "meaning": "福禄安至",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "振振",
+   "origin": "《诗经·周南·麟之趾》",
+   "quote": "麟之趾，振振公子",
+   "meaning": "仁厚诚实",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "夙夜",
+   "origin": "《诗经·召南·小星》",
+   "quote": "肃肃宵征，夙夜在公",
+   "meaning": "夙夜在公，勤勉奉职",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "匪石",
+   "origin": "《诗经·邶风·柏舟》",
+   "quote": "我心匪石，不可转也",
+   "meaning": "心志坚定（\"匪石之心\"）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "棣棣",
+   "origin": "《诗经·邶风·柏舟》",
+   "quote": "威仪棣棣，不可选也",
+   "meaning": "仪态安和庄重",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "偕老",
+   "origin": "《诗经·邶风·击鼓》",
+   "quote": "执子之手，与子偕老",
+   "meaning": "白首偕老",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "委佗",
+   "origin": "《诗经·鄘风·君子偕老》",
+   "quote": "委委佗佗，如山如河",
+   "meaning": "雍容庄重如山河",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "灵雨",
+   "origin": "《诗经·鄘风·定之方中》",
+   "quote": "灵雨既零",
+   "meaning": "好雨应时而降",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "载驰",
+   "origin": "《诗经·鄘风·载驰》",
+   "quote": "载驰载驱，归唁卫侯",
+   "meaning": "奔走赴义（许穆夫人）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "考槃",
+   "origin": "《诗经·卫风·考槃》",
+   "quote": "考槃在涧，硕人之宽",
+   "meaning": "盘桓乐道，隐逸自得",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "采葛",
+   "origin": "《诗经·王风·采葛》",
+   "quote": "一日不见，如三月兮",
+   "meaning": "相思之情",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "皦日",
+   "origin": "《诗经·王风·大车》",
+   "quote": "谓予不信，有如皦日",
+   "meaning": "皎日为证，言出必行",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "子兴",
+   "origin": "《诗经·郑风·女曰鸡鸣》",
+   "quote": "子兴视夜，明星有烂",
+   "meaning": "晨兴夜寐",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "如云",
+   "origin": "《诗经·郑风·出其东门》",
+   "quote": "出其东门，有女如云",
+   "meaning": "美好众多",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "浏清",
+   "origin": "《诗经·郑风·溱洧》",
+   "quote": "溱与洧，浏其清矣",
+   "meaning": "水流清深",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "绸缪",
+   "origin": "《诗经·唐风·绸缪》",
+   "quote": "绸缪束薪，三星在天",
+   "meaning": "缱绻深情；未雨绸缪",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "蕃衍",
+   "origin": "《诗经·唐风·椒聊》",
+   "quote": "椒聊之实，蕃衍盈升",
+   "meaning": "多子多福（花椒结籽繁多）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "终南",
+   "origin": "《诗经·秦风·终南》",
+   "quote": "终南何有？有条有梅",
+   "meaning": "终南钟秀",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "同袍",
+   "origin": "《诗经·秦风·无衣》",
+   "quote": "岂曰无衣？与子同袍",
+   "meaning": "袍泽同心",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "皎皎",
+   "origin": "《诗经·陈风·月出》",
+   "quote": "月出皎兮，佼人僚兮",
+   "meaning": "月色皎洁，人如月光",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "栖迟",
+   "origin": "《诗经·陈风·衡门》",
+   "quote": "衡门之下，可以栖迟",
+   "meaning": "恬淡自处",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "仪一",
+   "origin": "《诗经·曹风·鳲鸠》",
+   "quote": "淑人君子，其仪一兮",
+   "meaning": "仪度始终如一",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "芃芃",
+   "origin": "《诗经·曹风·下泉》",
+   "quote": "芃芃黍苗，阴雨膏之",
+   "meaning": "苗木茁壮，润泽而生",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "熠耀",
+   "origin": "《诗经·豳风·东山》",
+   "quote": "仓庚于飞，熠耀其羽",
+   "meaning": "羽翼生辉",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "呦呦",
+   "origin": "《诗经·小雅·鹿鸣》",
+   "quote": "呦呦鹿鸣，食野之苹",
+   "meaning": "鹿鸣之声（屠呦呦）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "德昭",
+   "origin": "《诗经·小雅·鹿鸣》",
+   "quote": "我有嘉宾，德音孔昭",
+   "meaning": "美德光明昭著",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "依依",
+   "origin": "《诗经·小雅·采薇》",
+   "quote": "昔我往矣，杨柳依依",
+   "meaning": "惜别柔情",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "杨柳",
+   "origin": "《诗经·小雅·采薇》",
+   "quote": "昔我往矣，杨柳依依",
+   "meaning": "惜别柔情",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "霏霏",
+   "origin": "《诗经·小雅·采薇》",
+   "quote": "今我来思，雨雪霏霏",
+   "meaning": "雪花纷飞",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有仪",
+   "origin": "《诗经·小雅·菁菁者莪》",
+   "quote": "既见君子，乐且有仪",
+   "meaning": "快乐而有威仪",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "乐仪",
+   "origin": "《诗经·小雅·菁菁者莪》",
+   "quote": "既见君子，乐且有仪",
+   "meaning": "快乐而有威仪",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "景行",
+   "origin": "《诗经·小雅·车舝》",
+   "quote": "高山仰止，景行行止",
+   "meaning": "光明大道，德行高洁",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "孔明",
+   "origin": "《诗经·小雅·信南山》",
+   "quote": "祀事孔明",
+   "meaning": "祭祀礼仪周备（诸葛亮字）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "龙光",
+   "origin": "《诗经·小雅·蓼萧》",
+   "quote": "既见君子，为龙为光",
+   "meaning": "如龙如光，荣宠",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "嘉卉",
+   "origin": "《诗经·小雅·四月》",
+   "quote": "山有嘉卉",
+   "meaning": "美好的花草",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "湛露",
+   "origin": "《诗经·小雅·湛露》",
+   "quote": "湛湛露斯",
+   "meaning": "浓重的露水，喻恩泽",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "翩翩",
+   "origin": "《诗经·小雅·四牡》",
+   "quote": "翩翩者鵻，载飞载下",
+   "meaning": "轻捷从容",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "皇华",
+   "origin": "《诗经·小雅·皇皇者华》",
+   "quote": "皇皇者华，于彼原隰",
+   "meaning": "光彩焕发（\"皇华使者\"典）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "迁乔",
+   "origin": "《诗经·小雅·伐木》",
+   "quote": "出自幽谷，迁于乔木",
+   "meaning": "境界升迁（胡乔木名出此）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "日升",
+   "origin": "《诗经·小雅·天保》",
+   "quote": "如月之恒，如日之升",
+   "meaning": "稳步上升",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "月恒",
+   "origin": "《诗经·小雅·天保》",
+   "quote": "如月之恒，如日之升",
+   "meaning": "稳步上升",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "松茂",
+   "origin": "《诗经·小雅·天保》",
+   "quote": "如松柏之茂，无不尔或承",
+   "meaning": "松柏长青",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "迟迟",
+   "origin": "《诗经·小雅·出车》",
+   "quote": "春日迟迟，卉木萋萋",
+   "meaning": "春光舒缓，草木繁盛",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "萋萋",
+   "origin": "《诗经·小雅·出车》",
+   "quote": "春日迟迟，卉木萋萋",
+   "meaning": "春光舒缓，草木繁盛",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "邦基",
+   "origin": "《诗经·小雅·南山有台》",
+   "quote": "乐只君子，邦家之基",
+   "meaning": "国之基石",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "罔极",
+   "origin": "《诗经·小雅·蓼莪》",
+   "quote": "欲报之德，昊天罔极",
+   "meaning": "亲恩无穷（哀思语境，慎用）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "靖共",
+   "origin": "《诗经·小雅·小明》",
+   "quote": "靖共尔位，好是正直",
+   "meaning": "恭谨奉职，正直为好",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "湑湑",
+   "origin": "《诗经·小雅·裳裳者华》",
+   "quote": "裳裳者华，其叶湑兮",
+   "meaning": "花叶茂盛悦目",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "屏翰",
+   "origin": "《诗经·小雅·桑扈》",
+   "quote": "之屏之翰，百辟为宪",
+   "meaning": "屏障栋梁",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "采绿",
+   "origin": "《诗经·小雅·采绿》",
+   "quote": "终朝采绿，不盈一匊",
+   "meaning": "撷芳清新",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "维时",
+   "origin": "《诗经·小雅·鱼丽》",
+   "quote": "物其有矣，维其时矣",
+   "meaning": "万物应时而有",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "空谷",
+   "origin": "《诗经·小雅·白驹》",
+   "quote": "皎皎白驹，在彼空谷",
+   "meaning": "空谷白驹，贤者之象",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "闻天",
+   "origin": "《诗经·小雅·鹤鸣》",
+   "quote": "鹤鸣于九皋，声闻于天",
+   "meaning": "贤才声名远播",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "攻玉",
+   "origin": "《诗经·小雅·鹤鸣》",
+   "quote": "它山之石，可以攻玉",
+   "meaning": "借砥砺以成器",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "国维",
+   "origin": "《诗经·大雅·文王》",
+   "quote": "王国克生，维周之桢",
+   "meaning": "国家栋梁（王国维）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "聿修",
+   "origin": "《诗经·大雅·文王》",
+   "quote": "聿修厥德",
+   "meaning": "发扬先德",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "维新",
+   "origin": "《诗经·大雅·文王》",
+   "quote": "周虽旧邦，其命维新",
+   "meaning": "邦国古老而天命常新",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "思齐",
+   "origin": "《诗经·大雅·思齐》",
+   "quote": "思齐大任",
+   "meaning": "端庄贤淑（兼出《论语》见贤思齐）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "斯年",
+   "origin": "《诗经·大雅·下武》",
+   "quote": "於万斯年，受天之祜",
+   "meaning": "基业万年（傅斯年）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "万年",
+   "origin": "《诗经·大雅·下武》",
+   "quote": "於万斯年，受天之祜",
+   "meaning": "基业万年（傅斯年）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "温恭",
+   "origin": "《诗经·大雅·抑》",
+   "quote": "温温恭人，维德之基",
+   "meaning": "温和恭敬，以德为基",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "德基",
+   "origin": "《诗经·大雅·抑》",
+   "quote": "温温恭人，维德之基",
+   "meaning": "温和恭敬，以德为基",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "柔嘉",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "仲山甫之德，柔嘉维则",
+   "meaning": "温柔美善而有法则",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "维则",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "仲山甫之德，柔嘉维则",
+   "meaning": "温柔美善而有法则",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "令仪",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "令仪令色，小心翼翼",
+   "meaning": "美好的仪容举止",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "圭璋",
+   "origin": "《诗经·大雅·卷阿》",
+   "quote": "颙颙卬卬，如圭如璋",
+   "meaning": "品格如玉器般高贵",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风",
+    "大气"
+   ]
+  },
+  {
+   "word": "令闻",
+   "origin": "《诗经·大雅·卷阿》",
+   "quote": "令闻令望",
+   "meaning": "美好的名声与威望",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "令望",
+   "origin": "《诗经·大雅·卷阿》",
+   "quote": "令闻令望",
+   "meaning": "美好的名声与威望",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "于飞",
+   "origin": "《诗经·大雅·卷阿》",
+   "quote": "凤凰于飞，翙翙其羽",
+   "meaning": "凤凰相偕而飞",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "令德",
+   "origin": "《诗经·大雅·假乐》",
+   "quote": "假乐君子，显显令德",
+   "meaning": "光显的美德",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "高朗",
+   "origin": "《诗经·大雅·既醉》",
+   "quote": "昭明有融，高朗令终",
+   "meaning": "光明磊落、通达爽朗",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "有初",
+   "origin": "《诗经·大雅·荡》",
+   "quote": "靡不有初，鲜克有终",
+   "meaning": "善始善终（取正面）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "明明",
+   "origin": "《诗经·大雅·大明》",
+   "quote": "明明在下，赫赫在上",
+   "meaning": "光明盛大",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "赫赫",
+   "origin": "《诗经·大雅·大明》",
+   "quote": "明明在下，赫赫在上",
+   "meaning": "光明盛大",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "鹰扬",
+   "origin": "《诗经·大雅·大明》",
+   "quote": "维师尚父，时维鹰扬",
+   "meaning": "鹰扬虎视（太公望风采）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "绵绵",
+   "origin": "《诗经·大雅·绵》",
+   "quote": "绵绵瓜瓞",
+   "meaning": "绵延不绝",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "追琢",
+   "origin": "《诗经·大雅·棫朴》",
+   "quote": "追琢其章，金玉其相",
+   "meaning": "如切磋琢磨，本质如金玉",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "金相",
+   "origin": "《诗经·大雅·棫朴》",
+   "quote": "追琢其章，金玉其相",
+   "meaning": "如切磋琢磨，本质如金玉",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "鸢飞",
+   "origin": "《诗经·大雅·旱麓》",
+   "quote": "鸢飞戾天，鱼跃于渊",
+   "meaning": "上下各遂其性，活泼天机",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "鱼跃",
+   "origin": "《诗经·大雅·旱麓》",
+   "quote": "鸢飞戾天，鱼跃于渊",
+   "meaning": "上下各遂其性，活泼天机",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "灵台",
+   "origin": "《诗经·大雅·灵台》",
+   "quote": "经始灵台，经之营之",
+   "meaning": "心灵高台（后世以\"灵台\"喻心）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "求宁",
+   "origin": "《诗经·大雅·文王有声》",
+   "quote": "遹求厥宁，遹观厥成",
+   "meaning": "求安观成",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "观成",
+   "origin": "《诗经·大雅·文王有声》",
+   "quote": "遹求厥宁，遹观厥成",
+   "meaning": "求安观成",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "崧高",
+   "origin": "《诗经·大雅·崧高》",
+   "quote": "崧高维岳，骏极于天",
+   "meaning": "山岳崇高（嵩山得名之源）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "骏极",
+   "origin": "《诗经·大雅·崧高》",
+   "quote": "崧高维岳，骏极于天",
+   "meaning": "山岳崇高（嵩山得名之源）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "小康",
+   "origin": "《诗经·大雅·民劳》",
+   "quote": "民亦劳止，汔可小康",
+   "meaning": "安居乐业（今\"小康\"语源）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "怀柔",
+   "origin": "《诗经·大雅·板》",
+   "quote": "怀柔百神，及河乔岳",
+   "meaning": "以德安人（北京怀柔地名源）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "有则",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "天生烝民，有物有则",
+   "meaning": "万物皆有其法则",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "作人",
+   "origin": "《诗经·大雅·棫朴》",
+   "quote": "周王寿考，遐不作人",
+   "meaning": "培养造就人才（周作人名出此）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "维清",
+   "origin": "《诗经·周颂·维清》",
+   "quote": "维清缉熙",
+   "meaning": "政治清明，持续光明",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "缉熙",
+   "origin": "《诗经·周颂·维清》",
+   "quote": "维清缉熙",
+   "meaning": "政治清明，持续光明",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "光明",
+   "origin": "《诗经·周颂·敬之》",
+   "quote": "学有缉熙于光明",
+   "meaning": "学问渐臻光明境界",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "思文",
+   "origin": "《诗经·周颂·思文》",
+   "quote": "思文后稷，克配彼天",
+   "meaning": "文德深厚，可配上天",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "显德",
+   "origin": "《诗经·周颂·烈文》",
+   "quote": "不显维德",
+   "meaning": "彰显大德",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "允文",
+   "origin": "《诗经·鲁颂·泮水》",
+   "quote": "允文允武",
+   "meaning": "文武兼备",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "允武",
+   "origin": "《诗经·鲁颂·泮水》",
+   "quote": "允文允武",
+   "meaning": "文武兼备",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "思成",
+   "origin": "《诗经·商颂·那》",
+   "quote": "绥我思成",
+   "meaning": "心中所思得以成就（梁思成）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "浚哲",
+   "origin": "《诗经·商颂·长发》",
+   "quote": "浚哲维商",
+   "meaning": "深邃明智",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "邦畿",
+   "origin": "《诗经·商颂·玄鸟》",
+   "quote": "邦畿千里，维民所止",
+   "meaning": "国土疆域",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "肃雍",
+   "origin": "《诗经·周颂·清庙》",
+   "quote": "於穆清庙，肃雍显相",
+   "meaning": "肃穆雍和",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "於穆",
+   "origin": "《诗经·周颂·维天之命》",
+   "quote": "维天之命，於穆不已",
+   "meaning": "天道深远，运行不息",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "天作",
+   "origin": "《诗经·周颂·天作》",
+   "quote": "天作高山，大王荒之",
+   "meaning": "天造（\"天作之合\"语源）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "执竞",
+   "origin": "《诗经·周颂·执竞》",
+   "quote": "执竞武王，无竞维烈",
+   "meaning": "刚强不息，无与争锋",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无竞",
+   "origin": "《诗经·周颂·执竞》",
+   "quote": "执竞武王，无竞维烈",
+   "meaning": "刚强不息，无与争锋",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "丰年",
+   "origin": "《诗经·周颂·丰年》",
+   "quote": "丰年多黍多稌",
+   "meaning": "五谷丰登",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "纯熙",
+   "origin": "《诗经·周颂·酌》",
+   "quote": "时纯熙矣，是用大介",
+   "meaning": "光明纯正",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "琼瑶",
+   "origin": "《诗经·卫风·木瓜》",
+   "quote": "投我以木桃，报之以琼瑶",
+   "meaning": "美玉，喻珍重情义（作家琼瑶笔名出处）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "琼琚",
+   "origin": "《诗经·卫风·木瓜》",
+   "quote": "投我以木桃，报之以琼瑶",
+   "meaning": "美玉，喻珍重情义（作家琼瑶笔名出处）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "琼玖",
+   "origin": "《诗经·卫风·木瓜》",
+   "quote": "投我以木桃，报之以琼瑶",
+   "meaning": "美玉，喻珍重情义（作家琼瑶笔名出处）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "明哲",
+   "origin": "《诗经·大雅·烝民》",
+   "quote": "既明且哲，以保其身",
+   "meaning": "明达事理（成语\"明哲保身\"出处）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "凤鸣",
+   "origin": "《诗经·大雅·卷阿》",
+   "quote": "凤凰鸣矣，于彼高冈；梧桐生矣，于彼朝阳",
+   "meaning": "凤鸣朝阳，贤才逢时（成语\"凤鸣朝阳\"出处）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "朝阳",
+   "origin": "《诗经·大雅·卷阿》",
+   "quote": "凤凰鸣矣，于彼高冈；梧桐生矣，于彼朝阳",
+   "meaning": "凤鸣朝阳，贤才逢时（成语\"凤鸣朝阳\"出处）",
+   "usage": "女名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 178
+}

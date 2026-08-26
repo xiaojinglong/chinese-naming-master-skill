@@ -1,0 +1,133 @@
+{
+  "name": "汉字属性字库字段规范（hanzi schema）",
+  "version": "1.0",
+  "purpose": "定义姓名学用汉字属性字库的统一字段结构，供 Skill 加载与校验",
+  "source_alignment": "与 James88/qiming 项目数据结构对齐（xinhua.csv / wuxing_dict_fanti.json / word.json）",
+  "fields": [
+    {
+      "key": "char",
+      "type": "string",
+      "required": true,
+      "description": "汉字（简体字形）",
+      "example": "明"
+    },
+    {
+      "key": "traditional",
+      "type": "string",
+      "required": true,
+      "description": "繁体字形（姓名学以繁体笔画为准，简繁同形时相同）",
+      "example": "明"
+    },
+    {
+      "key": "pinyin",
+      "type": "string",
+      "required": true,
+      "description": "拼音（带声调）",
+      "example": "míng"
+    },
+    {
+      "key": "strokes_simplified",
+      "type": "integer",
+      "required": true,
+      "description": "简体笔画数（现代规范）",
+      "example": 8
+    },
+    {
+      "key": "strokes_kangxi",
+      "type": "integer",
+      "required": true,
+      "description": "繁体康熙字典笔画数（五格计算以此为准）",
+      "example": 8
+    },
+    {
+      "key": "wuxing",
+      "type": "string",
+      "required": true,
+      "enum": ["金", "木", "水", "火", "土"],
+      "description": "五行属性（本库以字义五行为主、字形五行为辅；不同流派口径见说明）",
+      "example": "火"
+    },
+    {
+      "key": "radical",
+      "type": "string",
+      "required": true,
+      "description": "偏旁部首（用于生肖喜忌筛选、字形分析）",
+      "example": "日"
+    },
+    {
+      "key": "meaning",
+      "type": "string",
+      "required": true,
+      "description": "字义解释（现代汉语释义，逗号分隔多个义项）",
+      "example": "光明、明亮"
+    },
+    {
+      "key": "kangxi_meaning",
+      "type": "string",
+      "required": false,
+      "description": "康熙字典/古籍释义（出处引用），如《说文》条目",
+      "example": "《说文》'照也'"
+    },
+    {
+      "key": "lucky",
+      "type": "string",
+      "required": true,
+      "enum": ["吉", "半吉", "凶"],
+      "description": "吉凶寓意（传统姓名学评价）",
+      "example": "吉"
+    },
+    {
+      "key": "rare_flag",
+      "type": "boolean",
+      "required": false,
+      "default": false,
+      "description": "生僻字标记：不在《通用规范汉字表》一级字（3500常用字）为 true，用于字形筛选排除",
+      "example": false
+    },
+    {
+      "key": "difficult_flag",
+      "type": "boolean",
+      "required": false,
+      "default": false,
+      "description": "难写标记：简体笔画 > 20 画或结构极复杂为 true（以简体书写难度判定，非繁体）",
+      "example": false
+    },
+    {
+      "key": "homophone_risk",
+      "type": "string",
+      "required": false,
+      "default": "",
+      "description": "谐音风险说明：该字作为名用字时存在已知不雅/歧义谐音组合（如『伟』→杨伟→阳痿）；空串表示无已知风险。用于音韵硬过滤提示",
+      "example": "杨伟→阳痿"
+    },
+    {
+      "key": "gender_hint",
+      "type": "string",
+      "required": false,
+      "default": "neutral",
+      "enum": ["male", "female", "neutral"],
+      "description": "性别倾向提示：常用字库已用 105 万真实姓名语料校准（见 01-数据资料/性别语料库/性别倾向统计.json；男占比≥0.8→male、≤0.2→female、其余 neutral），语料未覆盖字保留传统用字习惯标注；用于候选字生成过滤，不强制",
+      "example": "neutral"
+    },
+    {
+      "key": "gender_hint_source",
+      "type": "string",
+      "required": false,
+      "default": "manual",
+      "enum": ["manual", "corpus"],
+      "description": "gender_hint 标注来源：corpus=姓名语料统计覆盖，manual=手工/传统习惯标注（语料样本不足时）",
+      "example": "corpus"
+    }
+  ],
+  "extension_fields": [
+    "zodiac_compat（生肖适配偏旁，可扩展）",
+    "variant_notes（多音字/异体字备注）",
+    "kangxi_estimated（康熙笔画为推算值，用于 hanzi_full 未收录康熙笔画的冷僻字）"
+  ],
+  "validation_rules": [
+    "char 与 traditional 均不允许为空",
+    "strokes_kangxi 必须为正整数，且与五格计算一致",
+    "wuxing 取值必须为五行之一",
+    "同一 char 在库内唯一"
+  ]
+}

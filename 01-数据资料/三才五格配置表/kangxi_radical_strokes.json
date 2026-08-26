@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "name": "康熙部首笔画变体表",
+    "version": "1.0",
+    "purpose": "姓名学五格计算的补充关键数据：汉字偏旁（部首）在康熙字典中的实际笔画与简体字形不同，计算/扩充字库笔画时必须按此表折算",
+    "usage": "1) 扩充字库时：某字康熙笔画 = 部首变体笔画 + 剩余部件康熙笔画（如『清』= 氵4 + 青8 = 12）；2) 校验字库 strokes_kangxi 正确性；3) 字库中已处理的字无需重复折算（字段已含变体），本表用于新增字",
+    "note": "表中『简体偏旁』为现代字形，『康熙笔画』为姓名学使用的偏旁实际笔画"
+  },
+  "radicals": [
+    { "radical": "氵", "name": "三点水", "simplified_strokes": 3, "kangxi_strokes": 4, "note": "『水』部变形，作偏旁计 4 画" },
+    { "radical": "扌", "name": "提手旁", "simplified_strokes": 3, "kangxi_strokes": 4, "note": "『手』部变形，作偏旁计 4 画" },
+    { "radical": "忄", "name": "竖心旁", "simplified_strokes": 3, "kangxi_strokes": 4, "note": "『心』部变形，作偏旁计 4 画" },
+    { "radical": "辶", "name": "走之旁", "simplified_strokes": 3, "kangxi_strokes": 4, "note": "『辵』部变形，作偏旁计 4 画" },
+    { "radical": "犭", "name": "反犬旁", "simplified_strokes": 3, "kangxi_strokes": 4, "note": "『犬』部变形，作偏旁计 4 画" },
+    { "radical": "丬", "name": "将字旁", "simplified_strokes": 3, "kangxi_strokes": 4, "note": "『爿』部，计 4 画" },
+    { "radical": "礻", "name": "示字旁", "simplified_strokes": 4, "kangxi_strokes": 5, "note": "『示』部变形，作偏旁计 5 画" },
+    { "radical": "王", "name": "斜玉旁", "simplified_strokes": 4, "kangxi_strokes": 5, "note": "『玉』部变形，作偏旁计 5 画（如瑾、瑜、瑞）" },
+    { "radical": "衤", "name": "衣字旁", "simplified_strokes": 5, "kangxi_strokes": 6, "note": "『衣』部变形，作偏旁计 6 画" },
+    { "radical": "艹", "name": "草字头", "simplified_strokes": 3, "kangxi_strokes": 6, "note": "『艸』部变形，作偏旁计 6 画（芳、若、萱）" },
+    { "radical": "钅", "name": "金字旁", "simplified_strokes": 5, "kangxi_strokes": 8, "note": "『金』部变形，作偏旁计 8 画（铭、钰、锋）" },
+    { "radical": "阝(左)", "name": "左耳旁", "simplified_strokes": 2, "kangxi_strokes": 8, "note": "『阜』部变形，作左偏旁计 8 画（陈、阳、陆）" },
+    { "radical": "阝(右)", "name": "右耳旁", "simplified_strokes": 2, "kangxi_strokes": 7, "note": "『邑』部变形，作右偏旁计 7 画（邦、那、都）" },
+    { "radical": "讠", "name": "言字旁", "simplified_strokes": 2, "kangxi_strokes": 7, "note": "『言』部变形，作偏旁计 7 画（诗、语、谦）" },
+    { "radical": "饣", "name": "食字旁", "simplified_strokes": 3, "kangxi_strokes": 9, "note": "『食』部变形，作偏旁计 9 画（饭、饱）" },
+    { "radical": "纟", "name": "绞丝旁", "simplified_strokes": 3, "kangxi_strokes": 6, "note": "『糸』部变形，作偏旁计 6 画（维、绮、纯）" },
+    { "radical": "攵", "name": "反文旁", "simplified_strokes": 4, "kangxi_strokes": 4, "note": "『攴』部，计 4 画" },
+    { "radical": "夂", "name": "折文", "simplified_strokes": 3, "kangxi_strokes": 3, "note": "计 3 画" },
+    { "radical": "刂", "name": "立刀旁", "simplified_strokes": 2, "kangxi_strokes": 2, "note": "『刀』部变形，计 2 画" },
+    { "radical": "冫", "name": "两点水", "simplified_strokes": 2, "kangxi_strokes": 2, "note": "『冫』部，计 2 画" },
+    { "radical": "灬", "name": "四点底", "simplified_strokes": 4, "kangxi_strokes": 4, "note": "『火』部变形，计 4 画" },
+    { "radical": "牜", "name": "牛字旁", "simplified_strokes": 4, "kangxi_strokes": 4, "note": "『牛』部变形，计 4 画" },
+    { "radical": "礻(示)", "name": "示字旁（繁体）", "simplified_strokes": 4, "kangxi_strokes": 5, "note": "同礻" },
+    { "radical": "月", "name": "月字旁", "simplified_strokes": 4, "kangxi_strokes": 4, "note": "『肉』部变形时计 4 画（肌、肤），『月』本义时计 4 画" },
+    { "radical": "阝", "name": "双耳旁（未区分）", "simplified_strokes": 2, "kangxi_strokes": "7-8", "note": "必须区分左右：左耳（阜）8 画、右耳（邑）7 画" }
+  ],
+  "common_pitfalls": [
+    { "char": "磊", "issue": "俗作 18 画（三石）", "correct": "康熙字典作 13 画？需查证", "action": "以《康熙字典》实际收录为准，勿按简体直觉" },
+    { "char": "王", "issue": "作偏旁（斜玉旁）计 5 画", "correct": "如瑾=16（王5+堇11）", "action": "部首为王旁时按 5 画" },
+    { "char": "艹", "issue": "简体 3 画，康熙 6 画", "correct": "如芳=10（艹6+方4）", "action": "草字头按 6 画" },
+    { "char": "氵", "issue": "简体 3 画，康熙 4 画", "correct": "如清=12（氵4+青8）", "action": "三点水按 4 画" }
+  ],
+  "validation": "扩充字库后，随机抽检含以上偏旁的字，核对 strokes_kangxi = 部首变体笔画 + 部件笔画"
+}

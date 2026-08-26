@@ -1,0 +1,43 @@
+{
+  "name": "经典文学取名素材字段规范",
+  "version": "1.0",
+  "fields": [
+    {
+      "key": "word",
+      "type": "string",
+      "description": "可取名的字/词",
+      "example": "修远"
+    },
+    {
+      "key": "origin",
+      "type": "string",
+      "description": "出处（书名·篇名）",
+      "example": "《楚辞·离骚》"
+    },
+    {
+      "key": "quote",
+      "type": "string",
+      "description": "原句（含上下文）",
+      "example": "路漫漫其修远兮，吾将上下而求索"
+    },
+    {
+      "key": "meaning",
+      "type": "string",
+      "description": "释义与取名寓意",
+      "example": "道路遥远而漫长，比喻求索之路"
+    },
+    {
+      "key": "usage",
+      "type": "string",
+      "description": "适用建议（性别/风格）",
+      "example": "男女皆宜，古风"
+    },
+    {
+      "key": "pinyin",
+      "type": "string",
+      "description": "读音（带声调，空格分隔）",
+      "example": "xiū yuǎn"
+    }
+  ],
+  "note": "素材为人工精选常用出处，生产环境可按'经典→篇目→原句→释义'结构持续扩充"
+}

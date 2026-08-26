@@ -1,0 +1,624 @@
+{
+ "source": "庄子",
+ "desc": "庄子取名素材（含知识库精读笔记提取）",
+ "items": [
+  {
+   "word": "鲲",
+   "origin": "《庄子·逍遥游》",
+   "quote": "北冥有鱼，其名为鲲",
+   "meaning": "巨大潜能深藏北溟",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "北冥",
+   "origin": "《庄子·逍遥游》",
+   "quote": "北冥有鱼，其名为鲲",
+   "meaning": "巨大潜能深藏北溟",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "鹏",
+   "origin": "《庄子·逍遥游》",
+   "quote": "化而为鸟，其名为鹏",
+   "meaning": "化鱼为鸟，前程万里",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "鹏程",
+   "origin": "《庄子·逍遥游》",
+   "quote": "化而为鸟，其名为鹏",
+   "meaning": "化鱼为鸟，前程万里",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "扶摇",
+   "origin": "《庄子·逍遥游》",
+   "quote": "抟扶摇而上者九万里",
+   "meaning": "乘旋风直上云霄",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "九万",
+   "origin": "《庄子·逍遥游》",
+   "quote": "抟扶摇而上者九万里",
+   "meaning": "乘旋风直上云霄",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "图南",
+   "origin": "《庄子·逍遥游》",
+   "quote": "而后乃今将图南",
+   "meaning": "立志向南（喻远大抱负，五代陈抟号\"扶摇子\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "御风",
+   "origin": "《庄子·逍遥游》",
+   "quote": "乘天地之正，而御六气之辩，以游无穷",
+   "meaning": "无所依凭的绝对自由（\"列子御风而行\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "游无穷",
+   "origin": "《庄子·逍遥游》",
+   "quote": "乘天地之正，而御六气之辩，以游无穷",
+   "meaning": "无所依凭的绝对自由（\"列子御风而行\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不加劝类",
+   "origin": "《庄子·逍遥游》",
+   "quote": "举世誉之而不加劝",
+   "meaning": "宠辱不惊",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "天籁",
+   "origin": "《庄子·齐物论》",
+   "quote": "天籁",
+   "meaning": "自然之音",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "并生",
+   "origin": "《庄子·齐物论》",
+   "quote": "天地与我并生，而万物与我为一",
+   "meaning": "天人合一",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "为一",
+   "origin": "《庄子·齐物论》",
+   "quote": "天地与我并生，而万物与我为一",
+   "meaning": "天人合一",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "游刃",
+   "origin": "《庄子·养生主》",
+   "quote": "庖丁解牛，游刃有余",
+   "meaning": "技艺纯熟，从容处世",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "恢恢",
+   "origin": "《庄子·养生主》",
+   "quote": "恢恢乎其于游刃必有余地矣",
+   "meaning": "绰绰有余",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有余",
+   "origin": "《庄子·养生主》",
+   "quote": "恢恢乎其于游刃必有余地矣",
+   "meaning": "绰绰有余",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "心斋",
+   "origin": "《庄子·人间世》",
+   "quote": "唯道集虚。虚者，心斋也",
+   "meaning": "空明的心境",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "虚室",
+   "origin": "《庄子·人间世》",
+   "quote": "虚室生白",
+   "meaning": "空明的心境生出光明",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "生白",
+   "origin": "《庄子·人间世》",
+   "quote": "虚室生白",
+   "meaning": "空明的心境生出光明",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "德长",
+   "origin": "《庄子·德充符》",
+   "quote": "德有所长而形有所忘",
+   "meaning": "德充于内",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "坐忘",
+   "origin": "《庄子·大宗师》",
+   "quote": "堕肢体，黜聪明，离形去知，同于大通，此谓坐忘",
+   "meaning": "物我两忘的境界",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "外天下类",
+   "origin": "《庄子·大宗师》",
+   "quote": "吾犹守而告之，参日而后能外天下",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "朝彻",
+   "origin": "《庄子·大宗师》",
+   "quote": "已外生矣，而后能朝彻",
+   "meaning": "如朝阳初启般的彻悟",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "见独",
+   "origin": "《庄子·大宗师》",
+   "quote": "朝彻而后能见独",
+   "meaning": "见到独立无待的道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "将迎类",
+   "origin": "《庄子·大宗师》",
+   "quote": "其为物，无不将也，无不迎也",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "若镜",
+   "origin": "《庄子·应帝王》",
+   "quote": "至人之用心若镜",
+   "meaning": "心如明镜，不将不迎",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "不累类",
+   "origin": "《庄子·骈拇》",
+   "quote": "不累于俗，不饰于物",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "淡然",
+   "origin": "《庄子·刻意》",
+   "quote": "淡然无极而众美从之",
+   "meaning": "恬淡虚无而众美归之",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无极",
+   "origin": "《庄子·刻意》",
+   "quote": "淡然无极而众美从之",
+   "meaning": "恬淡虚无而众美归之",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "秋水",
+   "origin": "《庄子·秋水》",
+   "quote": "秋水时至，百川灌河",
+   "meaning": "秋江之水，澄澈壮阔",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "望洋",
+   "origin": "《庄子·秋水》",
+   "quote": "望洋向若而叹",
+   "meaning": "见大知小（语境需辨）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "从容",
+   "origin": "《庄子·秋水》",
+   "quote": "濠梁观鱼，鯈鱼出游从容",
+   "meaning": "出游从容之乐（\"知鱼\"出自惠子问\"子非鱼安知鱼之乐\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知鱼",
+   "origin": "《庄子·秋水》",
+   "quote": "濠梁观鱼，鯈鱼出游从容",
+   "meaning": "出游从容之乐（\"知鱼\"出自惠子问\"子非鱼安知鱼之乐\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "相忘",
+   "origin": "《庄子·至乐》",
+   "quote": "相濡以沫，不如相忘于江湖",
+   "meaning": "旷达的深情",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "江湖",
+   "origin": "《庄子·至乐》",
+   "quote": "相濡以沫，不如相忘于江湖",
+   "meaning": "旷达的深情",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "大美",
+   "origin": "《庄子·知北游》",
+   "quote": "天地有大美而不言",
+   "meaning": "大美不言",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "不言",
+   "origin": "《庄子·知北游》",
+   "quote": "天地有大美而不言",
+   "meaning": "大美不言",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "原美",
+   "origin": "《庄子·知北游》",
+   "quote": "圣人者，原天地之美而达万物之理",
+   "meaning": "探究天地之美",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "达理",
+   "origin": "《庄子·知北游》",
+   "quote": "圣人者，原天地之美而达万物之理",
+   "meaning": "探究天地之美",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "静明",
+   "origin": "《庄子·天道》",
+   "quote": "水静犹明，而况精神",
+   "meaning": "静水明澈，精神澄明",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "\"卫生\"词源",
+   "origin": "《庄子·庚桑楚》",
+   "quote": "愿闻卫生之经而已矣",
+   "meaning": "护养生命的道理（现代\"卫生\"一词的古典源头）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "独往",
+   "origin": "《庄子·天下》",
+   "quote": "独与天地精神往来",
+   "meaning": "与天地精神相往来",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "精神往来",
+   "origin": "《庄子·天下》",
+   "quote": "独与天地精神往来",
+   "meaning": "与天地精神相往来",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "姑射",
+   "origin": "《庄子·逍遥游》",
+   "quote": "藐姑射之山，有神人居焉",
+   "meaning": "神女仙姿（射读yè）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "旁礴",
+   "origin": "《庄子·逍遥游》",
+   "quote": "之德也，将旁礴万物以为一",
+   "meaning": "气象磅礴",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "安时",
+   "origin": "《庄子·养生主》",
+   "quote": "安时而处顺，哀乐不能入也",
+   "meaning": "顺应自然，哀乐不侵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "处顺",
+   "origin": "《庄子·养生主》",
+   "quote": "安时而处顺，哀乐不能入也",
+   "meaning": "顺应自然，哀乐不侵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "薪传",
+   "origin": "《庄子·养生主》",
+   "quote": "指穷于为薪，火传也，不知其尽也",
+   "meaning": "薪火相传",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "才全",
+   "origin": "《庄子·德充符》",
+   "quote": "才全而德不形者也",
+   "meaning": "才性完备而不外露",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "利物",
+   "origin": "《庄子·天地》",
+   "quote": "爱人利物之谓仁",
+   "meaning": "爱人利物（与《道德经》\"利物\"互参）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "通德",
+   "origin": "《庄子·天地》",
+   "quote": "通于天地者，德也",
+   "meaning": "德通天地",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "养恬",
+   "origin": "《庄子·缮性》",
+   "quote": "古之治道者，以恬养知",
+   "meaning": "以恬静涵养心智",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "凝神",
+   "origin": "《庄子·达生》",
+   "quote": "用志不分，乃凝于神",
+   "meaning": "用志不分，精神凝聚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "澡雪",
+   "origin": "《庄子·知北游》",
+   "quote": "澡雪而精神",
+   "meaning": "澡雪精神，涤荡心尘",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "梦蝶",
+   "origin": "《庄子·齐物论》",
+   "quote": "昔者庄周梦为蝴蝶",
+   "meaning": "物我两忘（台湾诗人周梦蝶笔名出处）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "周蝶",
+   "origin": "《庄子·齐物论》",
+   "quote": "昔者庄周梦为蝴蝶",
+   "meaning": "物我两忘（台湾诗人周梦蝶笔名出处）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 56
+}

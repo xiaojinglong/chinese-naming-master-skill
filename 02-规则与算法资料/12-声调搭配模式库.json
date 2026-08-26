@@ -1,0 +1,219 @@
+{
+ "meta": {
+  "name": "声调搭配模式库",
+  "purpose": "2字名和3字名的声调组合评价，用于音韵筛选",
+  "tone_meaning": {
+   "1": "阴平",
+   "2": "阳平",
+   "3": "上声",
+   "4": "去声",
+   "0": "轻声"
+  }
+ },
+ "two_char_patterns": {
+  "excellent": [
+   {
+    "pattern": "1-2",
+    "example": "天明",
+    "note": "平起平收，清亮流畅"
+   },
+   {
+    "pattern": "2-1",
+    "example": "明德",
+    "note": "平起平收，温润流畅"
+   },
+   {
+    "pattern": "1-4",
+    "example": "天立",
+    "note": "平起仄收，抑扬顿挫"
+   },
+   {
+    "pattern": "4-1",
+    "example": "立天",
+    "note": "仄起平收，响亮有力"
+   },
+   {
+    "pattern": "2-4",
+    "example": "明志",
+    "note": "平起仄收，起伏有致"
+   },
+   {
+    "pattern": "4-2",
+    "example": "志明",
+    "note": "仄起平收，收音响亮"
+   }
+  ],
+  "good": [
+   {
+    "pattern": "1-3",
+    "example": "天晓",
+    "note": "平起上收，清亮但收尾稍弱"
+   },
+   {
+    "pattern": "3-1",
+    "example": "晓天",
+    "note": "上起平收，先抑后扬"
+   },
+   {
+    "pattern": "3-2",
+    "example": "晓德",
+    "note": "上起平收，温润流畅"
+   },
+   {
+    "pattern": "2-3",
+    "example": "明晓",
+    "note": "平起上收，流畅但收尾稍弱"
+   }
+  ],
+  "avoid": [
+   {
+    "pattern": "1-1",
+    "example": "天天",
+    "note": "全阴平，单调无变化"
+   },
+   {
+    "pattern": "2-2",
+    "example": "明明",
+    "note": "全阳平，单调无变化"
+   },
+   {
+    "pattern": "3-3",
+    "example": "晓晓",
+    "note": "全上声，拗口费力"
+   },
+   {
+    "pattern": "4-4",
+    "example": "志志",
+    "note": "全去声，生硬刺耳"
+   }
+  ]
+ },
+ "three_char_patterns": {
+  "excellent": [
+   {
+    "pattern": "1-2-1",
+    "example": "天明安",
+    "note": "平-平-平但有变化"
+   },
+   {
+    "pattern": "2-1-4",
+    "example": "明安志",
+    "note": "起伏有致"
+   },
+   {
+    "pattern": "1-4-2",
+    "example": "天志明",
+    "note": "抑扬顿挫"
+   },
+   {
+    "pattern": "4-1-2",
+    "example": "志天明",
+    "note": "响亮收尾"
+   },
+   {
+    "pattern": "2-3-1",
+    "example": "明晓天",
+    "note": "先抑后扬"
+   },
+   {
+    "pattern": "3-1-2",
+    "example": "晓天明",
+    "note": "起伏流畅"
+   }
+  ],
+  "good": [
+   {
+    "pattern": "1-3-2",
+    "example": "天晓明",
+    "note": "流畅"
+   },
+   {
+    "pattern": "3-2-1",
+    "example": "晓明天",
+    "note": "流畅"
+   },
+   {
+    "pattern": "4-2-1",
+    "example": "志明天",
+    "note": "收音响亮"
+   },
+   {
+    "pattern": "2-4-1",
+    "example": "明志天",
+    "note": "起伏有致"
+   }
+  ],
+  "avoid": [
+   {
+    "pattern": "1-1-1",
+    "example": "天天天",
+    "note": "全平，极度单调"
+   },
+   {
+    "pattern": "2-2-2",
+    "example": "明明明",
+    "note": "全平，极度单调"
+   },
+   {
+    "pattern": "3-3-3",
+    "example": "晓晓晓",
+    "note": "全仄，极度拗口"
+   },
+   {
+    "pattern": "4-4-4",
+    "example": "志志志",
+    "note": "全仄，极度刺耳"
+   }
+  ]
+ },
+ "surname_name_patterns": {
+  "principle": "姓氏与名字首字声调不同更流畅",
+  "good": [
+   {
+    "surname_tone": 1,
+    "name_first_tone": [
+     2,
+     3,
+     4
+    ],
+    "example": "张(1)+伟(3)"
+   },
+   {
+    "surname_tone": 2,
+    "name_first_tone": [
+     1,
+     3,
+     4
+    ],
+    "example": "刘(2)+晓(3)"
+   },
+   {
+    "surname_tone": 3,
+    "name_first_tone": [
+     1,
+     2,
+     4
+    ],
+    "example": "马(3)+云(2)"
+   },
+   {
+    "surname_tone": 4,
+    "name_first_tone": [
+     1,
+     2,
+     3
+    ],
+    "example": "赵(4)+云(2)"
+   }
+  ],
+  "neutral": [
+   {
+    "surname_tone": 1,
+    "name_first_tone": [
+     1
+    ],
+    "note": "同声但可接受"
+   }
+  ]
+ }
+}

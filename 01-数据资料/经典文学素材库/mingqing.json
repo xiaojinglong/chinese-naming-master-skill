@@ -1,0 +1,95 @@
+{
+ "source": "明清诗文",
+ "desc": "明清诗词文赋，兼收并蓄，适合\"复古/雅致\"风格",
+ "items": [
+  {
+   "word": "静思",
+   "origin": "王阳明《传习录》",
+   "quote": "静时亦觉意思好",
+   "meaning": "静心思考",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "知行",
+   "origin": "王阳明",
+   "quote": "知行合一",
+   "meaning": "知与行合一",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "观澜",
+   "origin": "杨慎《临江仙》",
+   "quote": "滚滚长江东逝水",
+   "meaning": "观波澜",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "若初",
+   "origin": "纳兰性德《木兰词》",
+   "quote": "人生若只如初见",
+   "meaning": "不忘初心",
+   "usage": "女名",
+   "pinyin": null,
+   "style_tags": [
+    "婉约"
+   ]
+  },
+  {
+   "word": "容若",
+   "origin": "纳兰性德",
+   "quote": "纳兰容若",
+   "meaning": "容貌若水",
+   "usage": "女名",
+   "pinyin": null,
+   "style_tags": [
+    "婉约"
+   ]
+  },
+  {
+   "word": "思齐",
+   "origin": "《论语》（明清沿用）",
+   "quote": "见贤思齐焉",
+   "meaning": "向贤者看齐",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "庭筠",
+   "origin": "温庭筠（晚唐，明清尊崇）",
+   "quote": "温庭筠诗词",
+   "meaning": "庭中筠竹",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "板桥",
+   "origin": "郑板桥（清代）",
+   "quote": "郑燮号板桥",
+   "meaning": "木板桥",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  }
+ ],
+ "count": 8
+}

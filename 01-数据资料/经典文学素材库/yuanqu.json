@@ -1,0 +1,73 @@
+{
+ "source": "元曲",
+ "desc": "元代散曲杂剧，清新自然，适合\"清新/灵动\"风格",
+ "items": [
+  {
+   "word": "清安",
+   "origin": "关汉卿《窦娥冤》",
+   "quote": "天地也，只合把清浊分辨",
+   "meaning": "清平安宁",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "玉山",
+   "origin": "马致远《天净沙·秋思》",
+   "quote": "枯藤老树昏鸦，小桥流水人家",
+   "meaning": "玉质山骨",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "云帆",
+   "origin": "张可久《卖花声·怀古》",
+   "quote": "云帆望远，烟水茫茫",
+   "meaning": "云中帆影",
+   "usage": "男名",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "梦华",
+   "origin": "白朴《梧桐雨》",
+   "quote": "梦华录，繁华事散",
+   "meaning": "梦中繁华",
+   "usage": "女名",
+   "pinyin": null,
+   "style_tags": [
+    "婉约"
+   ]
+  },
+  {
+   "word": "清江",
+   "origin": "乔吉《水仙子·寻梅》",
+   "quote": "清江一曲抱村流",
+   "meaning": "清澈江水",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "雪晴",
+   "origin": "张养浩《山坡羊·潼关怀古》",
+   "quote": "峰峦如聚，波涛如怒",
+   "meaning": "雪后初晴",
+   "usage": "女名",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  }
+ ],
+ "count": 6
+}

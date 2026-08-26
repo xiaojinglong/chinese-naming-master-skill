@@ -1,0 +1,406 @@
+{
+ "source": "大学",
+ "desc": "大学取名素材（含知识库精读笔记提取）",
+ "items": [
+  {
+   "word": "明德",
+   "origin": "《大学》",
+   "quote": "大学之道，在明明德",
+   "meaning": "彰显光明的德性",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "明明",
+   "origin": "《大学》",
+   "quote": "大学之道，在明明德",
+   "meaning": "彰显光明的德性",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "亲民",
+   "origin": "《大学》",
+   "quote": "在亲民（新民）",
+   "meaning": "亲爱民众／使人自新",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "新民",
+   "origin": "《大学》",
+   "quote": "在亲民（新民）",
+   "meaning": "亲爱民众／使人自新",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "至善",
+   "origin": "《大学》",
+   "quote": "在止于至善",
+   "meaning": "达到最完善的境界（东南大学校训）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "知止",
+   "origin": "《大学》",
+   "quote": "知止而后有定",
+   "meaning": "知道目标而后志向坚定",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有定",
+   "origin": "《大学》",
+   "quote": "知止而后有定",
+   "meaning": "知道目标而后志向坚定",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "能静",
+   "origin": "《大学》",
+   "quote": "定而后能静",
+   "meaning": "心神宁静",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "能安",
+   "origin": "《大学》",
+   "quote": "静而后能安",
+   "meaning": "安然自处",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "能虑",
+   "origin": "《大学》",
+   "quote": "安而后能虑",
+   "meaning": "思虑周详",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "日新",
+   "origin": "《大学》",
+   "quote": "苟日新，日日新，又日新",
+   "meaning": "不断自我革新（清华日新楼、无数校训之源）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "作新",
+   "origin": "《大学》",
+   "quote": "作新民",
+   "meaning": "激励民众自新",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "维新",
+   "origin": "《大学》",
+   "quote": "周虽旧邦，其命维新",
+   "meaning": "革故鼎新（引《诗经·大雅·文王》）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "慎独",
+   "origin": "《大学》",
+   "quote": "君子必慎其独也",
+   "meaning": "独处时也谨慎自律",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知美",
+   "origin": "《大学》",
+   "quote": "好而知其恶，恶而知其美",
+   "meaning": "客观明辨",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "德本",
+   "origin": "《大学》",
+   "quote": "德者本也，财者末也",
+   "meaning": "以德为根本",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "心广",
+   "origin": "《大学》",
+   "quote": "心广体胖（pán）",
+   "meaning": "心胸宽广（\"体胖\"义为安舒，勿误会）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "切磋",
+   "origin": "《大学》",
+   "quote": "如切如磋，如琢如磨",
+   "meaning": "精益求精（引《诗经·卫风·淇奥》）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "琢磨",
+   "origin": "《大学》",
+   "quote": "如切如磋，如琢如磨",
+   "meaning": "精益求精（引《诗经·卫风·淇奥》）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有诸",
+   "origin": "《大学》",
+   "quote": "君子有诸己而后求诸人",
+   "meaning": "严于律己",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "治平",
+   "origin": "《大学》",
+   "quote": "国治而后天下平",
+   "meaning": "治国安邦",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "国治",
+   "origin": "《大学》",
+   "quote": "国治而后天下平",
+   "meaning": "治国安邦",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "修身",
+   "origin": "《大学》",
+   "quote": "修身、齐家",
+   "meaning": "修养自身，整顿家道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "齐家",
+   "origin": "《大学》",
+   "quote": "修身、齐家",
+   "meaning": "修养自身，整顿家道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "格致",
+   "origin": "《大学》",
+   "quote": "格物致知",
+   "meaning": "研究事物获得知识",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "致知",
+   "origin": "《大学》",
+   "quote": "格物致知",
+   "meaning": "研究事物获得知识",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "诚正",
+   "origin": "《大学》",
+   "quote": "诚意正心",
+   "meaning": "意念真诚，心术端正",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "正心",
+   "origin": "《大学》",
+   "quote": "诚意正心",
+   "meaning": "意念真诚，心术端正",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "本末",
+   "origin": "《大学》",
+   "quote": "物有本末，事有终始",
+   "meaning": "有始有终，知所先后",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "终始",
+   "origin": "《大学》",
+   "quote": "物有本末，事有终始",
+   "meaning": "有始有终，知所先后",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "心诚",
+   "origin": "《大学》",
+   "quote": "心诚求之，虽不中不远矣",
+   "meaning": "以诚心追求",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "润身",
+   "origin": "《大学》",
+   "quote": "富润屋，德润身",
+   "meaning": "德泽身心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "兴仁",
+   "origin": "《大学》",
+   "quote": "一家仁，一国兴仁",
+   "meaning": "家仁则国兴仁",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "兴孝",
+   "origin": "《大学》",
+   "quote": "上老老而民兴孝",
+   "meaning": "尊老之风自上而下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "絜矩",
+   "origin": "《大学》",
+   "quote": "君子有絜矩之道也",
+   "meaning": "推己及人的标尺",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "盛德",
+   "origin": "《大学》",
+   "quote": "道盛德至善，民之不能忘也",
+   "meaning": "德业盛大",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  }
+ ],
+ "count": 36
+}

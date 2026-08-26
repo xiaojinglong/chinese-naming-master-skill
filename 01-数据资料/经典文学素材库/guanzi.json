@@ -1,0 +1,338 @@
+{
+ "source": "管子",
+ "desc": "管子取名素材（含知识库精读笔记提取）",
+ "items": [
+  {
+   "word": "树人",
+   "origin": "《管子·权修》",
+   "quote": "终身之计，莫如树人",
+   "meaning": "培养人才，百年大计（周树人）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "百获",
+   "origin": "《管子·权修》",
+   "quote": "一树百获者，人也",
+   "meaning": "培养人的回报最丰厚",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知礼",
+   "origin": "《管子·牧民》",
+   "quote": "仓廪实则知礼节",
+   "meaning": "富而知礼",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知荣",
+   "origin": "《管子·牧民》",
+   "quote": "衣食足则知荣辱",
+   "meaning": "明辨荣辱",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "四维",
+   "origin": "《管子·牧民》",
+   "quote": "国之四维",
+   "meaning": "礼义廉耻（人名\"四维\"多出此，如清华国学四大导师之一年号联想）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "顺民类",
+   "origin": "《管子·牧民》",
+   "quote": "顺民心者，政兴",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "辞水类",
+   "origin": "《管子·形势》",
+   "quote": "海不辞水，故能成其大",
+   "meaning": "纳百川而成其大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "成其大",
+   "origin": "《管子·形势》",
+   "quote": "海不辞水，故能成其大",
+   "meaning": "纳百川而成其大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "成其高",
+   "origin": "《管子·形势》",
+   "quote": "山不辞土石，故能成其高",
+   "meaning": "积累成高",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "静气",
+   "origin": "《管子·内业》",
+   "quote": "心静气理",
+   "meaning": "沉静有涵养",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "心静",
+   "origin": "《管子·内业》",
+   "quote": "心静气理",
+   "meaning": "沉静有涵养",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "精气类",
+   "origin": "《管子·内业》",
+   "quote": "精也者，气之精者也",
+   "meaning": "生命本原",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "虚静",
+   "origin": "《管子·心术》",
+   "quote": "虚而静",
+   "meaning": "道家心境",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "泽命",
+   "origin": "《管子·小问》",
+   "quote": "泽命不渝",
+   "meaning": "恩泽之命不改易（\"不渝\"坚贞义）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不渝",
+   "origin": "《管子·小问》",
+   "quote": "泽命不渝",
+   "meaning": "恩泽之命不改易（\"不渝\"坚贞义）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "补益类",
+   "origin": "《管子·牧民》",
+   "quote": "不作无补之功，不为无益之事",
+   "meaning": "只做有益之事",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "正形",
+   "origin": "《管子·心术下》",
+   "quote": "形不正者，德不来",
+   "meaning": "端正形体以养德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "来德",
+   "origin": "《管子·心术下》",
+   "quote": "形不正者，德不来",
+   "meaning": "端正形体以养德",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "安德",
+   "origin": "《管子·内业》",
+   "quote": "不可止以力，而可安以德",
+   "meaning": "以德安气",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "敬慎",
+   "origin": "《管子·内业》",
+   "quote": "敬慎无忒",
+   "meaning": "恭敬谨慎而无差错",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（政令体",
+   "origin": "《管子·立政》",
+   "quote": "期而致，使而往，而民不穷",
+   "meaning": "政令及时",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "取名素材少）",
+   "origin": "《管子·立政》",
+   "quote": "期而致，使而往，而民不穷",
+   "meaning": "政令及时",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "天心",
+   "origin": "《管子·宙合》",
+   "quote": "道之在天者，日也；在人者，心也",
+   "meaning": "天道与人心的类比",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "—（戒警义",
+   "origin": "《管子·枢言》",
+   "quote": "善人在患，饥不及食",
+   "meaning": "善人遭难",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不入名）",
+   "origin": "《管子·枢言》",
+   "quote": "善人在患，饥不及食",
+   "meaning": "善人遭难",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（观政体",
+   "origin": "《管子·八观》",
+   "quote": "行其田野，视其耕芸",
+   "meaning": "八项治国之观",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（法度体",
+   "origin": "《管子·法禁》",
+   "quote": "法者，所以一民使不行也",
+   "meaning": "法度约束",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（戒令义",
+   "origin": "《管子·戒》",
+   "quote": "从令者失父",
+   "meaning": "戒骄戒怠",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "兴从",
+   "origin": "《管子·弟子职》",
+   "quote": "先生若作，乃兴而从",
+   "meaning": "随师而兴起",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "温恭",
+   "origin": "《管子·弟子职》",
+   "quote": "温恭自虚，则所闻合微",
+   "meaning": "温和恭敬，虚心受教",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 30
+}

@@ -1,0 +1,1902 @@
+{
+ "source": "道德经",
+ "desc": "道家经典，哲理冲淡，多用于'淡雅/睿智'风格",
+ "items": [
+  {
+   "word": "若水",
+   "origin": "《道德经》第八章",
+   "quote": "上善若水。水善利万物而不争",
+   "meaning": "最高的善像水一样，利万物而不争",
+   "usage": "男女皆宜",
+   "pinyin": "ruò shuǐ",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "上善",
+   "origin": "《道德经》第八章",
+   "quote": "上善若水",
+   "meaning": "至高的善",
+   "usage": "男女皆宜",
+   "pinyin": "shàng shàn",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "守静",
+   "origin": "《道德经》第十六章",
+   "quote": "致虚极，守静笃",
+   "meaning": "保持内心的虚静",
+   "usage": "男女皆宜",
+   "pinyin": "shǒu jìng",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "若谷",
+   "origin": "《道德经》第四十一章",
+   "quote": "上德若谷",
+   "meaning": "最高德行如山谷般虚怀",
+   "usage": "男名",
+   "pinyin": "ruò gǔ",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "抱朴",
+   "origin": "《道德经》第十九章",
+   "quote": "见素抱朴，少私寡欲",
+   "meaning": "保持本真、淳朴",
+   "usage": "男女皆宜",
+   "pinyin": "bào pǔ",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "和光",
+   "origin": "《道德经》第四章",
+   "quote": "和其光，同其尘",
+   "meaning": "含敛锋芒、与世和同",
+   "usage": "男女皆宜",
+   "pinyin": "hé guāng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知足",
+   "origin": "《道德经》第三十三章",
+   "quote": "知足者富",
+   "meaning": "知足常乐、内心富足",
+   "usage": "男女皆宜",
+   "pinyin": "zhī zú",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "守柔",
+   "origin": "《道德经》第五十二章",
+   "quote": "守柔曰强",
+   "meaning": "保持柔韧才是真正的强",
+   "usage": "男名",
+   "pinyin": "shǒu róu",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "常道",
+   "origin": "《道德经》第一章",
+   "quote": "道可道，非常道",
+   "meaning": "恒常的大道",
+   "usage": "男名",
+   "pinyin": "cháng dào",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "希声",
+   "origin": "《道德经》第四十一章",
+   "quote": "大音希声，大象无形",
+   "meaning": "最大的声响反而无声，喻深厚内敛",
+   "usage": "男女皆宜",
+   "pinyin": "xī shēng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "自然",
+   "origin": "《道德经》第二十五章",
+   "quote": "人法地，地法天，天法道，道法自然",
+   "meaning": "顺其自然、本真天成",
+   "usage": "男女皆宜",
+   "pinyin": "zì rán",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "善行",
+   "origin": "《道德经》第二十七章",
+   "quote": "善行无辙迹",
+   "meaning": "善于行事而不留痕迹",
+   "usage": "男名",
+   "pinyin": "shàn xíng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "静笃",
+   "origin": "《道德经》第十六章",
+   "quote": "致虚极，守静笃",
+   "meaning": "内心宁静笃定",
+   "usage": "男女皆宜",
+   "pinyin": "jìng dǔ",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "知常",
+   "origin": "《道德经》第十六章",
+   "quote": "知常曰明",
+   "meaning": "了解恒常规律即为明智",
+   "usage": "男名",
+   "pinyin": "zhī cháng",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "至简",
+   "origin": "《道德经》衍义",
+   "quote": "大道至简（后人对'大音希声'等句的概括）",
+   "meaning": "真正的道理最简单",
+   "usage": "男女皆宜",
+   "pinyin": "zhì jiǎn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "虚极",
+   "origin": "《道德经》第十六章",
+   "quote": "致虚极，守静笃",
+   "meaning": "虚至极点，喻心境空明",
+   "usage": "男女皆宜",
+   "pinyin": "xū jí",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "知和",
+   "origin": "《道德经》第五十五章",
+   "quote": "知和曰常，知常曰明",
+   "meaning": "懂得和谐，喻通达智慧",
+   "usage": "男名",
+   "pinyin": "zhī hé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "明道",
+   "origin": "《道德经》第四十一章",
+   "quote": "明道若昧，进道若退",
+   "meaning": "光明之道，喻智慧通达",
+   "usage": "男名",
+   "pinyin": "míng dào",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "抱一",
+   "origin": "《道德经》第十章",
+   "quote": "载营魄抱一，能无离乎",
+   "meaning": "坚守本一，喻专一不二",
+   "usage": "男名",
+   "pinyin": "bào yī",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "玄德",
+   "origin": "《道德经》第十章",
+   "quote": "生而不有，为而不恃，长而不宰，是谓玄德",
+   "meaning": "深远之德，喻德行深厚",
+   "usage": "男名",
+   "pinyin": "xuán dé",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "慈俭",
+   "origin": "《道德经》第六十七章",
+   "quote": "我有三宝，持而保之：一曰慈，二曰俭，三曰不敢为天下先",
+   "meaning": "慈爱节俭，喻仁厚朴实",
+   "usage": "男女皆宜",
+   "pinyin": "cí jiǎn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不争",
+   "origin": "《道德经》第八章",
+   "quote": "夫唯不争，故无尤",
+   "meaning": "不与人争，喻淡泊从容",
+   "usage": "男女皆宜",
+   "pinyin": "bù zhēng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "复归",
+   "origin": "《道德经》第十六章",
+   "quote": "夫物芸芸，各复归其根",
+   "meaning": "回归本源，喻不忘初心",
+   "usage": "男女皆宜",
+   "pinyin": "fù guī",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "光尘",
+   "origin": "《道德经》第四章",
+   "quote": "和其光，同其尘",
+   "meaning": "收敛光芒与尘世同，喻低调谦和",
+   "usage": "男女皆宜",
+   "pinyin": "guāng chén",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "大方",
+   "origin": "《道德经》第四十一章",
+   "quote": "大方无隅，大器晚成",
+   "meaning": "大方正无棱角，喻大度包容",
+   "usage": "男女皆宜",
+   "pinyin": "dà fāng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "归根",
+   "origin": "《道德经》第十六章",
+   "quote": "归根曰静，静曰复命",
+   "meaning": "回归根本，喻返璞归真",
+   "usage": "男女皆宜",
+   "pinyin": "guī gēn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "柔弱",
+   "origin": "《道德经》第七十六章",
+   "quote": "强大处下，柔弱处上",
+   "meaning": "柔韧谦下，喻以柔克刚",
+   "usage": "男女皆宜",
+   "pinyin": "róu ruò",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "知美",
+   "origin": "《道德经·2》",
+   "quote": "天下皆知美之为美",
+   "meaning": "认识美",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "虚心类",
+   "origin": "《道德经·3》",
+   "quote": "虚其心，实其腹",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "同尘",
+   "origin": "《道德经·4》",
+   "quote": "和其光，同其尘",
+   "meaning": "收敛锋芒，与世无争（钱玄同之名出\"是谓玄同\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "玄同",
+   "origin": "《道德经·4》",
+   "quote": "和其光，同其尘",
+   "meaning": "收敛锋芒，与世无争（钱玄同之名出\"是谓玄同\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "善利",
+   "origin": "《道德经·8》",
+   "quote": "上善若水，水善利万物而不争",
+   "meaning": "最高境界的善如水般滋养万物",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "致柔",
+   "origin": "《道德经·10》",
+   "quote": "专气致柔，能婴儿乎",
+   "meaning": "聚气到最柔和",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "致虚",
+   "origin": "《道德经·16》",
+   "quote": "致虚极，守静笃",
+   "meaning": "心灵虚空到极致，持守宁静",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "复命",
+   "origin": "《道德经·16》",
+   "quote": "归根曰静，静曰复命",
+   "meaning": "返回本原",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知常明",
+   "origin": "《道德经·16》",
+   "quote": "知常曰明",
+   "meaning": "认识常道才叫明智",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "淡泊类意象",
+   "origin": "《道德经·20》",
+   "quote": "我独泊兮其未兆",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "则全",
+   "origin": "《道德经·22》",
+   "quote": "曲则全，枉则直",
+   "meaning": "委曲求全（语境微妙）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "希言",
+   "origin": "《道德经·23》",
+   "quote": "希言自然",
+   "meaning": "少发号施令合乎自然",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "法自然",
+   "origin": "《道德经·25》",
+   "quote": "人法地，地法天，天法道，道法自然",
+   "meaning": "效法自然",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "法天",
+   "origin": "《道德经·25》",
+   "quote": "人法地，地法天，天法道，道法自然",
+   "meaning": "效法自然",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "守雌",
+   "origin": "《道德经·28》",
+   "quote": "知其雄，守其雌",
+   "meaning": "守柔处下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "知雄",
+   "origin": "《道德经·28》",
+   "quote": "知其雄，守其雌",
+   "meaning": "守柔处下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "知白",
+   "origin": "《道德经·28》",
+   "quote": "知其白，守其黑",
+   "meaning": "大智若愚的黑白观（书画\"知白守黑\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "守黑",
+   "origin": "《道德经·28》",
+   "quote": "知其白，守其黑",
+   "meaning": "大智若愚的黑白观（书画\"知白守黑\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "守辱类",
+   "origin": "《道德经·28》",
+   "quote": "知其荣，守其辱",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "归婴类",
+   "origin": "《道德经·28》",
+   "quote": "复归于婴儿",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知止",
+   "origin": "《道德经·32》",
+   "quote": "知止可以不殆",
+   "meaning": "知道适可而止",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知人",
+   "origin": "《道德经·33》",
+   "quote": "知人者智，自知者明",
+   "meaning": "洞悉他人与自我",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自知",
+   "origin": "《道德经·33》",
+   "quote": "知人者智，自知者明",
+   "meaning": "洞悉他人与自我",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "智明",
+   "origin": "《道德经·33》",
+   "quote": "知人者智，自知者明",
+   "meaning": "洞悉他人与自我",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自胜",
+   "origin": "《道德经·33》",
+   "quote": "胜人者有力，自胜者强",
+   "meaning": "战胜自己才是真强大",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "有力",
+   "origin": "《道德经·33》",
+   "quote": "胜人者有力，自胜者强",
+   "meaning": "战胜自己才是真强大",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "不亡类",
+   "origin": "《道德经·33》",
+   "quote": "死而不亡者寿",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "泛兮类",
+   "origin": "《道德经·34》",
+   "quote": "大道泛兮，其可左右",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "执象",
+   "origin": "《道德经·35》",
+   "quote": "执大象，天下往",
+   "meaning": "掌握大道，天下归往",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "大象",
+   "origin": "《道德经·35》",
+   "quote": "执大象，天下往",
+   "meaning": "掌握大道，天下归往",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "胜刚",
+   "origin": "《道德经·36》",
+   "quote": "柔弱胜刚强",
+   "meaning": "柔能克刚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "不取",
+   "origin": "《道德经·39》",
+   "quote": "致数舆无舆",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "道动",
+   "origin": "《道德经·40》",
+   "quote": "反者道之动",
+   "meaning": "循环往复是道的运动",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "大器",
+   "origin": "《道德经·41》",
+   "quote": "大器晚成（帛书作\"大器免成\"）",
+   "meaning": "大才晚成",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "无形",
+   "origin": "《道德经·41》",
+   "quote": "大音希声，大象无形",
+   "meaning": "至大之境超乎形声",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "若拙",
+   "origin": "《道德经·45》",
+   "quote": "大直若屈，大巧若拙，大辩若讷",
+   "meaning": "大智若愚的修辞原型",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "若讷",
+   "origin": "《道德经·45》",
+   "quote": "大直若屈，大巧若拙，大辩若讷",
+   "meaning": "大智若愚的修辞原型",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "善建",
+   "origin": "《道德经·54》",
+   "quote": "善建者不拔",
+   "meaning": "善于建立的根基牢固",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知言类",
+   "origin": "《道德经·56》",
+   "quote": "知者不言，言者不知",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "美言类",
+   "origin": "《道德经·62》",
+   "quote": "美言可以市尊",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "作易类",
+   "origin": "《道德经·63》",
+   "quote": "天下难事必作于易",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "千里",
+   "origin": "《道德经·64》",
+   "quote": "千里之行，始于足下",
+   "meaning": "远大始于脚下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "始足",
+   "origin": "《道德经·64》",
+   "quote": "千里之行，始于足下",
+   "meaning": "远大始于脚下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "深远",
+   "origin": "《道德经·65》",
+   "quote": "玄德深矣远矣",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "江海",
+   "origin": "《道德经·66》",
+   "quote": "江海所以能为百谷王者",
+   "meaning": "谦下汇聚成大",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "百谷",
+   "origin": "《道德经·66》",
+   "quote": "江海所以能为百谷王者",
+   "meaning": "谦下汇聚成大",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "知不知类",
+   "origin": "《道德经·71》",
+   "quote": "知不知，尚矣",
+   "meaning": "知道自己的无知",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自爱",
+   "origin": "《道德经·72》",
+   "quote": "自知自爱",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "柔生",
+   "origin": "《道德经·76》",
+   "quote": "柔弱者生之徒",
+   "meaning": "柔韧生机",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "利物",
+   "origin": "《道德经·81》",
+   "quote": "天之道，利而不害；圣人之道，为而不争",
+   "meaning": "利泽万物而不争",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "为而",
+   "origin": "《道德经·81》",
+   "quote": "天之道，利而不害；圣人之道，为而不争",
+   "meaning": "利泽万物而不争",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "众妙",
+   "origin": "《道德经·1》",
+   "quote": "玄之又玄，众妙之门",
+   "meaning": "万物奥妙之总门",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "功遂",
+   "origin": "《道德经·9》",
+   "quote": "功遂身退，天之道也",
+   "meaning": "功成身退",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "若朴",
+   "origin": "《道德经·15》",
+   "quote": "敦兮其若朴，旷兮其若谷",
+   "meaning": "敦厚如朴，虚怀若谷",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "若海",
+   "origin": "《道德经·15》",
+   "quote": "澹兮其若海",
+   "meaning": "恬静如海",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "见素",
+   "origin": "《道德经·19》",
+   "quote": "见素抱朴，少私寡欲",
+   "meaning": "葛洪号\"抱朴子\"之源",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "归朴",
+   "origin": "《道德经·28》",
+   "quote": "常德乃足，复归于朴",
+   "meaning": "返归质朴",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "有志",
+   "origin": "《道德经·33》",
+   "quote": "强行者有志",
+   "meaning": "勉力行道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "安平",
+   "origin": "《道德经·35》",
+   "quote": "往而不害，安平太",
+   "meaning": "安宁太平",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自定",
+   "origin": "《道德经·37》",
+   "quote": "不欲以静，天下将自定",
+   "meaning": "清静自定",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "川谷",
+   "origin": "《道德经·39》",
+   "quote": "譬道之在天下，犹川谷之于江海",
+   "meaning": "川谷归江海",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "冲和",
+   "origin": "《道德经·42》",
+   "quote": "万物负阴而抱阳，冲气以为和",
+   "meaning": "阴阳冲和",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "清正",
+   "origin": "《道德经·45》",
+   "quote": "清静为天下正",
+   "meaning": "清静为天下之正",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "静正",
+   "origin": "《道德经·45》",
+   "quote": "清静为天下正",
+   "meaning": "清静为天下之正",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "归明",
+   "origin": "《道德经·52》",
+   "quote": "用其光，复归其明",
+   "meaning": "用其光，归其明",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "善抱",
+   "origin": "《道德经·54》",
+   "quote": "善抱者不脱",
+   "meaning": "善于持守",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "德厚",
+   "origin": "《道德经·55》",
+   "quote": "含德之厚，比于赤子",
+   "meaning": "德性浑厚，赤子之心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "赤子",
+   "origin": "《道德经·55》",
+   "quote": "含德之厚，比于赤子",
+   "meaning": "德性浑厚，赤子之心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "淳淳",
+   "origin": "《道德经·58》",
+   "quote": "其政闷闷，其民淳淳",
+   "meaning": "民风淳厚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "慎始",
+   "origin": "《道德经·64》",
+   "quote": "慎终如始，则无败事",
+   "meaning": "慎始敬终",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "怀玉",
+   "origin": "《道德经·70》",
+   "quote": "圣人被褐怀玉",
+   "meaning": "外朴内玉",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "守中",
+   "origin": "《道德经·5》",
+   "quote": "多言数穷，不如守中",
+   "meaning": "守持中道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "谷神",
+   "origin": "《道德经·6》",
+   "quote": "谷神不死，是谓玄牝",
+   "meaning": "虚谷之神，生生不息",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "天长",
+   "origin": "《道德经·7》",
+   "quote": "天长地久",
+   "meaning": "天地长存；\"天长\"亦地名",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "地久",
+   "origin": "《道德经·7》",
+   "quote": "天长地久",
+   "meaning": "天地长存；\"天长\"亦地名",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "后身",
+   "origin": "《道德经·7》",
+   "quote": "圣人后其身而身先",
+   "meaning": "退让反而居先",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "成私",
+   "origin": "《道德经·7》",
+   "quote": "非以其无私邪？故能成其私",
+   "meaning": "无私反能成就（语境微妙）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "为用",
+   "origin": "《道德经·11》",
+   "quote": "有之以为利，无之以为用",
+   "meaning": "无为之用",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（戒律义",
+   "origin": "《道德经·12》",
+   "quote": "五色令人目盲，五音令人耳聋",
+   "meaning": "戒感官放纵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不入名）",
+   "origin": "《道德经·12》",
+   "quote": "五色令人目盲，五音令人耳聋",
+   "meaning": "戒感官放纵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "宠辱",
+   "origin": "《道德经·13》",
+   "quote": "宠辱若惊",
+   "meaning": "宠辱不动于心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "若惊",
+   "origin": "《道德经·13》",
+   "quote": "宠辱若惊",
+   "meaning": "宠辱不动于心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "太上",
+   "origin": "《道德经·17》",
+   "quote": "太上，下知有之",
+   "meaning": "最高境界",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "贵言",
+   "origin": "《道德经·17》",
+   "quote": "悠兮其贵言",
+   "meaning": "慎言贵语",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "孝慈",
+   "origin": "《道德经·18》",
+   "quote": "六亲不和有孝慈，国家昏乱有忠臣",
+   "meaning": "反衬语境（善时可取\"孝慈\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "忠臣",
+   "origin": "《道德经·18》",
+   "quote": "六亲不和有孝慈，国家昏乱有忠臣",
+   "meaning": "反衬语境（善时可取\"孝慈\"）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "孔德",
+   "origin": "《道德经·21》",
+   "quote": "孔德之容，惟道是从",
+   "meaning": "大德之容，惟道是从",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "从道",
+   "origin": "《道德经·21》",
+   "quote": "孔德之容，惟道是从",
+   "meaning": "大德之容，惟道是从",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "有道",
+   "origin": "《道德经·24》",
+   "quote": "物或恶之，故有道者不处",
+   "meaning": "有道者不处恶行",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "重根",
+   "origin": "《道德经·26》",
+   "quote": "重为轻根，静为躁君",
+   "meaning": "沉重为轻浮之根，宁静为躁动之主",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "静君",
+   "origin": "《道德经·26》",
+   "quote": "重为轻根，静为躁君",
+   "meaning": "沉重为轻浮之根，宁静为躁动之主",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "无瑕",
+   "origin": "《道德经·27》",
+   "quote": "善行无辙迹，善言无瑕谪",
+   "meaning": "善行不露痕迹，善言无瑕疵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "常善",
+   "origin": "《道德经·27》",
+   "quote": "圣人常善救人，故无弃人",
+   "meaning": "常善于救人，无废弃之人",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无弃",
+   "origin": "《道德经·27》",
+   "quote": "圣人常善救人，故无弃人",
+   "meaning": "常善于救人，无废弃之人",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "去奢",
+   "origin": "《道德经·29》",
+   "quote": "去甚去奢去泰",
+   "meaning": "去除极端奢泰",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "去泰",
+   "origin": "《道德经·29》",
+   "quote": "去甚去奢去泰",
+   "meaning": "去除极端奢泰",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（衰老义",
+   "origin": "《道德经·30》",
+   "quote": "物壮则老，是谓不道",
+   "meaning": "极盛则衰",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "恬淡",
+   "origin": "《道德经·31》",
+   "quote": "恬淡为上",
+   "meaning": "恬静淡泊为上",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "上德",
+   "origin": "《道德经·38》",
+   "quote": "上德不德，是以有德",
+   "meaning": "最高之德不自居德",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "有德",
+   "origin": "《道德经·38》",
+   "quote": "上德不德，是以有德",
+   "meaning": "最高之德不自居德",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "处厚",
+   "origin": "《道德经·38》",
+   "quote": "大丈夫处其厚不居其薄，处其实不居其华",
+   "meaning": "立身敦厚务实",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "处实",
+   "origin": "《道德经·38》",
+   "quote": "大丈夫处其厚不居其薄，处其实不居其华",
+   "meaning": "立身敦厚务实",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "至柔",
+   "origin": "《道德经·43》",
+   "quote": "天下之至柔，驰骋天下之至坚",
+   "meaning": "至柔克至坚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "至坚",
+   "origin": "《道德经·43》",
+   "quote": "天下之至柔，驰骋天下之至坚",
+   "meaning": "至柔克至坚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "不言",
+   "origin": "《道德经·43》",
+   "quote": "不言之教，无为之益",
+   "meaning": "无言之教化",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无为益",
+   "origin": "《道德经·43》",
+   "quote": "不言之教，无为之益",
+   "meaning": "无言之教化",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "长久",
+   "origin": "《道德经·44》",
+   "quote": "知足不辱，知止不殆，可以长久",
+   "meaning": "知足知止则长久",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "常足",
+   "origin": "《道德经·46》",
+   "quote": "故知足之足，常足矣",
+   "meaning": "恒常知足",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知天下",
+   "origin": "《道德经·47》",
+   "quote": "不出户，知天下；不窥牖，见天道",
+   "meaning": "内省可知天道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "见天道",
+   "origin": "《道德经·47》",
+   "quote": "不出户，知天下；不窥牖，见天道",
+   "meaning": "内省可知天道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "见明",
+   "origin": "《道德经·47》",
+   "quote": "不见而明，不为而成",
+   "meaning": "不强为而自成",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "为成",
+   "origin": "《道德经·47》",
+   "quote": "不见而明，不为而成",
+   "meaning": "不强为而自成",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "日益",
+   "origin": "《道德经·48》",
+   "quote": "为学日益，为道日损",
+   "meaning": "求学日增，修道日减",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无不为",
+   "origin": "《道德经·48》",
+   "quote": "无为而无不为",
+   "meaning": "无为而无所不成",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "常心",
+   "origin": "《道德经·49》",
+   "quote": "圣人无常心，以百姓心为心",
+   "meaning": "圣人无常心，以民为心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "民心",
+   "origin": "《道德经·49》",
+   "quote": "圣人无常心，以百姓心为心",
+   "meaning": "圣人无常心，以民为心",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "摄生",
+   "origin": "《道德经·50》",
+   "quote": "善摄生者，陆行不遇兕虎",
+   "meaning": "善于养生",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "善生",
+   "origin": "《道德经·50》",
+   "quote": "善摄生者，陆行不遇兕虎",
+   "meaning": "善于养生",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（批评义",
+   "origin": "《道德经·53》",
+   "quote": "大道甚夷，而民好径",
+   "meaning": "大道平易而民好邪径",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "以正",
+   "origin": "《道德经·57》",
+   "quote": "以正治国，以奇用兵",
+   "meaning": "正道治国，奇谋用兵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "以奇",
+   "origin": "《道德经·57》",
+   "quote": "以正治国，以奇用兵",
+   "meaning": "正道治国，奇谋用兵",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "好静",
+   "origin": "《道德经·57》",
+   "quote": "我好静而民自正，我无为而民自化",
+   "meaning": "清静自正，无为自化",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "自化",
+   "origin": "《道德经·57》",
+   "quote": "我好静而民自正，我无为而民自化",
+   "meaning": "清静自正，无为自化",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "深根",
+   "origin": "《道德经·59》",
+   "quote": "是谓深根固柢，长生久视之道",
+   "meaning": "根基深固，长久存视",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "固柢",
+   "origin": "《道德经·59》",
+   "quote": "是谓深根固柢，长生久视之道",
+   "meaning": "根基深固，长久存视",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "久视",
+   "origin": "《道德经·59》",
+   "quote": "是谓深根固柢，长生久视之道",
+   "meaning": "根基深固，长久存视",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（治术义",
+   "origin": "《道德经·60》",
+   "quote": "治大国若烹小鲜",
+   "meaning": "治大国如煎小鱼",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "以静",
+   "origin": "《道德经·61》",
+   "quote": "牝常以静胜牡，以静为下",
+   "meaning": "雌静胜雄动",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "三宝",
+   "origin": "《道德经·67》",
+   "quote": "我有三宝：一曰慈，二曰俭，三曰不敢为天下先",
+   "meaning": "慈、俭、不先三宝",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "曰慈",
+   "origin": "《道德经·67》",
+   "quote": "我有三宝：一曰慈，二曰俭，三曰不敢为天下先",
+   "meaning": "慈、俭、不先三宝",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "曰俭",
+   "origin": "《道德经·67》",
+   "quote": "我有三宝：一曰慈，二曰俭，三曰不敢为天下先",
+   "meaning": "慈、俭、不先三宝",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "慈勇",
+   "origin": "《道德经·67》",
+   "quote": "慈故能勇，俭故能广",
+   "meaning": "慈生勇，俭生广",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "俭广",
+   "origin": "《道德经·67》",
+   "quote": "慈故能勇，俭故能广",
+   "meaning": "慈生勇，俭生广",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "善士",
+   "origin": "《道德经·68》",
+   "quote": "善为士者不武，善用人者为之下",
+   "meaning": "善为士不逞武，善用人谦下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "善用",
+   "origin": "《道德经·68》",
+   "quote": "善为士者不武，善用人者为之下",
+   "meaning": "善为士不逞武，善用人谦下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "为客",
+   "origin": "《道德经·69》",
+   "quote": "吾不敢为主而为客",
+   "meaning": "不敢为主，甘为客",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "善胜",
+   "origin": "《道德经·73》",
+   "quote": "天之道不争而善胜，不言而善应",
+   "meaning": "天道不争而善胜",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "善应",
+   "origin": "《道德经·73》",
+   "quote": "天之道不争而善胜，不言而善应",
+   "meaning": "天道不争而善胜",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "善谋",
+   "origin": "《道德经·73》",
+   "quote": "不召而自来，坦然而善谋",
+   "meaning": "自然善谋",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自来",
+   "origin": "《道德经·73》",
+   "quote": "不召而自来，坦然而善谋",
+   "meaning": "自然善谋",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（政治义",
+   "origin": "《道德经·74》",
+   "quote": "民不畏死，奈何以死惧之",
+   "meaning": "民不畏死",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "常与",
+   "origin": "《道德经·79》",
+   "quote": "天道无亲，常与善人",
+   "meaning": "天道无私，常助善人",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "善人",
+   "origin": "《道德经·79》",
+   "quote": "天道无亲，常与善人",
+   "meaning": "天道无私，常助善人",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "安居",
+   "origin": "《道德经·80》",
+   "quote": "甘其食，美其服，安其居，乐其俗",
+   "meaning": "安居乐俗",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "乐俗",
+   "origin": "《道德经·80》",
+   "quote": "甘其食，美其服，安其居，乐其俗",
+   "meaning": "安居乐俗",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 172
+}

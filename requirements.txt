@@ -1,0 +1,11 @@
+# Chinese Naming Master - Python Dependencies
+# 核心引擎仅依赖 Python 标准库，无需额外安装
+
+# examples/ 示例脚本依赖（可选）：
+# 无
+
+# 数据加工脚本依赖（可选，仅 _tools/ 中的部分脚本需要）：
+# 无
+
+# 开发依赖（可选）：
+# pytest>=7.0  # 运行测试用例

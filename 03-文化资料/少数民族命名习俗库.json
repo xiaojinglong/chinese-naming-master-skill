@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "name": "少数民族命名习俗库",
+  "source": "06-取名知识库/04-专题资料/30-少数民族命名习俗",
+  "version": "1.0"
+ },
+ "customs": [
+  {
+   "naming_system": "制式",
+   "core_logic": "核心逻辑",
+   "ethnic_groups": "代表民族"
+  },
+  {
+   "naming_system": "父子连名制",
+   "core_logic": "父名末字/音节作子名首字，世代相连成谱",
+   "ethnic_groups": "哈尼族、彝族、纳西族、基诺族、景颇族、佤族"
+  },
+  {
+   "naming_system": "全名组合制",
+   "core_logic": "家族名+父名+母名+爱称+排行五要素合成全名",
+   "ethnic_groups": "独龙族"
+  },
+  {
+   "naming_system": "多套名并行制",
+   "core_logic": "一生在不同人生阶段取多个名（乳名/世名/谱名/法名）",
+   "ethnic_groups": "畲族、瑶族"
+  },
+  {
+   "naming_system": "自然物命名制",
+   "core_logic": "以天地日月、花草树木、飞禽走兽为名",
+   "ethnic_groups": "蒙古族"
+  },
+  {
+   "naming_system": "方位占卜命名制",
+   "core_logic": "依母亲属相、五行、九宫、巴格方位由东巴占卜取名",
+   "ethnic_groups": "纳西族（摩梭人）"
+  },
+  {
+   "naming_system": "排行+本名制",
+   "core_logic": "名分排行与本名两部分，排行用固定字序",
+   "ethnic_groups": "佤族、壮族"
+  },
+  {
+   "naming_system": "名类",
+   "core_logic": "取得时机",
+   "ethnic_groups": "用途"
+  },
+  {
+   "naming_system": "乳名",
+   "core_logic": "幼年",
+   "ethnic_groups": "日常称呼"
+  },
+  {
+   "naming_system": "世名",
+   "core_logic": "由族长按辈分排定",
+   "ethnic_groups": "社会交往，墓碑所刻"
+  },
+  {
+   "naming_system": "讳名",
+   "core_logic": "—",
+   "ethnic_groups": "讳称"
+  },
+  {
+   "naming_system": "法名",
+   "core_logic": "成年参加祭祖\"招兵\"宗教活动后取得",
+   "ethnic_groups": "宗教法事"
+  },
+  {
+   "naming_system": "名类",
+   "core_logic": "取得时机",
+   "ethnic_groups": "特点"
+  },
+  {
+   "naming_system": "乳名",
+   "core_logic": "出生时",
+   "ethnic_groups": "男孩加\"阿\"（如\"阿议\"\"阿沸\"），女孩加\"梅\"（如\"梅翻\"）；也有按出生顺序\"一、议、翻、沸、娩\""
+  },
+  {
+   "naming_system": "书名",
+   "core_logic": "入学后",
+   "ethnic_groups": "嵌入辈分字，相当于汉族大名"
+  },
+  {
+   "naming_system": "法名",
+   "core_logic": "度戒后",
+   "ethnic_groups": "宗教仪式专用，平常不用"
+  }
+ ],
+ "count": 16
+}

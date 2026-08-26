@@ -1,0 +1,681 @@
+{
+ "source": "中庸",
+ "desc": "中庸取名素材（含知识库精读笔记提取）",
+ "items": [
+  {
+   "word": "率道",
+   "origin": "《中庸》",
+   "quote": "天命之谓性，率性之谓道",
+   "meaning": "顺应本性即是道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "性道",
+   "origin": "《中庸》",
+   "quote": "天命之谓性，率性之谓道",
+   "meaning": "顺应本性即是道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "中和",
+   "origin": "《中庸》",
+   "quote": "致中和，天地位焉，万物育焉",
+   "meaning": "和谐圆满，各得其所而生长",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "位育",
+   "origin": "《中庸》",
+   "quote": "致中和，天地位焉，万物育焉",
+   "meaning": "和谐圆满，各得其所而生长",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "大本",
+   "origin": "《中庸》",
+   "quote": "中也者，天下之大本也",
+   "meaning": "根本大道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "达道",
+   "origin": "《中庸》",
+   "quote": "和也者，天下之达道也",
+   "meaning": "通行的准则",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "中庸",
+   "origin": "《中庸》",
+   "quote": "君子中庸，小人反中庸",
+   "meaning": "恰到好处",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "居易",
+   "origin": "《中庸》",
+   "quote": "君子居易以俟命",
+   "meaning": "安处其境，静待天命（白居易名出处）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "不尤",
+   "origin": "《中庸》",
+   "quote": "上不怨天，下不尤人",
+   "meaning": "不怨天尤人",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "无怨",
+   "origin": "《中庸》",
+   "quote": "上不怨天，下不尤人",
+   "meaning": "不怨天尤人",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "力行",
+   "origin": "《中庸》",
+   "quote": "好学近乎知，力行近乎仁，知耻近乎勇",
+   "meaning": "三达德的进路",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "好学",
+   "origin": "《中庸》",
+   "quote": "好学近乎知，力行近乎仁，知耻近乎勇",
+   "meaning": "三达德的进路",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知耻",
+   "origin": "《中庸》",
+   "quote": "好学近乎知，力行近乎仁，知耻近乎勇",
+   "meaning": "三达德的进路",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "博学",
+   "origin": "《中庸》",
+   "quote": "博学之，审问之，慎思之，明辨之，笃行之",
+   "meaning": "为学五环（孙中山手书中山大学校训十字全出此）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "审问",
+   "origin": "《中庸》",
+   "quote": "博学之，审问之，慎思之，明辨之，笃行之",
+   "meaning": "为学五环（孙中山手书中山大学校训十字全出此）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "慎思",
+   "origin": "《中庸》",
+   "quote": "博学之，审问之，慎思之，明辨之，笃行之",
+   "meaning": "为学五环（孙中山手书中山大学校训十字全出此）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "明辨",
+   "origin": "《中庸》",
+   "quote": "博学之，审问之，慎思之，明辨之，笃行之",
+   "meaning": "为学五环（孙中山手书中山大学校训十字全出此）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "笃行",
+   "origin": "《中庸》",
+   "quote": "博学之，审问之，慎思之，明辨之，笃行之",
+   "meaning": "为学五环（孙中山手书中山大学校训十字全出此）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "弗措",
+   "origin": "《中庸》",
+   "quote": "有弗学，学之弗能弗措也",
+   "meaning": "学不成功不罢休",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "百之",
+   "origin": "《中庸》",
+   "quote": "人一能之，己百之",
+   "meaning": "百倍努力",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "己百",
+   "origin": "《中庸》",
+   "quote": "人一能之，己百之",
+   "meaning": "百倍努力",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "诚之",
+   "origin": "《中庸》",
+   "quote": "诚者，天之道也",
+   "meaning": "真诚是天道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "至诚",
+   "origin": "《中庸》",
+   "quote": "诚者，天之道也",
+   "meaning": "真诚是天道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "诚明",
+   "origin": "《中庸》",
+   "quote": "自诚明，谓之性；自明诚，谓之教",
+   "meaning": "诚与明互为表里（镜像对名）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "明诚",
+   "origin": "《中庸》",
+   "quote": "自诚明，谓之性；自明诚，谓之教",
+   "meaning": "诚与明互为表里（镜像对名）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "尽性",
+   "origin": "《中庸》",
+   "quote": "唯天下至诚为能尽其性",
+   "meaning": "充分实现本性",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "致曲",
+   "origin": "《中庸》",
+   "quote": "致曲有诚",
+   "meaning": "从细微处推致诚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "博厚",
+   "origin": "《中庸》",
+   "quote": "博厚配地，高明配天，悠久无疆",
+   "meaning": "圣德三维度",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "高明",
+   "origin": "《中庸》",
+   "quote": "博厚配地，高明配天，悠久无疆",
+   "meaning": "圣德三维度",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "悠久",
+   "origin": "《中庸》",
+   "quote": "博厚配地，高明配天，悠久无疆",
+   "meaning": "圣德三维度",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无疆",
+   "origin": "《中庸》",
+   "quote": "博厚配地，高明配天，悠久无疆",
+   "meaning": "圣德三维度",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "知新",
+   "origin": "《中庸》",
+   "quote": "温故而知新",
+   "meaning": "温习旧知而有新得（与论语互见）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "温故",
+   "origin": "《中庸》",
+   "quote": "温故而知新",
+   "meaning": "温习旧知而有新得（与论语互见）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "敦厚",
+   "origin": "《中庸》",
+   "quote": "敦厚以崇礼",
+   "meaning": "笃实宽厚，尊崇礼制",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "崇礼",
+   "origin": "《中庸》",
+   "quote": "敦厚以崇礼",
+   "meaning": "笃实宽厚，尊崇礼制",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "淡宁类",
+   "origin": "《中庸》",
+   "quote": "君子之道，淡而不厌",
+   "meaning": "平淡而有真味",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "行远",
+   "origin": "《中庸》",
+   "quote": "行远必自迩，登高必自卑",
+   "meaning": "千里之行始于足下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自迩",
+   "origin": "《中庸》",
+   "quote": "行远必自迩，登高必自卑",
+   "meaning": "千里之行始于足下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "登高",
+   "origin": "《中庸》",
+   "quote": "行远必自迩，登高必自卑",
+   "meaning": "千里之行始于足下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "致远类意象",
+   "origin": "《中庸》",
+   "quote": "譬如行远必自迩",
+   "meaning": "—",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "慎微",
+   "origin": "《中庸》",
+   "quote": "莫见乎隐，莫显乎微，故君子慎其独也",
+   "meaning": "于细微处谨慎",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "戒慎",
+   "origin": "《中庸》",
+   "quote": "是故君子戒慎乎其所不睹",
+   "meaning": "暗处亦谨慎",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "无息",
+   "origin": "《中庸》",
+   "quote": "至诚无息",
+   "meaning": "至诚不息",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "并育",
+   "origin": "《中庸》",
+   "quote": "万物并育而不相害，道并行而不相悖",
+   "meaning": "万物并育，大道并行",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "并行",
+   "origin": "《中庸》",
+   "quote": "万物并育而不相害，道并行而不相悖",
+   "meaning": "万物并育，大道并行",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "大经",
+   "origin": "《中庸》",
+   "quote": "唯天下至诚，为能经纶天下之大经",
+   "meaning": "经纶天下",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "渊渊",
+   "origin": "《中庸》",
+   "quote": "肫肫其仁，渊渊其渊，浩浩其天",
+   "meaning": "诚者气象深广",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "浩浩",
+   "origin": "《中庸》",
+   "quote": "肫肫其仁，渊渊其渊，浩浩其天",
+   "meaning": "诚者气象深广",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "至德",
+   "origin": "《中庸》",
+   "quote": "苟不至德，至道不凝焉",
+   "meaning": "至德方可凝道",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "内省",
+   "origin": "《中庸》",
+   "quote": "故君子内省不疚",
+   "meaning": "自省无愧",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "祯祥",
+   "origin": "《中庸》",
+   "quote": "国家将兴，必有祯祥",
+   "meaning": "吉祥之兆",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "成己",
+   "origin": "《中庸》",
+   "quote": "成己，仁也；成物，知也",
+   "meaning": "成己成物",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "成物",
+   "origin": "《中庸》",
+   "quote": "成己，仁也；成物，知也",
+   "meaning": "成己成物",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "柔远",
+   "origin": "《中庸》",
+   "quote": "柔远人也，怀诸侯也",
+   "meaning": "怀柔远人（九经之义）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "怀远",
+   "origin": "《中庸》",
+   "quote": "柔远人也，怀诸侯也",
+   "meaning": "怀柔远人（九经之义）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "齐明",
+   "origin": "《中庸》",
+   "quote": "齐明盛服，非礼不动",
+   "meaning": "内心明净",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "载物",
+   "origin": "《中庸》",
+   "quote": "博厚所以载物也",
+   "meaning": "厚德载物（与《周易》坤卦互参）",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "悠远",
+   "origin": "《中庸》",
+   "quote": "悠远则博厚，博厚则高明",
+   "meaning": "悠远博厚",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "知勇",
+   "origin": "《中庸》",
+   "quote": "好学近乎知，知耻近乎勇",
+   "meaning": "智仁勇三达德",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "名字",
+   "origin": "《中庸》",
+   "quote": "人物",
+   "meaning": "出处",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "\"位育\"教育思想",
+   "origin": "《中庸》",
+   "quote": "潘光旦（社会学家）",
+   "meaning": "《中庸》\"天地位焉，万物育焉\"",
+   "usage": "男女皆宜",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  }
+ ],
+ "count": 61
+}

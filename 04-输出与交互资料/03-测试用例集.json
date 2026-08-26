@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "name": "取名Skill测试用例集",
+  "purpose": "验证取名引擎的健壮性"
+ },
+ "cases": [
+  {
+   "id": "TC01",
+   "name": "常规单姓双字名",
+   "input": {
+    "surname": "李",
+    "gender": "male",
+    "birth_year": 2024,
+    "birth_month": 3,
+    "birth_day": 15,
+    "birth_hour": 10,
+    "name_length": 2
+   },
+   "expected": "返回5-10个候选名，含评分"
+  },
+  {
+   "id": "TC02",
+   "name": "常规单姓单字名",
+   "input": {
+    "surname": "王",
+    "gender": "female",
+    "birth_year": 2024,
+    "birth_month": 6,
+    "birth_day": 20,
+    "birth_hour": 8,
+    "name_length": 1
+   },
+   "expected": "返回单字候选名"
+  },
+  {
+   "id": "TC03",
+   "name": "复姓双字名",
+   "input": {
+    "surname": "欧阳",
+    "gender": "male",
+    "birth_year": 2024,
+    "birth_month": 1,
+    "birth_day": 1,
+    "birth_hour": 12,
+    "name_length": 2
+   },
+   "expected": "正确处理复姓五格计算"
+  },
+  {
+   "id": "TC04",
+   "name": "生僻姓氏",
+   "input": {
+    "surname": "亓",
+    "gender": "male",
+    "birth_year": 2024,
+    "birth_month": 5,
+    "birth_day": 5,
+    "birth_hour": 6,
+    "name_length": 2
+   },
+   "expected": "生僻姓氏也能正常生成"
+  },
+  {
+   "id": "TC05",
+   "name": "缺时辰（默认12点）",
+   "input": {
+    "surname": "张",
+    "gender": "female",
+    "birth_year": 2024,
+    "birth_month": 8,
+    "birth_day": 15,
+    "name_length": 2
+   },
+   "expected": "缺时辰时默认12点，时柱可能不准但不影响主体"
+  },
+  {
+   "id": "TC06",
+   "name": "立春边界（年柱切换）",
+   "input": {
+    "surname": "刘",
+    "gender": "male",
+    "birth_year": 2024,
+    "birth_month": 2,
+    "birth_day": 3,
+    "birth_hour": 10,
+    "name_length": 2
+   },
+   "expected": "立春前（2月3日）年柱应为癸卯而非甲辰"
+  },
+  {
+   "id": "TC07",
+   "name": "节气边界（月柱切换）",
+   "input": {
+    "surname": "陈",
+    "gender": "female",
+    "birth_year": 2024,
+    "birth_month": 4,
+    "birth_day": 4,
+    "birth_hour": 10,
+    "name_length": 2
+   },
+   "expected": "清明前（4月4日）月柱应为丁卯而非戊辰"
+  },
+  {
+   "id": "TC08",
+   "name": "家族避讳",
+   "input": {
+    "surname": "周",
+    "gender": "male",
+    "birth_year": 2024,
+    "birth_month": 3,
+    "birth_day": 15,
+    "birth_hour": 10,
+    "name_length": 2,
+    "forbidden_chars": [
+     "伟",
+     "强"
+    ]
+   },
+   "expected": "候选名中不含伟/强"
+  },
+  {
+   "id": "TC09",
+   "name": "风格偏好-文雅",
+   "input": {
+    "surname": "林",
+    "gender": "female",
+    "birth_year": 2024,
+    "birth_month": 4,
+    "birth_day": 10,
+    "birth_hour": 10,
+    "name_length": 2,
+    "style": "文雅"
+   },
+   "expected": "推荐文雅风格的名字"
+  },
+  {
+   "id": "TC10",
+   "name": "风格偏好-大气",
+   "input": {
+    "surname": "赵",
+    "gender": "male",
+    "birth_year": 2024,
+    "birth_month": 7,
+    "birth_day": 20,
+    "birth_hour": 10,
+    "name_length": 2,
+    "style": "大气"
+   },
+   "expected": "推荐大气风格的名字"
+  }
+ ]
+}

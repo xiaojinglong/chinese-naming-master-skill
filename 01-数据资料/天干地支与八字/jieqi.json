@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "name": "二十四节气数据表",
+    "version": "1.0",
+    "purpose": "八字排盘月柱边界（12节令）与调候（寒暖燥湿）判断的关键数据",
+    "usage": "1) 排月柱：出生时刻落在哪个『节』之后，即属该节令对应月支；2) 调候：亥子丑月生人偏寒喜火，巳午未月生人偏热喜水（详见 02-五行分析规则.md）；3) 精确节气时刻每年不同，生产环境用天文历法库（lunar-python/sxtwl）计算，本表为约期参考",
+    "note": "『节』为月柱分界（12个）；『气』（中气）用于农历闰月，排盘不直接使用。约期以北京时间（东八区）为准"
+  },
+  "jies": [
+    { "jie": "立春", "type": "节", "month_index": 1, "month_zhi": "寅", "approx_date": "2月3-5日", "meaning": "春季开始", "wuxing_wang": "木", "month_label": "正月" },
+    { "jie": "惊蛰", "type": "节", "month_index": 2, "month_zhi": "卯", "approx_date": "3月5-7日", "meaning": "春雷始鸣，万物复苏", "wuxing_wang": "木", "month_label": "二月" },
+    { "jie": "清明", "type": "节", "month_index": 3, "month_zhi": "辰", "approx_date": "4月4-6日", "meaning": "气清景明", "wuxing_wang": "土", "month_label": "三月" },
+    { "jie": "立夏", "type": "节", "month_index": 4, "month_zhi": "巳", "approx_date": "5月5-7日", "meaning": "夏季开始", "wuxing_wang": "火", "month_label": "四月" },
+    { "jie": "芒种", "type": "节", "month_index": 5, "month_zhi": "午", "approx_date": "6月5-7日", "meaning": "有芒之谷可种", "wuxing_wang": "火", "month_label": "五月" },
+    { "jie": "小暑", "type": "节", "month_index": 6, "month_zhi": "未", "approx_date": "7月6-8日", "meaning": "暑气渐盛", "wuxing_wang": "土", "month_label": "六月" },
+    { "jie": "立秋", "type": "节", "month_index": 7, "month_zhi": "申", "approx_date": "8月7-9日", "meaning": "秋季开始", "wuxing_wang": "金", "month_label": "七月" },
+    { "jie": "白露", "type": "节", "month_index": 8, "month_zhi": "酉", "approx_date": "9月7-9日", "meaning": "天气转凉露珠凝白", "wuxing_wang": "金", "month_label": "八月" },
+    { "jie": "寒露", "type": "节", "month_index": 9, "month_zhi": "戌", "approx_date": "10月7-9日", "meaning": "露气寒冷", "wuxing_wang": "土", "month_label": "九月" },
+    { "jie": "立冬", "type": "节", "month_index": 10, "month_zhi": "亥", "approx_date": "11月7-8日", "meaning": "冬季开始", "wuxing_wang": "水", "month_label": "十月" },
+    { "jie": "大雪", "type": "节", "month_index": 11, "month_zhi": "子", "approx_date": "12月6-8日", "meaning": "雪量渐大", "wuxing_wang": "水", "month_label": "冬月" },
+    { "jie": "小寒", "type": "节", "month_index": 12, "month_zhi": "丑", "approx_date": "1月5-7日", "meaning": "寒冷渐甚", "wuxing_wang": "土", "month_label": "腊月" }
+  ],
+  "qis": [
+    { "qi": "雨水", "type": "气", "month_zhi": "寅", "approx_date": "2月18-20日", "meaning": "降雨增多" },
+    { "qi": "春分", "type": "气", "month_zhi": "卯", "approx_date": "3月20-22日", "meaning": "昼夜平分" },
+    { "qi": "谷雨", "type": "气", "month_zhi": "辰", "approx_date": "4月19-21日", "meaning": "雨生百谷" },
+    { "qi": "小满", "type": "气", "month_zhi": "巳", "approx_date": "5月20-22日", "meaning": "物致于此小得盈满" },
+    { "qi": "夏至", "type": "气", "month_zhi": "午", "approx_date": "6月20-22日", "meaning": "白昼最长" },
+    { "qi": "大暑", "type": "气", "month_zhi": "未", "approx_date": "7月22-24日", "meaning": "一年最热" },
+    { "qi": "处暑", "type": "气", "month_zhi": "申", "approx_date": "8月22-24日", "meaning": "暑气渐消" },
+    { "qi": "秋分", "type": "气", "month_zhi": "酉", "approx_date": "9月22-24日", "meaning": "昼夜平分" },
+    { "qi": "霜降", "type": "气", "month_zhi": "戌", "approx_date": "10月23-24日", "meaning": "初霜出现" },
+    { "qi": "小雪", "type": "气", "month_zhi": "亥", "approx_date": "11月22-23日", "meaning": "降雪开始" },
+    { "qi": "冬至", "type": "气", "month_zhi": "子", "approx_date": "12月21-23日", "meaning": "白昼最短" },
+    { "qi": "大寒", "type": "气", "month_zhi": "丑", "approx_date": "1月20-21日", "meaning": "一年最冷" }
+  ],
+  "season_tiaohou": [
+    { "season": "春", "months": ["寅", "卯", "辰"], "climate": "温", "tiaohou_hint": "木旺，火渐生" },
+    { "season": "夏", "months": ["巳", "午", "未"], "climate": "热", "tiaohou_hint": "火旺，喜水润局" },
+    { "season": "秋", "months": ["申", "酉", "戌"], "climate": "凉", "tiaohou_hint": "金旺，喜火暖金（视格局）" },
+    { "season": "冬", "months": ["亥", "子", "丑"], "climate": "寒", "tiaohou_hint": "水旺，喜火暖局" }
+  ],
+  "count": { "jie": 12, "qi": 12, "total": 24 }
+}

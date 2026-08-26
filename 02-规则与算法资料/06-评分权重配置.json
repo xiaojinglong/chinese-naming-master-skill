@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "name": "候选名字评分权重配置",
+    "version": "1.0",
+    "usage": "Skill 启动时读取；支持按用户偏好动态覆盖（如 user.preferences.emphasis）",
+    "note": "权重合计应为 100（整数百分比）"
+  },
+  "default": {
+    "wuxing_match": 25,
+    "wuge_shuli": 15,
+    "yinyun_fluency": 15,
+    "yiyi_depth": 15,
+    "sancai_config": 10,
+    "zixing_beauty": 10,
+    "shengxiao_compat": 10
+  },
+  "presets": {
+    "八字优先": {"wuxing_match": 35, "wuge_shuli": 15, "sancai_config": 10, "yinyun_fluency": 10, "zixing_beauty": 10, "yiyi_depth": 10, "shengxiao_compat": 10},
+    "文雅古风": {"yiyi_depth": 30, "yinyun_fluency": 20, "wuxing_match": 15, "wuge_shuli": 10, "sancai_config": 10, "zixing_beauty": 5, "shengxiao_compat": 10},
+    "现代好听": {"yinyun_fluency": 35, "zixing_beauty": 20, "yiyi_depth": 20, "wuxing_match": 10, "wuge_shuli": 5, "sancai_config": 5, "shengxiao_compat": 5},
+    "传统稳健": {"wuge_shuli": 25, "sancai_config": 20, "wuxing_match": 20, "shengxiao_compat": 15, "yinyun_fluency": 10, "zixing_beauty": 5, "yiyi_depth": 5}
+  },
+  "hard_filters": [
+    "不雅/歧义谐音",
+    "与长辈或近亲重名（用户提供的忌用字）",
+    "字五行严重克泄喜用神",
+    "命中用户明确忌用的字"
+  ],
+  "soft_filters": [
+    {"item": "生僻字（非一级常用字）", "penalty": -40},
+    {"item": "单字康熙笔画 > 20", "penalty": -20},
+    {"item": "姓名总笔画 > 40", "penalty": -10}
+  ]
+}

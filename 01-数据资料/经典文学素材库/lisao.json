@@ -1,0 +1,549 @@
+{
+ "source": "离骚",
+ "desc": "离骚取名素材（含知识库精读笔记提取）",
+ "items": [
+  {
+   "word": "初度",
+   "origin": "《离骚》",
+   "quote": "皇览揆余初度兮",
+   "meaning": "出生之时辰气度（后世\"初度\"即生日）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "嘉名",
+   "origin": "《离骚》",
+   "quote": "肇锡余以嘉名",
+   "meaning": "美好的名字（\"赐佳名\"的文化原型）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "正则",
+   "origin": "《离骚》",
+   "quote": "名余曰正则兮",
+   "meaning": "公正而合法则",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "灵均",
+   "origin": "《离骚》",
+   "quote": "字余曰灵均",
+   "meaning": "禀性良善，公平均一",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "内美",
+   "origin": "《离骚》",
+   "quote": "纷吾既有此内美兮",
+   "meaning": "内在的美质",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "修能",
+   "origin": "《离骚》",
+   "quote": "又重之以修能",
+   "meaning": "修习卓越才能",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "江离",
+   "origin": "《离骚》",
+   "quote": "扈江离与辟芷兮",
+   "meaning": "香草佩身",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "辟芷",
+   "origin": "《离骚》",
+   "quote": "扈江离与辟芷兮",
+   "meaning": "香草佩身",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "纫秋",
+   "origin": "《离骚》",
+   "quote": "纫秋兰以为佩",
+   "meaning": "缝秋兰为佩饰",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "佩兰",
+   "origin": "《离骚》",
+   "quote": "纫秋兰以为佩",
+   "meaning": "缝秋兰为佩饰",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "朝搴",
+   "origin": "《离骚》",
+   "quote": "朝搴阰之木兰兮",
+   "meaning": "清晨采木兰",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "木兰",
+   "origin": "《离骚》",
+   "quote": "朝搴阰之木兰兮",
+   "meaning": "清晨采木兰",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "宿莽",
+   "origin": "《离骚》",
+   "quote": "夕揽洲之宿莽",
+   "meaning": "经冬不枯的草",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "零落（哀",
+   "origin": "《离骚》",
+   "quote": "惟草木之零落兮",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不取）",
+   "origin": "《离骚》",
+   "quote": "惟草木之零落兮",
+   "meaning": "—",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "先路",
+   "origin": "《离骚》",
+   "quote": "乘骐骥以驰骋兮，来吾道夫先路",
+   "meaning": "驾骏马为先驱开路",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "骐骥",
+   "origin": "《离骚》",
+   "quote": "乘骐骥以驰骋兮，来吾道夫先路",
+   "meaning": "驾骏马为先驱开路",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "耿介",
+   "origin": "《离骚》",
+   "quote": "彼尧舜之耿介兮",
+   "meaning": "光明正大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "遵道",
+   "origin": "《离骚》",
+   "quote": "既遵道而得路",
+   "meaning": "遵循正道",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "得路",
+   "origin": "《离骚》",
+   "quote": "既遵道而得路",
+   "meaning": "遵循正道",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "九畹",
+   "origin": "《离骚》",
+   "quote": "余既滋兰之九畹兮",
+   "meaning": "大片培育兰蕙（育才之喻）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "滋兰",
+   "origin": "《离骚》",
+   "quote": "余既滋兰之九畹兮",
+   "meaning": "大片培育兰蕙（育才之喻）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "树蕙",
+   "origin": "《离骚》",
+   "quote": "又树蕙之百亩",
+   "meaning": "种植蕙草",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "畹兰",
+   "origin": "《离骚》",
+   "quote": "畹兰",
+   "meaning": "兰生九畹",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "坠露",
+   "origin": "《离骚》",
+   "quote": "朝饮木兰之坠露兮",
+   "meaning": "晨露纯净",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "落英",
+   "origin": "《离骚》",
+   "quote": "夕餐秋菊之落英",
+   "meaning": "餐花饮露，高洁自守",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "陆离",
+   "origin": "《离骚》",
+   "quote": "长余佩之陆离",
+   "meaning": "佩饰修长光彩",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "高冠类",
+   "origin": "《离骚》",
+   "quote": "高余冠之岌岌兮",
+   "meaning": "特立独行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "芳泽",
+   "origin": "《离骚》",
+   "quote": "芳与泽其杂糅兮",
+   "meaning": "芳香与光泽",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "昭质",
+   "origin": "《离骚》",
+   "quote": "唯昭质其犹未亏",
+   "meaning": "光明纯洁的本质",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "初服",
+   "origin": "《离骚》",
+   "quote": "退将复修吾初服",
+   "meaning": "归返本心",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "芰荷",
+   "origin": "《离骚》",
+   "quote": "制芰荷以为衣兮",
+   "meaning": "荷叶为衣",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "芙蓉",
+   "origin": "《离骚》",
+   "quote": "集芙蓉以为裳",
+   "meaning": "天然丽质",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "望舒",
+   "origin": "《离骚》",
+   "quote": "前望舒使先驱兮",
+   "meaning": "月御之神（戴望舒）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "飞廉",
+   "origin": "《离骚》",
+   "quote": "后飞廉使奔属",
+   "meaning": "风神迅捷",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "修远",
+   "origin": "《离骚》",
+   "quote": "路漫漫其修远兮",
+   "meaning": "征途漫长高远",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "求索",
+   "origin": "《离骚》",
+   "quote": "吾将上下而求索",
+   "meaning": "上下求索，永不放弃",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "羲和",
+   "origin": "《离骚》",
+   "quote": "吾令羲和弭节兮",
+   "meaning": "日御之神",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "赫戏（生僻",
+   "origin": "《离骚》",
+   "quote": "陟升皇之赫戏兮",
+   "meaning": "光明盛大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "慎）",
+   "origin": "《离骚》",
+   "quote": "陟升皇之赫戏兮",
+   "meaning": "光明盛大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "未悔",
+   "origin": "《离骚》",
+   "quote": "亦余心之所善兮，虽九死其犹未悔",
+   "meaning": "坚持心中所善，九死不悔",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "所善",
+   "origin": "《离骚》",
+   "quote": "亦余心之所善兮，虽九死其犹未悔",
+   "meaning": "坚持心中所善，九死不悔",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "清白",
+   "origin": "《离骚》",
+   "quote": "伏清白以死直兮，固前圣之所厚",
+   "meaning": "清白正直，前圣所重",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "好修",
+   "origin": "《离骚》",
+   "quote": "民生各有所乐兮，余独好修以为常",
+   "meaning": "以修身守洁为常",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "若木",
+   "origin": "《离骚》",
+   "quote": "折若木以拂日兮，聊逍遥以相羊",
+   "meaning": "神树拂日，逍遥徜徉",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "逍遥",
+   "origin": "《离骚》",
+   "quote": "折若木以拂日兮，聊逍遥以相羊",
+   "meaning": "神树拂日，逍遥徜徉",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "扶桑",
+   "origin": "《离骚》",
+   "quote": "饮余马于咸池兮，总余辔乎扶桑",
+   "meaning": "日出神木",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "信芳",
+   "origin": "《离骚》",
+   "quote": "不吾知其亦已兮，苟余情其信芳",
+   "meaning": "情操确实芳洁（京剧大师周信芳名出此）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "名字",
+   "origin": "《离骚》",
+   "quote": "人物",
+   "meaning": "出处",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 49
+}

@@ -1,0 +1,321 @@
+{
+ "source": "宋词",
+ "desc": "婉约清丽、意境隽永，多用于'文雅/婉约'风格",
+ "items": [
+  {
+   "word": "婵娟",
+   "origin": "苏轼《水调歌头》",
+   "quote": "但愿人长久，千里共婵娟",
+   "meaning": "明月、美好，喻团圆美好",
+   "usage": "女名",
+   "pinyin": "chán juān",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "晓风",
+   "origin": "柳永《雨霖铃》",
+   "quote": "今宵酒醒何处？杨柳岸，晓风残月",
+   "meaning": "清晨微风，清冷诗意",
+   "usage": "女名",
+   "pinyin": "xiǎo fēng",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "风荷",
+   "origin": "周邦彦《苏幕遮》",
+   "quote": "水面清圆，一一风荷举",
+   "meaning": "风中荷花亭亭玉立",
+   "usage": "女名",
+   "pinyin": "fēng hé",
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "微雨",
+   "origin": "晏几道《临江仙》",
+   "quote": "落花人独立，微雨燕双飞",
+   "meaning": "蒙蒙细雨，温柔诗意",
+   "usage": "女名",
+   "pinyin": "wēi yǔ",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "锦书",
+   "origin": "李清照《一剪梅》",
+   "quote": "云中谁寄锦书来，雁字回时，月满西楼",
+   "meaning": "美好的书信，喻才情与情意",
+   "usage": "女名",
+   "pinyin": "jǐn shū",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "云和",
+   "origin": "岳飞《满江红》",
+   "quote": "三十功名尘与土，八千里路云和月",
+   "meaning": "（取'云'字）壮怀高远",
+   "usage": "男名",
+   "pinyin": "yún hé",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "燕归",
+   "origin": "晏殊《浣溪沙》",
+   "quote": "无可奈何花落去，似曾相识燕归来",
+   "meaning": "燕子归来，喻重逢与希望",
+   "usage": "女名",
+   "pinyin": "yàn guī",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "弄影",
+   "origin": "张先《天仙子》",
+   "quote": "沙上并禽池上暝，云破月来花弄影",
+   "meaning": "花影婆娑，灵动优美",
+   "usage": "女名",
+   "pinyin": "nòng yǐng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "碧云",
+   "origin": "范仲淹《苏幕遮》",
+   "quote": "碧云天，黄叶地，秋色连波，波上寒烟翠",
+   "meaning": "碧蓝的天空，高远澄澈",
+   "usage": "男女皆宜",
+   "pinyin": "bì yún",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "冷月",
+   "origin": "姜夔《扬州慢》",
+   "quote": "二十四桥仍在，波心荡，冷月无声",
+   "meaning": "清冷月光，意境深远",
+   "usage": "男女皆宜（偏文艺）",
+   "pinyin": "lěng yuè",
+   "style_tags": [
+    "文雅",
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "知否",
+   "origin": "李清照《如梦令》",
+   "quote": "知否，知否？应是绿肥红瘦",
+   "meaning": "（取'知'字）聪慧明理",
+   "usage": "女名",
+   "pinyin": "zhī fǒu",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "清圆",
+   "origin": "周邦彦《苏幕遮》",
+   "quote": "水面清圆，一一风荷举",
+   "meaning": "清润圆正，喻品格端正",
+   "usage": "男女皆宜",
+   "pinyin": "qīng yuán",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "星野",
+   "origin": "辛弃疾《西江月》",
+   "quote": "七八个星天外，两三点雨山前",
+   "meaning": "星空旷野，开阔浪漫",
+   "usage": "男名",
+   "pinyin": "xīng yě",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "初见",
+   "origin": "晏几道《临江仙》",
+   "quote": "当时明月在，曾照彩云归",
+   "meaning": "（取'初见'意象）美好初心",
+   "usage": "女名",
+   "pinyin": "chū jiàn",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "晴柔",
+   "origin": "杨万里《小池》",
+   "quote": "泉眼无声惜细流，树阴照水爱晴柔",
+   "meaning": "晴日温柔，明媚和煦",
+   "usage": "女名",
+   "pinyin": "qíng róu",
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "疏影",
+   "origin": "林逋《山园小梅》",
+   "quote": "疏影横斜水清浅，暗香浮动月黄昏",
+   "meaning": "疏朗之影，喻清逸高雅",
+   "usage": "女名",
+   "pinyin": "shū yǐng",
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "暗香",
+   "origin": "林逋《山园小梅》",
+   "quote": "疏影横斜水清浅，暗香浮动月黄昏",
+   "meaning": "幽香暗传，喻内涵隽永",
+   "usage": "女名",
+   "pinyin": "àn xiāng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "落霞",
+   "origin": "范仲淹《苏幕遮》",
+   "quote": "碧云天，黄叶地，秋色连波，波上寒烟翠",
+   "meaning": "晚霞，喻绚烂壮美",
+   "usage": "女名",
+   "pinyin": "luò xiá",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "云帆",
+   "origin": "苏轼《念奴娇·赤壁怀古》",
+   "quote": "人生如梦，一尊还酹江月",
+   "meaning": "云中帆影，喻乘风远航",
+   "usage": "男名",
+   "pinyin": "yún fān",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "疏桐",
+   "origin": "苏轼《卜算子》",
+   "quote": "缺月挂疏桐，漏断人初静",
+   "meaning": "疏朗梧桐，喻清高孤洁",
+   "usage": "男女皆宜",
+   "pinyin": "shū tóng",
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "霜华",
+   "origin": "李清照《醉花阴》",
+   "quote": "薄雾浓云愁永昼，瑞脑消金兽",
+   "meaning": "霜之华彩，喻清冷高洁",
+   "usage": "女名",
+   "pinyin": "shuāng huá",
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "兰舟",
+   "origin": "柳永《雨霖铃》",
+   "quote": "都门帐饮无绪，留恋处，兰舟催发",
+   "meaning": "木兰舟，喻清雅出行",
+   "usage": "女名",
+   "pinyin": "lán zhōu",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "千里",
+   "origin": "辛弃疾《青玉案·元夕》",
+   "quote": "众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
+   "meaning": "千里之远，喻志向辽远",
+   "usage": "男名",
+   "pinyin": "qiān lǐ",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "暮雪",
+   "origin": "陆游《卜算子·咏梅》",
+   "quote": "驿外断桥边，寂寞开无主",
+   "meaning": "日暮飞雪，喻坚贞清冷",
+   "usage": "男女皆宜",
+   "pinyin": "mù xuě",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "清欢",
+   "origin": "苏轼《浣溪沙》",
+   "quote": "人间有味是清欢",
+   "meaning": "清淡的欢愉，喻知足淡泊",
+   "usage": "男女皆宜",
+   "pinyin": "qīng huān",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "红蕖",
+   "origin": "李清照《如梦令》",
+   "quote": "兴尽晚回舟，误入藕花深处",
+   "meaning": "红荷花，喻娇美明艳",
+   "usage": "女名",
+   "pinyin": "hóng qú",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "烟波",
+   "origin": "柳永《雨霖铃》",
+   "quote": "念去去，千里烟波，暮霭沉沉楚天阔",
+   "meaning": "烟波浩渺，喻旷远深沉",
+   "usage": "男名",
+   "pinyin": "yān bō",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "一蓑",
+   "origin": "苏轼《定风波》",
+   "quote": "一蓑烟雨任平生",
+   "meaning": "一袭蓑衣，喻洒脱从容",
+   "usage": "男名",
+   "pinyin": "yī suō",
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 28
+}

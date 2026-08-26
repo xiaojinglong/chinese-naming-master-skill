@@ -1,0 +1,807 @@
+{
+ "meta": {
+  "name": "取名用诗词意象库",
+  "version": "1.0",
+  "purpose": "古诗词中适合取名的意象词汇库（结构化数据，与 03-诗词意象.md 配套），按主题/风格/性别检索",
+  "note": "意象 → 映射字库具体字使用；带悲凉意象（残、孤）不单独取；意象组合需过音韵字形筛选",
+  "schema": {
+   "theme": "意象主题",
+   "imagery": "意象（字或词）",
+   "poem_ref": "诗词出处/例证",
+   "meaning": "寓意",
+   "style_tags": "风格标签",
+   "gender_hint": "male/female/neutral"
+  }
+ },
+ "items": [
+  {
+   "theme": "日月星辰",
+   "imagery": "曦",
+   "poem_ref": "《诗经》'曦'日光之义",
+   "meaning": "晨曦、朝气",
+   "style_tags": [
+    "光明",
+    "朝气"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "曜",
+   "poem_ref": "王粲《羽猎赋》'曜'光辉",
+   "meaning": "照耀、光辉",
+   "style_tags": [
+    "光明",
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "星",
+   "poem_ref": "杜甫'星垂平野阔'",
+   "meaning": "高远明亮",
+   "style_tags": [
+    "高远"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "辰",
+   "poem_ref": "王勃《滕王阁序》'星分翼轸'",
+   "meaning": "星辰、时光",
+   "style_tags": [
+    "高远"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "皓",
+   "poem_ref": "张若虚'皎皎空中孤月轮'",
+   "meaning": "皎洁、明亮",
+   "style_tags": [
+    "皎洁"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "朗",
+   "poem_ref": "王羲之《兰亭集序》'天朗气清'",
+   "meaning": "晴朗、开朗",
+   "style_tags": [
+    "光明"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "晟",
+   "poem_ref": "《说文》'晟，明也'",
+   "meaning": "光明炽盛",
+   "style_tags": [
+    "光明",
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "日月星辰",
+   "imagery": "明",
+   "poem_ref": "《诗经》'明明在下'",
+   "meaning": "光明、明智",
+   "style_tags": [
+    "光明"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "清",
+   "poem_ref": "王维'清泉石上流'",
+   "meaning": "澄澈高洁",
+   "style_tags": [
+    "清雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "泽",
+   "poem_ref": "《周易》'泽润万物'",
+   "meaning": "恩泽、润泽",
+   "style_tags": [
+    "恩泽"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "岚",
+   "poem_ref": "陶渊明'云无心以出岫'",
+   "meaning": "山间云雾",
+   "style_tags": [
+    "清雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "云",
+   "poem_ref": "李白'云想衣裳花想容'",
+   "meaning": "飘逸高远",
+   "style_tags": [
+    "飘逸"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "雨",
+   "poem_ref": "杜甫'随风潜入夜'",
+   "meaning": "润泽、滋养",
+   "style_tags": [
+    "清雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "溪",
+   "poem_ref": "李白'桃花流水窅然去'",
+   "meaning": "清澈灵动",
+   "style_tags": [
+    "灵动"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "澜",
+   "poem_ref": "《孟子》'观水有术，必观其澜'",
+   "meaning": "波澜、壮阔",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "沧",
+   "poem_ref": "曹操《观沧海》'东临碣石'",
+   "meaning": "沧海、广阔",
+   "style_tags": [
+    "大气",
+    "深沉"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "山水云雨",
+   "imagery": "渊",
+   "poem_ref": "《诗经》'如临深渊'",
+   "meaning": "深邃、学识",
+   "style_tags": [
+    "深沉"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "芳",
+   "poem_ref": "《楚辞》'芳菲菲其弥章'",
+   "meaning": "芬芳、美好",
+   "style_tags": [
+    "柔美"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "芷",
+   "poem_ref": "《楚辞·九歌》'沅有芷兮澧有兰'",
+   "meaning": "香草、高洁",
+   "style_tags": [
+    "高洁"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "荷",
+   "poem_ref": "周敦颐《爱莲说》",
+   "meaning": "清廉自守",
+   "style_tags": [
+    "清廉"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "萱",
+   "poem_ref": "《诗经》'焉得谖草'",
+   "meaning": "忘忧、安康",
+   "style_tags": [
+    "安康"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "楠",
+   "poem_ref": "杜甫'楠树色冥冥'",
+   "meaning": "栋梁之材",
+   "style_tags": [
+    "栋梁"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "桐",
+   "poem_ref": "《诗经》'凤凰鸣矣，于彼高冈。梧桐生矣'",
+   "meaning": "高洁、祥瑞",
+   "style_tags": [
+    "高洁"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "枫",
+   "poem_ref": "杜牧'霜叶红于二月花'",
+   "meaning": "热烈、坚毅",
+   "style_tags": [
+    "坚毅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "筠",
+   "poem_ref": "郑板桥咏竹'咬定青山不放松'",
+   "meaning": "虚心有节",
+   "style_tags": [
+    "坚毅",
+    "高洁"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "花草树木",
+   "imagery": "蕙",
+   "poem_ref": "《楚辞》'既滋兰之九畹兮，又树蕙之百亩'",
+   "meaning": "蕙质兰心",
+   "style_tags": [
+    "高洁"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "飞禽走兽",
+   "imagery": "鹤",
+   "poem_ref": "《诗经》'鹤鸣于九皋'",
+   "meaning": "高洁、长寿",
+   "style_tags": [
+    "高洁"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "飞禽走兽",
+   "imagery": "鹏",
+   "poem_ref": "《庄子》'鲲鹏展翅'",
+   "meaning": "志向远大",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "飞禽走兽",
+   "imagery": "鸿",
+   "poem_ref": "《周易》'鸿渐于陆'",
+   "meaning": "志向、书信",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "飞禽走兽",
+   "imagery": "麟",
+   "poem_ref": "《诗经》'麟之趾'",
+   "meaning": "祥瑞、尊贵",
+   "style_tags": [
+    "吉祥"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "飞禽走兽",
+   "imagery": "燕",
+   "poem_ref": "晏殊'似曾相识燕归来'",
+   "meaning": "温婉、归巢",
+   "style_tags": [
+    "温婉"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "飞禽走兽",
+   "imagery": "鸾",
+   "poem_ref": "《山海经》'鸾鸟自歌'",
+   "meaning": "祥瑞、和鸣",
+   "style_tags": [
+    "吉祥"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "瑾",
+   "poem_ref": "《楚辞》'怀瑾握瑜'",
+   "meaning": "美玉、美德",
+   "style_tags": [
+    "温润"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "瑜",
+   "poem_ref": "《楚辞》'怀瑾握瑜'",
+   "meaning": "美玉、光彩",
+   "style_tags": [
+    "温润"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "瑶",
+   "poem_ref": "《诗经》'报之以琼瑶'",
+   "meaning": "美玉、珍贵",
+   "style_tags": [
+    "珍贵"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "璐",
+   "poem_ref": "《楚辞》'被明月兮佩宝璐'",
+   "meaning": "美玉",
+   "style_tags": [
+    "珍贵"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "琛",
+   "poem_ref": "《诗经》'来献其琛'",
+   "meaning": "珍宝",
+   "style_tags": [
+    "珍贵"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "琪",
+   "poem_ref": "《文选》'琪树'仙界玉树",
+   "meaning": "美玉、珍奇",
+   "style_tags": [
+    "珍贵"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "美玉珍宝",
+   "imagery": "琰",
+   "poem_ref": "《说文》'琰，璧上起美色也'",
+   "meaning": "美玉、光彩",
+   "style_tags": [
+    "温润"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "风雪霜露",
+   "imagery": "雪",
+   "poem_ref": "谢道韫'未若柳絮因风起'",
+   "meaning": "纯洁、高洁",
+   "style_tags": [
+    "清冷"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "风雪霜露",
+   "imagery": "霜",
+   "poem_ref": "张继'月落乌啼霜满天'",
+   "meaning": "坚贞、清冷",
+   "style_tags": [
+    "清冷"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "风雪霜露",
+   "imagery": "露",
+   "poem_ref": "《诗经》'蒹葭苍苍，白露为霜'",
+   "meaning": "晶莹、纯净",
+   "style_tags": [
+    "清雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "风雪霜露",
+   "imagery": "霖",
+   "poem_ref": "《左传》'雨三日以往为霖'",
+   "meaning": "甘霖、恩泽",
+   "style_tags": [
+    "恩泽"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "风雪霜露",
+   "imagery": "霏",
+   "poem_ref": "《诗经》'雨雪其霏'",
+   "meaning": "雨雪纷飞",
+   "style_tags": [
+    "清雅"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "风雪霜露",
+   "imagery": "霓",
+   "poem_ref": "李白'霓为衣兮风为马'",
+   "meaning": "彩虹、华美",
+   "style_tags": [
+    "华美"
+   ],
+   "gender_hint": "female"
+  },
+  {
+   "theme": "琴棋书画",
+   "imagery": "琴",
+   "poem_ref": "王维'独坐幽篁里，弹琴复长啸'",
+   "meaning": "才情、雅致",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "琴棋书画",
+   "imagery": "书",
+   "poem_ref": "杜甫'读书破万卷'",
+   "meaning": "学识、文雅",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "琴棋书画",
+   "imagery": "诗",
+   "poem_ref": "《论语》'不学诗，无以言'",
+   "meaning": "才情、文雅",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "琴棋书画",
+   "imagery": "墨",
+   "poem_ref": "杜牧'墨池飞出北溟鱼'",
+   "meaning": "书香、才情",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "琴棋书画",
+   "imagery": "韵",
+   "poem_ref": "谢赫《古画品录》'气韵生动'",
+   "meaning": "气度、风韵",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "琴棋书画",
+   "imagery": "雅",
+   "poem_ref": "《诗经》大雅小雅",
+   "meaning": "高雅、文雅",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "江海湖泊",
+   "imagery": "海",
+   "poem_ref": "曹操《观沧海》",
+   "meaning": "广阔、包容",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "江海湖泊",
+   "imagery": "江",
+   "poem_ref": "苏轼'大江东去'",
+   "meaning": "壮阔、奔流",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "江海湖泊",
+   "imagery": "洲",
+   "poem_ref": "崔颢'芳草萋萋鹦鹉洲'",
+   "meaning": "水洲、辽阔",
+   "style_tags": [
+    "清雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "江海湖泊",
+   "imagery": "津",
+   "poem_ref": "《楚辞》'朝发轫于天津'",
+   "meaning": "渡口、要道",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "江海湖泊",
+   "imagery": "泊",
+   "poem_ref": "张继'姑苏城外寒山寺，夜半钟声到客船'",
+   "meaning": "停泊、安宁",
+   "style_tags": [
+    "安宁"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "亭台楼阁",
+   "imagery": "宇",
+   "poem_ref": "《淮南子》'四方上下曰宇'",
+   "meaning": "气宇、天地",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "亭台楼阁",
+   "imagery": "轩",
+   "poem_ref": "陶渊明'开轩面场圃'",
+   "meaning": "气宇轩昂",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "亭台楼阁",
+   "imagery": "堂",
+   "poem_ref": "《诗经》'跻彼公堂'",
+   "meaning": "正大、端方",
+   "style_tags": [
+    "庄重"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "亭台楼阁",
+   "imagery": "阁",
+   "poem_ref": "王勃《滕王阁序》",
+   "meaning": "高远、雅致",
+   "style_tags": [
+    "文雅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "亭台楼阁",
+   "imagery": "台",
+   "poem_ref": "李白'凤凰台上凤凰游'",
+   "meaning": "高台、气度",
+   "style_tags": [
+    "大气"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "岁月年华",
+   "imagery": "晨",
+   "poem_ref": "王维'清晨入古寺'",
+   "meaning": "朝气、希望",
+   "style_tags": [
+    "朝气"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "岁月年华",
+   "imagery": "初",
+   "poem_ref": "《诗经》'靡不有初'",
+   "meaning": "初心、开始",
+   "style_tags": [
+    "希望"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "岁月年华",
+   "imagery": "新",
+   "poem_ref": "《大学》'苟日新，日日新'",
+   "meaning": "更新、进步",
+   "style_tags": [
+    "希望"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "岁月年华",
+   "imagery": "春",
+   "poem_ref": "《诗经》'春日载阳'",
+   "meaning": "生机、美好",
+   "style_tags": [
+    "生机"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "岁月年华",
+   "imagery": "晞",
+   "poem_ref": "《诗经》'蒹葭萋萋，白露未晞'",
+   "meaning": "破晓、明亮",
+   "style_tags": [
+    "朝气"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "岁月年华",
+   "imagery": "旭",
+   "poem_ref": "《诗经》'旭日始旦'",
+   "meaning": "旭日、朝气",
+   "style_tags": [
+    "朝气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "谦",
+   "poem_ref": "《周易》谦卦",
+   "meaning": "谦逊",
+   "style_tags": [
+    "谦和"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "诚",
+   "poem_ref": "《礼记》'诚者天之道'",
+   "meaning": "诚信",
+   "style_tags": [
+    "诚信"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "毅",
+   "poem_ref": "《论语》'士不可以不弘毅'",
+   "meaning": "坚毅",
+   "style_tags": [
+    "坚毅"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "慎",
+   "poem_ref": "《论语》'慎终追远'",
+   "meaning": "谨慎、稳重",
+   "style_tags": [
+    "稳重"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "静",
+   "poem_ref": "诸葛亮'宁静致远'",
+   "meaning": "宁静、智慧",
+   "style_tags": [
+    "沉静"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "安",
+   "poem_ref": "《周易》'安而不忘危'",
+   "meaning": "安宁、平安",
+   "style_tags": [
+    "安宁"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "泰",
+   "poem_ref": "《周易》泰卦",
+   "meaning": "安泰、通达",
+   "style_tags": [
+    "吉祥"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "品格气度",
+   "imagery": "恒",
+   "poem_ref": "《周易》恒卦",
+   "meaning": "恒久、坚持",
+   "style_tags": [
+    "坚毅"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "天象",
+   "imagery": "明月",
+   "poem_ref": "苏轼《水调歌头》\"明月几时有\"",
+   "meaning": "皎洁、团圆、思念",
+   "style_tags": [
+    "清雅",
+    "思念"
+   ],
+   "gender_hint": "neutral"
+  },
+  {
+   "theme": "地理",
+   "imagery": "长河",
+   "poem_ref": "王维《使至塞上》\"长河落日圆\"",
+   "meaning": "壮阔、永恒、历史",
+   "style_tags": [
+    "壮阔",
+    "大气"
+   ],
+   "gender_hint": "male"
+  },
+  {
+   "theme": "植物",
+   "imagery": "芳草",
+   "poem_ref": "苏轼《蝶恋花》\"天涯何处无芳草\"",
+   "meaning": "生机、绵延、思念",
+   "style_tags": [
+    "清新",
+    "思念"
+   ],
+   "gender_hint": "neutral"
+  }
+ ],
+ "count": 78
+}

@@ -1,0 +1,991 @@
+{
+ "source": "楚辞",
+ "desc": "浪漫主义源头，意象瑰丽，多用于'大气/古典'风格",
+ "items": [
+  {
+   "word": "修远",
+   "origin": "《楚辞·离骚》",
+   "quote": "路漫漫其修远兮，吾将上下而求索",
+   "meaning": "道路长远，喻志向高远、不懈求索",
+   "usage": "男名",
+   "pinyin": "xiū yuǎn",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "望舒",
+   "origin": "《楚辞·离骚》",
+   "quote": "前望舒使先驱兮",
+   "meaning": "神话中为月驾车之神，喻美好光明",
+   "usage": "女名",
+   "pinyin": "wàng shū",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "陆离",
+   "origin": "《楚辞·离骚》",
+   "quote": "纷总总其离合兮，斑陆离其上下",
+   "meaning": "光彩绚丽、参差错综",
+   "usage": "男女皆宜",
+   "pinyin": "lù lí",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "杜若",
+   "origin": "《楚辞·九歌·湘君》",
+   "quote": "采芳洲兮杜若，将以遗兮下女",
+   "meaning": "香草名，喻高洁芬芳",
+   "usage": "女名",
+   "pinyin": "dù ruò",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "怀瑾",
+   "origin": "《楚辞·九章·怀沙》",
+   "quote": "怀瑾握瑜兮，穷不知所示",
+   "meaning": "怀藏美玉，喻品德高洁",
+   "usage": "男名",
+   "pinyin": "huái jǐn",
+   "style_tags": [
+    "古风",
+    "大气"
+   ]
+  },
+  {
+   "word": "若英",
+   "origin": "《楚辞·九歌·云中君》",
+   "quote": "浴兰汤兮沐芳，华采衣兮若英",
+   "meaning": "如花般美丽",
+   "usage": "女名",
+   "pinyin": "ruò yīng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "嘉名",
+   "origin": "《楚辞·离骚》",
+   "quote": "皇览揆余初度兮，肇锡余以嘉名",
+   "meaning": "美好的名字",
+   "usage": "男女皆宜",
+   "pinyin": "jiā míng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "峻茂",
+   "origin": "《楚辞·离骚》",
+   "quote": "冀枝叶之峻茂兮，愿俟时乎吾将刈",
+   "meaning": "高大茂盛，喻人才茁壮",
+   "usage": "男名",
+   "pinyin": "jùn mào",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "江离",
+   "origin": "《楚辞·离骚》",
+   "quote": "扈江离与辟芷兮，纫秋兰以为佩",
+   "meaning": "香草名（川芎），喻高洁",
+   "usage": "男女皆宜",
+   "pinyin": "jiāng lí",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "兰芷",
+   "origin": "《楚辞·九章·悲回风》",
+   "quote": "兰芷变而不芳兮，荃蕙化而为茅",
+   "meaning": "兰与芷皆香草，喻高洁品性",
+   "usage": "女名",
+   "pinyin": "lán zhǐ",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "芳菲",
+   "origin": "《楚辞·九章·思美人》",
+   "quote": "芳菲菲而难亏兮，芬至今犹未沫",
+   "meaning": "芳香繁盛，喻美好永存",
+   "usage": "女名",
+   "pinyin": "fāng fēi",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "正则",
+   "origin": "《楚辞·离骚》",
+   "quote": "名余曰正则兮，字余曰灵均",
+   "meaning": "公正而有法则（屈原本名）",
+   "usage": "男名",
+   "pinyin": "zhèng zé",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "丰隆",
+   "origin": "《楚辞·离骚》",
+   "quote": "吾令丰隆乘云兮，求宓妃之所在",
+   "meaning": "云神之名，气象宏大",
+   "usage": "男名",
+   "pinyin": "fēng lóng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "飞廉",
+   "origin": "《楚辞·离骚》",
+   "quote": "前望舒使先驱兮，后飞廉使奔属",
+   "meaning": "风神之名，喻迅捷",
+   "usage": "男名",
+   "pinyin": "fēi lián",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "琼佩",
+   "origin": "《楚辞·离骚》",
+   "quote": "何琼佩之偃蹇兮，众薆然而蔽之",
+   "meaning": "美玉做的佩饰，喻美好才德",
+   "usage": "女名",
+   "pinyin": "qióng pèi",
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "灵均",
+   "origin": "《楚辞·离骚》",
+   "quote": "名余曰正则兮，字余曰灵均",
+   "meaning": "灵善均平，喻天赋美善",
+   "usage": "男名",
+   "pinyin": "líng jūn",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "飞龙",
+   "origin": "《楚辞·离骚》",
+   "quote": "飞龙秋游兮，登九灵",
+   "meaning": "飞翔之龙，喻志向远大",
+   "usage": "男名",
+   "pinyin": "fēi lóng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "芳芷",
+   "origin": "《楚辞·离骚》",
+   "quote": "畦留夷与揭车兮，杂杜衡与芳芷",
+   "meaning": "香草名，喻品德芬芳",
+   "usage": "女名",
+   "pinyin": "fāng zhǐ",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "若华",
+   "origin": "《楚辞·天问》",
+   "quote": "羲和之未扬，若华何光",
+   "meaning": "神话中若木之花，喻光芒灿烂",
+   "usage": "女名",
+   "pinyin": "ruò huá",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "云霓",
+   "origin": "《楚辞·离骚》",
+   "quote": "扬云霓之晻蔼兮",
+   "meaning": "云中彩虹，喻华美高洁",
+   "usage": "女名",
+   "pinyin": "yún ní",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "飞扬",
+   "origin": "《楚辞·九歌·河伯》",
+   "quote": "心飞扬兮浩荡",
+   "meaning": "心志飞扬，喻意气风发",
+   "usage": "男名",
+   "pinyin": "fēi yáng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "幼清",
+   "origin": "《楚辞·招魂》",
+   "quote": "朕幼清以廉洁兮",
+   "meaning": "自幼清正廉洁，喻品性纯良",
+   "usage": "男女皆宜",
+   "pinyin": "yòu qīng",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "宝璐",
+   "origin": "《楚辞·九章·涉江》",
+   "quote": "被明月兮佩宝璐",
+   "meaning": "美玉，喻珍贵美好",
+   "usage": "女名",
+   "pinyin": "bǎo lù",
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "浩倡",
+   "origin": "《楚辞·九歌·东皇太一》",
+   "quote": "陈竽瑟兮浩倡",
+   "meaning": "浩大盛美，喻气势磅礴",
+   "usage": "男名",
+   "pinyin": "hào chàng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "辰良",
+   "origin": "《楚辞·东皇太一》",
+   "quote": "吉日兮辰良",
+   "meaning": "吉日良辰",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "乐康",
+   "origin": "《楚辞·东皇太一》",
+   "quote": "君欣欣兮乐康",
+   "meaning": "欣乐安康",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "安歌",
+   "origin": "《楚辞·东皇太一》",
+   "quote": "疏缓节兮安歌",
+   "meaning": "从容安详地歌唱",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "昭昭",
+   "origin": "《楚辞·云中君》",
+   "quote": "烂昭昭兮未央",
+   "meaning": "光明灿烂、未尽",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "未央",
+   "origin": "《楚辞·云中君》",
+   "quote": "烂昭昭兮未央",
+   "meaning": "光明灿烂、未尽",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "宜修",
+   "origin": "《楚辞·湘君》",
+   "quote": "美要眇兮宜修",
+   "meaning": "美好而修饰得宜",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "扬灵",
+   "origin": "《楚辞·湘君》",
+   "quote": "横大江兮扬灵",
+   "meaning": "精神飞扬，神采焕发",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "暾暾",
+   "origin": "《楚辞·东君》",
+   "quote": "暾将出兮东方",
+   "meaning": "初升的朝阳",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "秋兰",
+   "origin": "《楚辞·少司命》",
+   "quote": "秋兰兮青青，绿叶兮紫茎",
+   "meaning": "幽兰青翠",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "青青",
+   "origin": "《楚辞·少司命》",
+   "quote": "秋兰兮青青，绿叶兮紫茎",
+   "meaning": "幽兰青翠",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "琳琅",
+   "origin": "《楚辞·东皇太一》",
+   "quote": "抚长剑兮玉珥，璆锵鸣兮琳琅",
+   "meaning": "美玉相击，声色琳琅",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "沐芳",
+   "origin": "《楚辞·云中君》",
+   "quote": "浴兰汤兮沐芳",
+   "meaning": "兰汤沐浴，芳洁自修",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "兰汤",
+   "origin": "《楚辞·云中君》",
+   "quote": "浴兰汤兮沐芳",
+   "meaning": "兰汤沐浴，芳洁自修",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "沅芷",
+   "origin": "《楚辞·湘夫人》",
+   "quote": "沅有茝兮醴有兰",
+   "meaning": "沅芷澧兰，芳洁之志",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "澧兰",
+   "origin": "《楚辞·湘夫人》",
+   "quote": "沅有茝兮醴有兰",
+   "meaning": "沅芷澧兰，芳洁之志",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "云衣",
+   "origin": "《楚辞·东君》",
+   "quote": "青云衣兮白霓裳",
+   "meaning": "仙衣缥缈",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "霓裳",
+   "origin": "《楚辞·东君》",
+   "quote": "青云衣兮白霓裳",
+   "meaning": "仙衣缥缈",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "新知",
+   "origin": "《楚辞·少司命》",
+   "quote": "悲莫悲兮生别离，乐莫乐兮新相知",
+   "meaning": "人生至乐在得新知",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "含睇",
+   "origin": "《楚辞·山鬼》",
+   "quote": "既含睇兮又宜笑",
+   "meaning": "含情凝睇，笑靥宜人",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "宜笑",
+   "origin": "《楚辞·山鬼》",
+   "quote": "既含睇兮又宜笑",
+   "meaning": "含情凝睇，笑靥宜人",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "春兰",
+   "origin": "《楚辞·礼魂》",
+   "quote": "春兰兮秋菊，长无绝兮终古",
+   "meaning": "兰菊相继，风雅不绝",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "秋菊",
+   "origin": "《楚辞·礼魂》",
+   "quote": "春兰兮秋菊，长无绝兮终古",
+   "meaning": "兰菊相继，风雅不绝",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "毅魂",
+   "origin": "《楚辞·国殇》",
+   "quote": "身既死兮神以灵，魂魄毅兮为鬼雄",
+   "meaning": "刚毅忠魂（尚武语境，慎用）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "齐光",
+   "origin": "《楚辞·九章·涉江》",
+   "quote": "与天地兮同寿，与日月兮齐光",
+   "meaning": "与日月同辉",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "承宇",
+   "origin": "《楚辞·九章·涉江》",
+   "quote": "云霏霏而承宇",
+   "meaning": "云气连接屋宇",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自清",
+   "origin": "《楚辞·卜居》",
+   "quote": "宁廉洁正直以自清乎",
+   "meaning": "廉洁正直（朱自清）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "凯风",
+   "origin": "《楚辞·远游》",
+   "quote": "顺凯风以从游兮",
+   "meaning": "南风和畅",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "气清",
+   "origin": "《楚辞·九辩（宋玉）》",
+   "quote": "泬寥兮天高而气清",
+   "meaning": "天高气清",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "沧浪",
+   "origin": "《楚辞·渔父》",
+   "quote": "沧浪之水清兮，可以濯吾缨",
+   "meaning": "沧浪濯缨，清高自守",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "濯缨",
+   "origin": "《楚辞·渔父》",
+   "quote": "沧浪之水清兮，可以濯吾缨",
+   "meaning": "沧浪濯缨，清高自守",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "握瑜",
+   "origin": "《楚辞·九章·怀沙》",
+   "quote": "怀瑾握瑜兮",
+   "meaning": "怀抱美玉，才德兼备",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "古风"
+   ]
+  },
+  {
+   "word": "若木",
+   "origin": "《楚辞·九歌·大司命》",
+   "quote": "折若木兮拂日",
+   "meaning": "神树若木，拂日之光",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "目成",
+   "origin": "《楚辞·九歌·大司命》",
+   "quote": "满堂兮美人，忽独与余兮目成",
+   "meaning": "一见倾心，两相悦慕",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "河渚",
+   "origin": "《楚辞·九歌·河伯》",
+   "quote": "与女游兮河之渚",
+   "meaning": "河中小洲（偏冷僻）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "文鱼",
+   "origin": "《楚辞·九歌·河伯》",
+   "quote": "乘白鼋兮逐文鱼",
+   "meaning": "—（神话意象，慎入名）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "自明",
+   "origin": "《楚辞·九章·惜诵》",
+   "quote": "恐情质之不信兮，故重著以自明",
+   "meaning": "自我表白，证明清白",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "—（戒律义",
+   "origin": "《楚辞·九章·抽思》",
+   "quote": "善不由外来兮，名不可以虚作",
+   "meaning": "美名不可虚假",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不入名）",
+   "origin": "《楚辞·九章·抽思》",
+   "quote": "善不由外来兮，名不可以虚作",
+   "meaning": "美名不可虚假",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（悲郁义",
+   "origin": "《楚辞·九章·思美人》",
+   "quote": "思美人兮，揽涕而竚眙",
+   "meaning": "思念美人",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "不宜入名）",
+   "origin": "《楚辞·九章·思美人》",
+   "quote": "思美人兮，揽涕而竚眙",
+   "meaning": "思念美人",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "—（回顾义",
+   "origin": "《楚辞·九章·惜往日》",
+   "quote": "惜往日之曾信兮，受命诏之以诗",
+   "meaning": "追忆往昔",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "光风",
+   "origin": "《楚辞·招魂（宋玉/屈原）》",
+   "quote": "光风转蕙，泛崇兰些",
+   "meaning": "和风吹拂蕙草，崇兰荡漾",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "崇兰",
+   "origin": "《楚辞·招魂（宋玉/屈原）》",
+   "quote": "光风转蕙，泛崇兰些",
+   "meaning": "和风吹拂蕙草，崇兰荡漾",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "朱明",
+   "origin": "《楚辞·招魂》",
+   "quote": "朱明承夜兮时不可淹",
+   "meaning": "夏日太阳（\"朱明\"=夏）",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "—（招魂辞",
+   "origin": "《楚辞·大招（景差/屈原）》",
+   "quote": "魂乎无东、无南、无西、无北",
+   "meaning": "四方招魂",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "内美",
+   "origin": "《楚辞》",
+   "quote": "纷吾既有此内美兮，又重之以修能",
+   "meaning": "内在美质、修习才能",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "修能",
+   "origin": "《楚辞》",
+   "quote": "纷吾既有此内美兮，又重之以修能",
+   "meaning": "内在美质、修习才能",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "求索",
+   "origin": "《楚辞》",
+   "quote": "路漫漫其修远兮，吾将上下而求索",
+   "meaning": "志向高远、不懈追求",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "辟芷",
+   "origin": "《楚辞》",
+   "quote": "扈江离与辟芷兮，纫秋兰以为佩",
+   "meaning": "香草为佩，高洁自持",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "纫秋",
+   "origin": "《楚辞》",
+   "quote": "扈江离与辟芷兮，纫秋兰以为佩",
+   "meaning": "香草为佩，高洁自持",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "佩兰",
+   "origin": "《楚辞》",
+   "quote": "扈江离与辟芷兮，纫秋兰以为佩",
+   "meaning": "香草为佩，高洁自持",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "木兰",
+   "origin": "《楚辞》",
+   "quote": "朝饮木兰之坠露兮，夕餐秋菊之落英",
+   "meaning": "饮露餐英，不染尘俗",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "坠露",
+   "origin": "《楚辞》",
+   "quote": "朝饮木兰之坠露兮，夕餐秋菊之落英",
+   "meaning": "饮露餐英，不染尘俗",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "落英",
+   "origin": "《楚辞》",
+   "quote": "朝饮木兰之坠露兮，夕餐秋菊之落英",
+   "meaning": "饮露餐英，不染尘俗",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "骐骥",
+   "origin": "《楚辞》",
+   "quote": "乘骐骥以驰骋兮，来吾道夫先路",
+   "meaning": "骏马开路，引领先行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "先路",
+   "origin": "《楚辞》",
+   "quote": "乘骐骥以驰骋兮，来吾道夫先路",
+   "meaning": "骏马开路，引领先行",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "云旗",
+   "origin": "《楚辞》",
+   "quote": "载云旗之委蛇",
+   "meaning": "仪仗如云，气象宏大",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "骋志类意象",
+   "origin": "《楚辞》",
+   "quote": "乘骐骥以驰骋",
+   "meaning": "纵横驰骋的抱负",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "嘉树",
+   "origin": "《楚辞》",
+   "quote": "后皇嘉树，橘徕服兮",
+   "meaning": "天地间美好的树",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "壹志",
+   "origin": "《楚辞》",
+   "quote": "深固难徙，更壹志兮",
+   "meaning": "志向专一坚定",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "素荣",
+   "origin": "《楚辞》",
+   "quote": "绿叶素荣，纷其可喜兮",
+   "meaning": "白花素洁",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "秉德",
+   "origin": "《楚辞》",
+   "quote": "秉德无私，参天地兮",
+   "meaning": "持守德行，无私无偏",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "苏世",
+   "origin": "《楚辞》",
+   "quote": "苏世独立，横而不流兮",
+   "meaning": "醒世独立，不随波逐流",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "淑离",
+   "origin": "《楚辞》",
+   "quote": "淑离不淫，梗其有理兮",
+   "meaning": "善良而不淫佚",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "长友",
+   "origin": "《楚辞》",
+   "quote": "愿岁并谢，与长友兮",
+   "meaning": "长久为友",
+   "usage": "男名多用",
+   "pinyin": null,
+   "style_tags": [
+    "通用"
+   ]
+  }
+ ],
+ "count": 89
+}

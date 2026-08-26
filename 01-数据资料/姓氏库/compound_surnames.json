@@ -1,0 +1,867 @@
+{
+  "meta": {
+    "name": "复姓库",
+    "version": "1.0",
+    "count_placeholder": null,
+    "fields": [
+      "surname",
+      "traditional",
+      "pinyin",
+      "strokes_kangxi_each",
+      "wuxing_each",
+      "notes"
+    ],
+    "note": "strokes_kangxi_each 为两字各自的康熙笔画（供五格计算：天格=两字笔画相加+1 等）",
+    "count": 53
+  },
+  "surnames": [
+    {
+      "surname": "欧阳",
+      "traditional": "歐陽",
+      "pinyin": "ōuyáng",
+      "strokes_kangxi_each": [
+        15,
+        17
+      ],
+      "strokes_kangxi_total": 32,
+      "wuxing_each": [
+        "土",
+        "木"
+      ],
+      "notes": "最著名复姓",
+      "common": true
+    },
+    {
+      "surname": "司马",
+      "traditional": "司馬",
+      "pinyin": "sīmǎ",
+      "strokes_kangxi_each": [
+        5,
+        10
+      ],
+      "strokes_kangxi_total": 15,
+      "wuxing_each": [
+        "金",
+        "火"
+      ],
+      "notes": "史官后裔",
+      "common": true
+    },
+    {
+      "surname": "上官",
+      "traditional": "上官",
+      "pinyin": "shàngguān",
+      "strokes_kangxi_each": [
+        3,
+        8
+      ],
+      "strokes_kangxi_total": 11,
+      "wuxing_each": [
+        "金",
+        "木"
+      ],
+      "notes": "楚庄王少子后",
+      "common": true
+    },
+    {
+      "surname": "诸葛",
+      "traditional": "諸葛",
+      "pinyin": "zhūgě",
+      "strokes_kangxi_each": [
+        16,
+        15
+      ],
+      "strokes_kangxi_total": 31,
+      "wuxing_each": [
+        "金",
+        "木"
+      ],
+      "notes": "诸葛亮之姓",
+      "common": true
+    },
+    {
+      "surname": "东方",
+      "traditional": "東方",
+      "pinyin": "dōngfāng",
+      "strokes_kangxi_each": [
+        8,
+        4
+      ],
+      "strokes_kangxi_total": 12,
+      "wuxing_each": [
+        "木",
+        "水"
+      ],
+      "notes": "伏羲后裔",
+      "common": true
+    },
+    {
+      "surname": "皇甫",
+      "traditional": "皇甫",
+      "pinyin": "huángfǔ",
+      "strokes_kangxi_each": [
+        12,
+        9
+      ],
+      "strokes_kangxi_total": 21,
+      "wuxing_each": [
+        "土",
+        "水"
+      ],
+      "notes": "子姓/姬姓源",
+      "common": true
+    },
+    {
+      "surname": "尉迟",
+      "traditional": "尉遲",
+      "pinyin": "yùchí",
+      "strokes_kangxi_each": [
+        11,
+        15
+      ],
+      "strokes_kangxi_total": 26,
+      "wuxing_each": [
+        "土",
+        "火"
+      ],
+      "notes": "鲜卑族姓",
+      "common": true
+    },
+    {
+      "surname": "公孙",
+      "traditional": "公孫",
+      "pinyin": "gōngsūn",
+      "strokes_kangxi_each": [
+        4,
+        10
+      ],
+      "strokes_kangxi_total": 14,
+      "wuxing_each": [
+        "木",
+        "金"
+      ],
+      "notes": "公族后裔",
+      "common": true
+    },
+    {
+      "surname": "慕容",
+      "traditional": "慕容",
+      "pinyin": "mùróng",
+      "strokes_kangxi_each": [
+        14,
+        10
+      ],
+      "strokes_kangxi_total": 24,
+      "wuxing_each": [
+        "土",
+        "木"
+      ],
+      "notes": "鲜卑族姓",
+      "common": true
+    },
+    {
+      "surname": "闻人",
+      "traditional": "聞人",
+      "pinyin": "wénrén",
+      "strokes_kangxi_each": [
+        14,
+        2
+      ],
+      "strokes_kangxi_total": 16,
+      "wuxing_each": [
+        "水",
+        "金"
+      ],
+      "notes": "少正卯后",
+      "common": true
+    },
+    {
+      "surname": "赫连",
+      "traditional": "赫連",
+      "pinyin": "hèlián",
+      "strokes_kangxi_each": [
+        14,
+        14
+      ],
+      "strokes_kangxi_total": 28,
+      "wuxing_each": [
+        "木",
+        "火"
+      ],
+      "notes": "匈奴族姓",
+      "common": true
+    },
+    {
+      "surname": "澹台",
+      "traditional": "澹臺",
+      "pinyin": "tántái",
+      "strokes_kangxi_each": [
+        16,
+        14
+      ],
+      "strokes_kangxi_total": 30,
+      "wuxing_each": [
+        "水",
+        "火"
+      ],
+      "notes": "孔子弟子澹台灭明",
+      "common": true
+    },
+    {
+      "surname": "拓跋",
+      "traditional": "拓跋",
+      "pinyin": "tuòbá",
+      "strokes_kangxi_each": [
+        9,
+        13
+      ],
+      "strokes_kangxi_total": 22,
+      "wuxing_each": [
+        "土",
+        "水"
+      ],
+      "notes": "北魏皇姓",
+      "common": true
+    },
+    {
+      "surname": "公羊",
+      "traditional": "公羊",
+      "pinyin": "gōngyáng",
+      "strokes_kangxi_each": [
+        4,
+        6
+      ],
+      "strokes_kangxi_total": 10,
+      "wuxing_each": [
+        "木",
+        "土"
+      ],
+      "notes": "《公羊传》",
+      "common": true
+    },
+    {
+      "surname": "南宫",
+      "traditional": "南宮",
+      "pinyin": "nángōng",
+      "strokes_kangxi_each": [
+        9,
+        10
+      ],
+      "strokes_kangxi_total": 19,
+      "wuxing_each": [
+        "火",
+        "木"
+      ],
+      "notes": "南宫适",
+      "common": true
+    },
+    {
+      "surname": "端木",
+      "traditional": "端木",
+      "pinyin": "duānmù",
+      "strokes_kangxi_each": [
+        14,
+        4
+      ],
+      "strokes_kangxi_total": 18,
+      "wuxing_each": [
+        "火",
+        "木"
+      ],
+      "notes": "孔子弟子端木赐",
+      "common": true
+    },
+    {
+      "surname": "独孤",
+      "traditional": "獨孤",
+      "pinyin": "dúgū",
+      "strokes_kangxi_each": [
+        16,
+        8
+      ],
+      "strokes_kangxi_total": 24,
+      "wuxing_each": [
+        "火",
+        "木"
+      ],
+      "notes": "鲜卑族姓",
+      "common": true
+    },
+    {
+      "surname": "令狐",
+      "traditional": "令狐",
+      "pinyin": "lìnghú",
+      "strokes_kangxi_each": [
+        5,
+        8
+      ],
+      "strokes_kangxi_total": 13,
+      "wuxing_each": [
+        "火",
+        "土"
+      ],
+      "notes": "《令狐冲》",
+      "common": true
+    },
+    {
+      "surname": "宇文",
+      "traditional": "宇文",
+      "pinyin": "yǔwén",
+      "strokes_kangxi_each": [
+        6,
+        4
+      ],
+      "strokes_kangxi_total": 10,
+      "wuxing_each": [
+        "土",
+        "水"
+      ],
+      "notes": "鲜卑族姓",
+      "common": true
+    },
+    {
+      "surname": "长孙",
+      "traditional": "長孫",
+      "pinyin": "zhǎngsūn",
+      "strokes_kangxi_each": [
+        8,
+        10
+      ],
+      "strokes_kangxi_total": 18,
+      "wuxing_each": [
+        "火",
+        "金"
+      ],
+      "notes": "北魏皇室",
+      "common": true
+    },
+    {
+      "surname": "鲜于",
+      "traditional": "鮮於",
+      "pinyin": "xiānyú",
+      "strokes_kangxi_each": [
+        17,
+        11
+      ],
+      "strokes_kangxi_total": 28,
+      "wuxing_each": [
+        "金",
+        "土"
+      ],
+      "notes": "箕子后裔",
+      "common": true
+    },
+    {
+      "surname": "闾丘",
+      "traditional": "閭丘",
+      "pinyin": "lǘqiū",
+      "strokes_kangxi_each": [
+        14,
+        5
+      ],
+      "strokes_kangxi_total": 19,
+      "wuxing_each": [
+        "木",
+        "木"
+      ],
+      "notes": "齐地姓",
+      "common": true
+    },
+    {
+      "surname": "司徒",
+      "traditional": "司徒",
+      "pinyin": "sītú",
+      "strokes_kangxi_each": [
+        5,
+        10
+      ],
+      "strokes_kangxi_total": 15,
+      "wuxing_each": [
+        "金",
+        "火"
+      ],
+      "notes": "官职为姓",
+      "common": true
+    },
+    {
+      "surname": "司空",
+      "traditional": "司空",
+      "pinyin": "sīkōng",
+      "strokes_kangxi_each": [
+        5,
+        8
+      ],
+      "strokes_kangxi_total": 13,
+      "wuxing_each": [
+        "金",
+        "木"
+      ],
+      "notes": "官职为姓",
+      "common": true
+    },
+    {
+      "surname": "司寇",
+      "traditional": "司寇",
+      "pinyin": "sīkòu",
+      "strokes_kangxi_each": [
+        5,
+        11
+      ],
+      "strokes_kangxi_total": 16,
+      "wuxing_each": [
+        "金",
+        "木"
+      ],
+      "notes": "官职为姓",
+      "common": true
+    },
+    {
+      "surname": "子车",
+      "traditional": "子車",
+      "pinyin": "zǐchē",
+      "strokes_kangxi_each": [
+        3,
+        7
+      ],
+      "strokes_kangxi_total": 10,
+      "wuxing_each": [
+        "水",
+        "金"
+      ],
+      "notes": "《诗经》子车氏",
+      "common": true
+    },
+    {
+      "surname": "颛孙",
+      "traditional": "顓孫",
+      "pinyin": "zhuānsūn",
+      "strokes_kangxi_each": [
+        15,
+        10
+      ],
+      "strokes_kangxi_total": 25,
+      "wuxing_each": [
+        "金",
+        "金"
+      ],
+      "notes": "孔子弟子",
+      "common": true
+    },
+    {
+      "surname": "巫马",
+      "traditional": "巫馬",
+      "pinyin": "wūmǎ",
+      "strokes_kangxi_each": [
+        7,
+        10
+      ],
+      "strokes_kangxi_total": 17,
+      "wuxing_each": [
+        "火",
+        "火"
+      ],
+      "notes": "官职为姓",
+      "common": true
+    },
+    {
+      "surname": "公西",
+      "traditional": "公西",
+      "pinyin": "gōngxī",
+      "strokes_kangxi_each": [
+        4,
+        6
+      ],
+      "strokes_kangxi_total": 10,
+      "wuxing_each": [
+        "木",
+        "金"
+      ],
+      "notes": "孔子弟子公西赤",
+      "common": true
+    },
+    {
+      "surname": "漆雕",
+      "traditional": "漆雕",
+      "pinyin": "qīdiāo",
+      "strokes_kangxi_each": [
+        14,
+        16
+      ],
+      "strokes_kangxi_total": 30,
+      "wuxing_each": [
+        "水",
+        "金"
+      ],
+      "notes": "孔子弟子漆雕开",
+      "common": true
+    },
+    {
+      "surname": "乐正",
+      "traditional": "樂正",
+      "pinyin": "yuèzhèng",
+      "strokes_kangxi_each": [
+        15,
+        5
+      ],
+      "strokes_kangxi_total": 20,
+      "wuxing_each": [
+        "火",
+        "火"
+      ],
+      "notes": "乐官后裔",
+      "common": true
+    },
+    {
+      "surname": "公良",
+      "traditional": "公良",
+      "pinyin": "gōngliáng",
+      "strokes_kangxi_each": [
+        4,
+        7
+      ],
+      "strokes_kangxi_total": 11,
+      "wuxing_each": [
+        "木",
+        "火"
+      ],
+      "notes": "孔子弟子公良孺",
+      "common": true
+    },
+    {
+      "surname": "夹谷",
+      "traditional": "夾谷",
+      "pinyin": "jiāgǔ",
+      "strokes_kangxi_each": [
+        7,
+        7
+      ],
+      "strokes_kangxi_total": 14,
+      "wuxing_each": [
+        "木",
+        "木"
+      ],
+      "notes": "女真族姓",
+      "common": true
+    },
+    {
+      "surname": "宰父",
+      "traditional": "宰父",
+      "pinyin": "zǎifǔ",
+      "strokes_kangxi_each": [
+        10,
+        4
+      ],
+      "strokes_kangxi_total": 14,
+      "wuxing_each": [
+        "金",
+        "水"
+      ],
+      "notes": "孔子弟子宰父黑",
+      "common": true
+    },
+    {
+      "surname": "谷梁",
+      "traditional": "穀梁",
+      "pinyin": "gǔliáng",
+      "strokes_kangxi_each": [
+        15,
+        11
+      ],
+      "strokes_kangxi_total": 26,
+      "wuxing_each": [
+        "木",
+        "木"
+      ],
+      "notes": "《谷梁传》",
+      "common": true
+    },
+    {
+      "surname": "段干",
+      "traditional": "段干",
+      "pinyin": "duàngān",
+      "strokes_kangxi_each": [
+        9,
+        3
+      ],
+      "strokes_kangxi_total": 12,
+      "wuxing_each": [
+        "火",
+        "木"
+      ],
+      "notes": "老子后裔",
+      "common": true
+    },
+    {
+      "surname": "百里",
+      "traditional": "百里",
+      "pinyin": "bǎilǐ",
+      "strokes_kangxi_each": [
+        6,
+        7
+      ],
+      "strokes_kangxi_total": 13,
+      "wuxing_each": [
+        "火",
+        "火"
+      ],
+      "notes": "百里奚",
+      "common": true
+    },
+    {
+      "surname": "东郭",
+      "traditional": "東郭",
+      "pinyin": "dōngguō",
+      "strokes_kangxi_each": [
+        8,
+        15
+      ],
+      "strokes_kangxi_total": 23,
+      "wuxing_each": [
+        "木",
+        "木"
+      ],
+      "notes": "东郭先生",
+      "common": true
+    },
+    {
+      "surname": "南门",
+      "traditional": "南門",
+      "pinyin": "nánmén",
+      "strokes_kangxi_each": [
+        9,
+        8
+      ],
+      "strokes_kangxi_total": 17,
+      "wuxing_each": [
+        "火",
+        "水"
+      ],
+      "notes": "居南门为姓",
+      "common": true
+    },
+    {
+      "surname": "呼延",
+      "traditional": "呼延",
+      "pinyin": "hūyán",
+      "strokes_kangxi_each": [
+        8,
+        8
+      ],
+      "strokes_kangxi_total": 16,
+      "wuxing_each": [
+        "水",
+        "火"
+      ],
+      "notes": "匈奴族姓",
+      "common": true
+    },
+    {
+      "surname": "羊舌",
+      "traditional": "羊舌",
+      "pinyin": "yángshé",
+      "strokes_kangxi_each": [
+        6,
+        6
+      ],
+      "strokes_kangxi_total": 12,
+      "wuxing_each": [
+        "土",
+        "金"
+      ],
+      "notes": "晋国姓",
+      "common": true
+    },
+    {
+      "surname": "微生",
+      "traditional": "微生",
+      "pinyin": "wēishēng",
+      "strokes_kangxi_each": [
+        13,
+        5
+      ],
+      "strokes_kangxi_total": 18,
+      "wuxing_each": [
+        "水",
+        "金"
+      ],
+      "notes": "孔子弟子微生亩",
+      "common": true
+    },
+    {
+      "surname": "梁丘",
+      "traditional": "梁丘",
+      "pinyin": "liángqiū",
+      "strokes_kangxi_each": [
+        11,
+        5
+      ],
+      "strokes_kangxi_total": 16,
+      "wuxing_each": [
+        "木",
+        "木"
+      ],
+      "notes": "齐地姓",
+      "common": true
+    },
+    {
+      "surname": "左丘",
+      "traditional": "左丘",
+      "pinyin": "zuǒqiū",
+      "strokes_kangxi_each": [
+        5,
+        5
+      ],
+      "strokes_kangxi_total": 10,
+      "wuxing_each": [
+        "火",
+        "木"
+      ],
+      "notes": "左丘明",
+      "common": true
+    },
+    {
+      "surname": "东门",
+      "traditional": "東門",
+      "pinyin": "dōngmén",
+      "strokes_kangxi_each": [
+        8,
+        8
+      ],
+      "strokes_kangxi_total": 16,
+      "wuxing_each": [
+        "木",
+        "水"
+      ],
+      "notes": "居东门为姓",
+      "common": true
+    },
+    {
+      "surname": "西门",
+      "traditional": "西門",
+      "pinyin": "xīmén",
+      "strokes_kangxi_each": [
+        6,
+        8
+      ],
+      "strokes_kangxi_total": 14,
+      "wuxing_each": [
+        "金",
+        "水"
+      ],
+      "notes": "西门豹",
+      "common": true
+    },
+    {
+      "surname": "第五",
+      "traditional": "第五",
+      "pinyin": "dìwǔ",
+      "strokes_kangxi_each": [
+        11,
+        4
+      ],
+      "strokes_kangxi_total": 15,
+      "wuxing_each": [
+        "火",
+        "土"
+      ],
+      "notes": "田氏后裔",
+      "common": true
+    },
+    {
+      "surname": "亓官",
+      "traditional": "亓官",
+      "pinyin": "qíguān",
+      "strokes_kangxi_each": [
+        4,
+        8
+      ],
+      "strokes_kangxi_total": 12,
+      "wuxing_each": [
+        "木",
+        "木"
+      ],
+      "notes": "孔子夫人亓官氏",
+      "common": true
+    },
+    {
+      "surname": "公冶",
+      "traditional": "公冶",
+      "pinyin": "gōngyě",
+      "strokes_kangxi_each": [
+        4,
+        7
+      ],
+      "strokes_kangxi_total": 11,
+      "wuxing_each": [
+        "木",
+        "火"
+      ],
+      "notes": "孔子弟子公冶长",
+      "common": true
+    },
+    {
+      "surname": "壤驷",
+      "traditional": "壤驷",
+      "pinyin": "rǎngsì",
+      "strokes_kangxi_each": [
+        20,
+        8
+      ],
+      "strokes_kangxi_total": 28,
+      "wuxing_each": [
+        "土",
+        "火"
+      ],
+      "notes": "孔子弟子壤驷赤",
+      "common": true
+    },
+    {
+      "surname": "公皙",
+      "traditional": "公皙",
+      "pinyin": "gōngxī",
+      "strokes_kangxi_each": [
+        4,
+        10
+      ],
+      "strokes_kangxi_total": 14,
+      "wuxing_each": [
+        "木",
+        "金"
+      ],
+      "notes": "孔子弟子公皙哀",
+      "common": true
+    },
+    {
+      "surname": "轩辕",
+      "traditional": "軒轅",
+      "pinyin": "xuānyuán",
+      "strokes_kangxi_each": [
+        10,
+        18
+      ],
+      "strokes_kangxi_total": 28,
+      "wuxing_each": [
+        "土",
+        "火"
+      ],
+      "notes": "黄帝之姓",
+      "common": true
+    },
+    {
+      "surname": "令狐",
+      "traditional": "令狐",
+      "pinyin": "lìnghú",
+      "strokes_kangxi_each": [
+        5,
+        8
+      ],
+      "strokes_kangxi_total": 13,
+      "wuxing_each": [
+        "火",
+        "土"
+      ],
+      "notes": "已见上",
+      "common": true
+    }
+  ]
+}

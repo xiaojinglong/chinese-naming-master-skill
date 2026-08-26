@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "name": "输出报告 Schema",
+    "version": "1.0",
+    "usage": "Skill 生成完整取名报告的 JSON 结构，展示层据此渲染 Markdown/HTML",
+    "related": "02-输出报告模板.md"
+  },
+  "report": {
+    "basic": {
+      "surname": "string",
+      "gender": "string",
+      "birth_date": "string|null",
+      "birth_time": "string|null",
+      "zodiac": "string|null",
+      "bazi_summary": "string|null（如：丙午年 丙申月 X日 X时）",
+      "xiyongshen": "array<string>|null",
+      "style": "string",
+      "mode": "full | reduced",
+      "mode_notice": "string（降级说明）"
+    },
+    "candidates": [
+      {
+        "full_name": "string",
+        "pinyin": "string",
+        "rank": "integer",
+        "score_total": "number",
+        "score_breakdown": {
+          "wuxing_match": "number",
+          "wuge_shuli": "number",
+          "yinyun_fluency": "number",
+          "yiyi_depth": "number",
+          "sancai_config": "number",
+          "zixing_beauty": "number",
+          "shengxiao_compat": "number"
+        },
+        "char_analysis": [
+          {
+            "char": "string",
+            "traditional": "string",
+            "pinyin": "string",
+            "strokes_simplified": "integer",
+            "strokes_kangxi": "integer",
+            "wuxing": "string",
+            "radical": "string",
+            "meaning": "string",
+            "classic_ref": "string|null（经典出处：书名·篇名+原句）",
+            "lucky": "string"
+          }
+        ],
+        "wuxing_comment": "string（整体补益评语）",
+        "wuge": {
+          "tian": {"strokes": "integer", "shuli": "integer", "grade": "string", "name": "string"},
+          "ren": {"strokes": "integer", "shuli": "integer", "grade": "string", "name": "string"},
+          "di": {"strokes": "integer", "shuli": "integer", "grade": "string", "name": "string"},
+          "wai": {"strokes": "integer", "shuli": "integer", "grade": "string", "name": "string"},
+          "zong": {"strokes": "integer", "shuli": "integer", "grade": "string", "name": "string"}
+        },
+        "sancai": {
+          "tian": "string（五行）",
+          "ren": "string（五行）",
+          "di": "string（五行）",
+          "relations": ["string"],
+          "grade": "string",
+          "comment": "string"
+        },
+        "yinyun_check": {
+          "tones": "string（如 仄平平）",
+          "tail_tone_ok": "boolean",
+          "homophone_risk": "array<string>|null",
+          "shengmu_ok": "boolean",
+          "yunmu_ok": "boolean",
+          "comment": "string"
+        },
+        "creative_positioning": "string（一句话整体寓意）",
+        "tags": ["string（风格标签，如：古风/大气）"]
+      }
+    ],
+    "appendix": {
+      "notes": ["口径说明（三才为生克推导版等）"],
+      "disclaimer": "姓名学为传统文化与民俗范畴，报告仅供参考"
+    }
+  }
+}

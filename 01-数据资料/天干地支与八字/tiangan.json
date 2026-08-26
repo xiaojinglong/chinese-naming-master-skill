@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "name": "十天干",
+    "version": "1.0",
+    "note": "用于年/月/日/时柱天干；天干五行是八字五行统计的一部分"
+  },
+  "tiangan": [
+    {
+      "gan": "甲",
+      "pinyin": "jiǎ",
+      "wuxing": "木",
+      "yin_yang": "阳",
+      "direction": "东方",
+      "zodiac_part": "头",
+      "notes": "栋梁之木"
+    },
+    {
+      "gan": "乙",
+      "pinyin": "yǐ",
+      "wuxing": "木",
+      "yin_yang": "阴",
+      "direction": "东方",
+      "zodiac_part": "颈",
+      "notes": "花草之木"
+    },
+    {
+      "gan": "丙",
+      "pinyin": "bǐng",
+      "wuxing": "火",
+      "yin_yang": "阳",
+      "direction": "南方",
+      "zodiac_part": "肩",
+      "notes": "太阳之火"
+    },
+    {
+      "gan": "丁",
+      "pinyin": "dīng",
+      "wuxing": "火",
+      "yin_yang": "阴",
+      "direction": "南方",
+      "zodiac_part": "胸",
+      "notes": "灯烛之火"
+    },
+    {
+      "gan": "戊",
+      "pinyin": "wù",
+      "wuxing": "土",
+      "yin_yang": "阳",
+      "direction": "中央",
+      "zodiac_part": "胁",
+      "notes": "城墙之土"
+    },
+    {
+      "gan": "己",
+      "pinyin": "jǐ",
+      "wuxing": "土",
+      "yin_yang": "阴",
+      "direction": "中央",
+      "zodiac_part": "腹",
+      "notes": "田园之土"
+    },
+    {
+      "gan": "庚",
+      "pinyin": "gēng",
+      "wuxing": "金",
+      "yin_yang": "阳",
+      "direction": "西方",
+      "zodiac_part": "脐",
+      "notes": "刀剑之金"
+    },
+    {
+      "gan": "辛",
+      "pinyin": "xīn",
+      "wuxing": "金",
+      "yin_yang": "阴",
+      "direction": "西方",
+      "zodiac_part": "股",
+      "notes": "首饰之金"
+    },
+    {
+      "gan": "壬",
+      "pinyin": "rén",
+      "wuxing": "水",
+      "yin_yang": "阳",
+      "direction": "北方",
+      "zodiac_part": "胫",
+      "notes": "江河之水"
+    },
+    {
+      "gan": "癸",
+      "pinyin": "guǐ",
+      "wuxing": "水",
+      "yin_yang": "阴",
+      "direction": "北方",
+      "zodiac_part": "足",
+      "notes": "雨露之水"
+    }
+  ]
+}

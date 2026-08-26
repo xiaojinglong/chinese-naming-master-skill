@@ -1,0 +1,121 @@
+{
+ "meta": {
+  "name": "名字相协式库",
+  "source": "吉常宏《古人名字解诂》22式+案例",
+  "version": "1.0"
+ },
+ "patterns": [
+  {
+   "id": 1,
+   "name": "同义相协",
+   "description": "名与字同义互训",
+   "example": "诸葛亮(亮/孔明)"
+  },
+  {
+   "id": 2,
+   "name": "对文反义相协",
+   "description": "名与字反义相对",
+   "example": "韩愈(愈/退之)"
+  },
+  {
+   "id": 3,
+   "name": "连类相协",
+   "description": "名与字同类连属",
+   "example": "关羽(羽/云长)"
+  },
+  {
+   "id": 4,
+   "name": "指物相协",
+   "description": "以物喻义"
+  },
+  {
+   "id": 5,
+   "name": "辨物相协",
+   "description": "辨别事物的名-字关联"
+  },
+  {
+   "id": 6,
+   "name": "干支五行相协",
+   "description": "以天干地支五行关联名与字"
+  },
+  {
+   "id": 7,
+   "name": "排行系字相协",
+   "description": "以伯仲叔季排行系字"
+  },
+  {
+   "id": 8,
+   "name": "因革相协",
+   "description": "名与字因袭变革"
+  },
+  {
+   "id": 9,
+   "name": "因果相协",
+   "description": "名为因，字为果",
+   "example": "杨过(过/改之)"
+  },
+  {
+   "id": 10,
+   "name": "反义相协",
+   "description": "名与字意义相反",
+   "example": "朱熹(熹明/元晦暗)"
+  },
+  {
+   "id": 11,
+   "name": "同义互训",
+   "description": "名与字互相训释",
+   "example": "屈原(平/原，广平曰原)"
+  },
+  {
+   "id": 12,
+   "name": "辨似相协",
+   "description": "字形相似取义"
+  }
+ ],
+ "pattern_count": 12,
+ "examples": [
+  {
+   "person": "人物",
+   "ming": "名",
+   "zi": "字",
+   "pattern": "相协方式"
+  },
+  {
+   "person": "屈原",
+   "ming": "平",
+   "zi": "原",
+   "pattern": "同义相协（\"广平曰原\"）"
+  },
+  {
+   "person": "韩愈",
+   "ming": "愈",
+   "zi": "退之",
+   "pattern": "反义相协（愈=胜进，退以制之）"
+  },
+  {
+   "person": "朱熹",
+   "ming": "熹",
+   "zi": "元晦",
+   "pattern": "反义相协（熹明/晦暗）"
+  },
+  {
+   "person": "关羽",
+   "ming": "羽",
+   "zi": "云长",
+   "pattern": "连类相协（羽翼连云而长）"
+  },
+  {
+   "person": "曾点",
+   "ming": "点",
+   "zi": "皙",
+   "pattern": "反义相协（点=小黑，皙=白）"
+  },
+  {
+   "person": "杨过（文学人物）",
+   "ming": "过",
+   "zi": "改之",
+   "pattern": "因果相协（有过改之）"
+  }
+ ],
+ "example_count": 7
+}

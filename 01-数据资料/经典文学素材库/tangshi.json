@@ -1,0 +1,322 @@
+{
+ "source": "唐诗",
+ "desc": "气象万千、意境开阔，多用于'大气/明快'风格",
+ "items": [
+  {
+   "word": "润物",
+   "origin": "杜甫《春夜喜雨》",
+   "quote": "随风潜入夜，润物细无声",
+   "meaning": "默默滋润万物，喻温和仁德",
+   "usage": "男女皆宜",
+   "pinyin": "rùn wù",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "云帆",
+   "origin": "李白《行路难》",
+   "quote": "长风破浪会有时，直挂云帆济沧海",
+   "meaning": "高挂云帆济沧海，喻志向远大",
+   "usage": "男名",
+   "pinyin": "yún fān",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "清泉",
+   "origin": "王维《山居秋暝》",
+   "quote": "明月松间照，清泉石上流",
+   "meaning": "清澈的泉水，喻澄澈高洁",
+   "usage": "男女皆宜",
+   "pinyin": "qīng quán",
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "长天",
+   "origin": "王勃《滕王阁序》",
+   "quote": "落霞与孤鹜齐飞，秋水共长天一色",
+   "meaning": "辽阔的天空，喻胸怀宽广",
+   "usage": "男名",
+   "pinyin": "cháng tiān",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "凌绝",
+   "origin": "杜甫《望岳》",
+   "quote": "会当凌绝顶，一览众山小",
+   "meaning": "登上顶峰，喻志存高远",
+   "usage": "男名",
+   "pinyin": "líng jué",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "德馨",
+   "origin": "刘禹锡《陋室铭》",
+   "quote": "斯是陋室，惟吾德馨",
+   "meaning": "品德芳馨远播",
+   "usage": "男女皆宜",
+   "pinyin": "dé xīn",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "枫林",
+   "origin": "杜牧《山行》",
+   "quote": "停车坐爱枫林晚，霜叶红于二月花",
+   "meaning": "秋日枫林，喻热烈绚烂",
+   "usage": "男女皆宜",
+   "pinyin": "fēng lín",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "望月",
+   "origin": "张九龄《望月怀远》",
+   "quote": "海上生明月，天涯共此时",
+   "meaning": "望月怀远，情意绵长",
+   "usage": "男女皆宜",
+   "pinyin": "wàng yuè",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "青莲",
+   "origin": "李白号青莲居士",
+   "quote": "清水出芙蓉，天然去雕饰（《经离乱后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》）",
+   "meaning": "清雅纯净、不事雕琢",
+   "usage": "女名",
+   "pinyin": "qīng lián",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "知节",
+   "origin": "王维《相思》",
+   "quote": "红豆生南国，春来发几枝。愿君多采撷，此物最相思",
+   "meaning": "（取'知'字）有节操、知进退",
+   "usage": "男名",
+   "pinyin": "zhī jié",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "千里",
+   "origin": "王之涣《登鹳雀楼》",
+   "quote": "欲穷千里目，更上一层楼",
+   "meaning": "视野开阔、志存高远",
+   "usage": "男名",
+   "pinyin": "qiān lǐ",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "清秋",
+   "origin": "李白《秋登宣城谢朓北楼》",
+   "quote": "人烟寒橘柚，秋色老梧桐",
+   "meaning": "明净爽朗的秋天",
+   "usage": "女名",
+   "pinyin": "qīng qiū",
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "朗月",
+   "origin": "李白《赠孟浩然》",
+   "quote": "高山安可仰，徒此揖清芬",
+   "meaning": "（取'朗'字意）明朗如月",
+   "usage": "男女皆宜",
+   "pinyin": "lǎng yuè",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "知微",
+   "origin": "杜甫《月夜忆舍弟》",
+   "quote": "露从今夜白，月是故乡明",
+   "meaning": "（取'知'字）见微知著",
+   "usage": "男名",
+   "pinyin": "zhī wēi",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "致远",
+   "origin": "诸葛亮《诫子书》（三国·蜀）",
+   "quote": "非淡泊无以明志，非宁静无以致远",
+   "meaning": "心境宁静方能实现远大目标",
+   "usage": "男名",
+   "pinyin": "zhì yuǎn",
+   "style_tags": [
+    "文雅",
+    "大气"
+   ]
+  },
+  {
+   "word": "海霞",
+   "origin": "李白《古风》",
+   "quote": "海客谈瀛洲，烟涛微茫信难求",
+   "meaning": "海上霞光，喻壮阔绚烂",
+   "usage": "女名",
+   "pinyin": "hǎi xiá",
+   "style_tags": [
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "长风",
+   "origin": "李白《行路难》",
+   "quote": "长风破浪会有时，直挂云帆济沧海",
+   "meaning": "远大风浪，喻志向远大、乘风破浪",
+   "usage": "男名",
+   "pinyin": "cháng fēng",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "初晴",
+   "origin": "王维《新晴野望》",
+   "quote": "新晴原野旷，极目无氛垢",
+   "meaning": "雨后初晴，喻清新明朗",
+   "usage": "女名",
+   "pinyin": "chū qíng",
+   "style_tags": [
+    "现代",
+    "文雅"
+   ]
+  },
+  {
+   "word": "凌云",
+   "origin": "杜甫《望岳》",
+   "quote": "会当凌绝顶，一览众山小",
+   "meaning": "直上云霄，喻志存高远",
+   "usage": "男名",
+   "pinyin": "líng yún",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "星汉",
+   "origin": "曹操《观沧海》（唐诗引用）",
+   "quote": "星汉灿烂，若出其里",
+   "meaning": "银河，喻浩瀚壮阔",
+   "usage": "男名",
+   "pinyin": "xīng hàn",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "春晖",
+   "origin": "孟郊《游子吟》",
+   "quote": "谁言寸草心，报得三春晖",
+   "meaning": "春日阳光，喻母爱恩泽",
+   "usage": "男女皆宜",
+   "pinyin": "chūn huī",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "飞星",
+   "origin": "杜牧《秋夕》",
+   "quote": "银烛秋光冷画屏，轻罗小扇扑流萤",
+   "meaning": "流星飞逝，喻灵动璀璨",
+   "usage": "女名",
+   "pinyin": "fēi xīng",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "一苇",
+   "origin": "刘禹锡《西塞山怀古》",
+   "quote": "一苇可航处，千帆日以来",
+   "meaning": "一叶扁舟，喻轻简从容、以小搏大",
+   "usage": "男女皆宜",
+   "pinyin": "yī wěi",
+   "style_tags": [
+    "大气"
+   ]
+  },
+  {
+   "word": "明轩",
+   "origin": "李白《明堂赋》",
+   "quote": "前瞻太微，却临明轩",
+   "meaning": "明亮的窗轩，喻光明磊落",
+   "usage": "男名",
+   "pinyin": "míng xuān",
+   "style_tags": [
+    "现代"
+   ]
+  },
+  {
+   "word": "锦书",
+   "origin": "李清照《一剪梅》（宋词引唐诗意境）",
+   "quote": "云中谁寄锦书来",
+   "meaning": "华美书信，喻情谊珍贵",
+   "usage": "女名",
+   "pinyin": "jǐn shū",
+   "style_tags": [
+    "通用"
+   ]
+  },
+  {
+   "word": "山月",
+   "origin": "王维《山居秋暝》",
+   "quote": "明月松间照，清泉石上流",
+   "meaning": "山间明月，喻高洁清远",
+   "usage": "男女皆宜",
+   "pinyin": "shān yuè",
+   "style_tags": [
+    "文雅",
+    "现代",
+    "大气"
+   ]
+  },
+  {
+   "word": "竹幽",
+   "origin": "王维《竹里馆》",
+   "quote": "独坐幽篁里，弹琴复长啸",
+   "meaning": "竹林幽深，喻清雅淡泊",
+   "usage": "男女皆宜",
+   "pinyin": "zhú yōu",
+   "style_tags": [
+    "文雅"
+   ]
+  },
+  {
+   "word": "天阔",
+   "origin": "杜甫《旅夜书怀》",
+   "quote": "星垂平野阔，月涌大江流",
+   "meaning": "天宇开阔，喻胸襟广阔",
+   "usage": "男名",
+   "pinyin": "tiān kuò",
+   "style_tags": [
+    "大气"
+   ]
+  }
+ ],
+ "count": 28
+}

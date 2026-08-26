@@ -31,3 +31,10 @@ desktop.ini
 
 # Large archive (optional: uncomment to exclude from git)
 # 05-开源项目参考/james88-qiming/
+
+# Generated HTML reports
+*.html
+!docs/*.html
+
+# External downloads (not in repo)
+_downloads/

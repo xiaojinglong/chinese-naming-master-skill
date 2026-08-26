@@ -9,8 +9,24 @@ description: >-
   for help naming a child, generating Chinese names, analyzing name fortune (姓名学),
   or creating names based on birth date/time. Supports single/double character names,
   sibling names, and renaming (改名).
-agent_created: true
+version: 1.0.0
+author: chinese-naming-master
+license: MIT
 ---
+
+## ⚠️ 强制规则（必须遵守）
+
+1. **最少候选名数量**：每次取名必须生成至少 **10个** 候选名（top_n >= 10）
+2. **HTML报告输出**：每次取名必须生成精致的 **HTML报告**，包含：
+   - 八字排盘完整分析
+   - 每个名字的详细解读：整体评分、评分理由、字义含义、经典出处、人生寓意、周易关联
+   - 评分维度可视化（雷达图/条形图）
+   - 精致美观的视觉设计
+3. **报告生成代码**：使用 `report_generator.py` 生成报告
+   ```python
+   from report_generator import generate_html_report
+   output_path = generate_html_report(result)
+   ```
 
 # Chinese Naming Master (中华取名大师)
 

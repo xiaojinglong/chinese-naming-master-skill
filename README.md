@@ -28,13 +28,11 @@
 ### 安装
 
 ```bash
-# 克隆仓库
-git clone https://github.com/yourname/chinese-naming-master.git
+# 克隆仓库（请替换为实际仓库地址）
+git clone https://github.com/YOUR_USERNAME/chinese-naming-master.git
 cd chinese-naming-master
 
 # 无需安装额外依赖（仅依赖 Python 标准库）
-# 如需运行示例脚本：
-pip install -r requirements.txt  # 可选，仅 examples/ 需要
 ```
 
 ### 30 秒取名

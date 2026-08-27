@@ -183,15 +183,15 @@ import json
 with open('02-规则与算法资料/06-评分权重配置.json', encoding='utf-8') as f:
     config = json.load(f)
 
-# 添加自定义预设
+# 添加自定义预设（注：V3.1 起 score_name 实际使用代码内六维权重，
+# 此处仅作可读参考。要真正改变权重需修改 scoring_engine.score_name 内的 weights 字典）
 config['presets']['我的风格'] = {
-    'wuxing_match': 20,
     'wuge_shuli': 20,
-    'yinyun_fluency': 20,
-    'yiyi_depth': 20,
-    'sancai_config': 10,
-    'zixing_beauty': 5,
-    'shengxiao_compat': 5
+    'yinyun': 20,
+    'yiyi': 20,
+    'zixing': 10,
+    'modern_sense': 20,
+    'wuxing_buyi': 10
 }
 
 with open('02-规则与算法资料/06-评分权重配置.json', 'w', encoding='utf-8') as f:

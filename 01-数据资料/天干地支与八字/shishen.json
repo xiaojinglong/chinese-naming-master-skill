@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "name": "十神关系表",
+    "version": "1.0",
+    "description": "八字十神体系：日主与其他天干的关系映射。用于取名时根据喜用十神选择对应五行属性的字。",
+    "usage": "shishen[day_master][other_gan] → {shishen, wuxing_relation, yinyang_same, naming_hint}",
+    "references": ["《子平真诠》十神正名", "《渊海子平》论十神", "《滴天髓阐微》十神性情"]
+  },
+  "shishen_definition": {
+    "比肩": {
+      "meaning": "与日主同五行同阴阳",
+      "alias": [],
+      "wuxing_relation": "同我",
+      "naming_use": "身弱时喜比肩帮扶，取名可用同五行字",
+      "personality": "独立、自主、竞争意识强"
+    },
+    "劫财": {
+      "meaning": "与日主同五行异阴阳",
+      "alias": ["败财"],
+      "wuxing_relation": "同我",
+      "naming_use": "身弱时喜劫财帮身，但劫财有争夺之象，取名慎用",
+      "personality": "果断、冲动、善于交际"
+    },
+    "食神": {
+      "meaning": "日主所生，同阴阳",
+      "alias": [],
+      "wuxing_relation": "我生",
+      "naming_use": "身强时喜食神泄秀，取名可用我生五行字，主才华表达",
+      "personality": "温和、聪慧、有口福、善表达"
+    },
+    "伤官": {
+      "meaning": "日主所生，异阴阳",
+      "alias": [],
+      "wuxing_relation": "我生",
+      "naming_use": "身强时喜伤官泄秀，主才华横溢但有叛逆性，取名需配合正官或印星制化",
+      "personality": "聪明、叛逆、有创造力、口才好"
+    },
+    "偏财": {
+      "meaning": "日主所克，同阴阳",
+      "alias": [],
+      "wuxing_relation": "我克",
+      "naming_use": "身强时喜偏财，主意外之财、人缘好，取名可用我克五行字",
+      "personality": "慷慨、大方、善于经营、人缘佳"
+    },
+    "正财": {
+      "meaning": "日主所克，异阴阳",
+      "alias": [],
+      "wuxing_relation": "我克",
+      "naming_use": "身强时喜正财，主正当收入、稳定财富，取名可用我克五行字",
+      "personality": "勤俭、务实、重信用、守规矩"
+    },
+    "七杀": {
+      "meaning": "克日主，同阴阳",
+      "alias": ["偏官"],
+      "wuxing_relation": "克我",
+      "naming_use": "身强时喜七杀有制（食神制杀），主权威果断；身弱忌七杀，取名避用克我五行",
+      "personality": "果断、有魄力、有领导力、压力感"
+    },
+    "正官": {
+      "meaning": "克日主，异阴阳",
+      "alias": [],
+      "wuxing_relation": "克我",
+      "naming_use": "身强时喜正官，主正统地位、名声、约束力，取名可用克我五行字",
+      "personality": "正直、守规矩、有责任感、重名声"
+    },
+    "偏印": {
+      "meaning": "生日主，同阴阳",
+      "alias": ["枭神", "枭印"],
+      "wuxing_relation": "生我",
+      "naming_use": "身弱时喜偏印生扶，但偏印有夺食之忧（枭神夺食），取名需配合财星制之",
+      "personality": "好学、多才多艺、思维独特、孤僻"
+    },
+    "正印": {
+      "meaning": "生日主，异阴阳",
+      "alias": ["印绶"],
+      "wuxing_relation": "生我",
+      "naming_use": "身弱时最喜正印生扶，主学问、贵人、保护，取名可用生我五行字",
+      "personality": "仁慈、好学、有涵养、得长辈庇荫"
+    }
+  },
+  "shishen": {
+    "甲": {
+      "甲": {"shishen": "比肩", "wuxing": "木", "yinyang_same": true},
+      "乙": {"shishen": "劫财", "wuxing": "木", "yinyang_same": false},
+      "丙": {"shishen": "食神", "wuxing": "火", "yinyang_same": true},
+      "丁": {"shishen": "伤官", "wuxing": "火", "yinyang_same": false},
+      "戊": {"shishen": "偏财", "wuxing": "土", "yinyang_same": true},
+      "己": {"shishen": "正财", "wuxing": "土", "yinyang_same": false},
+      "庚": {"shishen": "七杀", "wuxing": "金", "yinyang_same": true},
+      "辛": {"shishen": "正官", "wuxing": "金", "yinyang_same": false},
+      "壬": {"shishen": "偏印", "wuxing": "水", "yinyang_same": true},
+      "癸": {"shishen": "正印", "wuxing": "水", "yinyang_same": false}
+    },
+    "乙": {
+      "甲": {"shishen": "劫财", "wuxing": "木", "yinyang_same": false},
+      "乙": {"shishen": "比肩", "wuxing": "木", "yinyang_same": true},
+      "丙": {"shishen": "伤官", "wuxing": "火", "yinyang_same": false},
+      "丁": {"shishen": "食神", "wuxing": "火", "yinyang_same": true},
+      "戊": {"shishen": "正财", "wuxing": "土", "yinyang_same": false},
+      "己": {"shishen": "偏财", "wuxing": "土", "yinyang_same": true},
+      "庚": {"shishen": "正官", "wuxing": "金", "yinyang_same": false},
+      "辛": {"shishen": "七杀", "wuxing": "金", "yinyang_same": true},
+      "壬": {"shishen": "正印", "wuxing": "水", "yinyang_same": false},
+      "癸": {"shishen": "偏印", "wuxing": "水", "yinyang_same": true}
+    },
+    "丙": {
+      "甲": {"shishen": "偏印", "wuxing": "木", "yinyang_same": true},
+      "乙": {"shishen": "正印", "wuxing": "木", "yinyang_same": false},
+      "丙": {"shishen": "比肩", "wuxing": "火", "yinyang_same": true},
+      "丁": {"shishen": "劫财", "wuxing": "火", "yinyang_same": false},
+      "戊": {"shishen": "食神", "wuxing": "土", "yinyang_same": true},
+      "己": {"shishen": "伤官", "wuxing": "土", "yinyang_same": false},
+      "庚": {"shishen": "偏财", "wuxing": "金", "yinyang_same": true},
+      "辛": {"shishen": "正财", "wuxing": "金", "yinyang_same": false},
+      "壬": {"shishen": "七杀", "wuxing": "水", "yinyang_same": true},
+      "癸": {"shishen": "正官", "wuxing": "水", "yinyang_same": false}
+    },
+    "丁": {
+      "甲": {"shishen": "正印", "wuxing": "木", "yinyang_same": false},
+      "乙": {"shishen": "偏印", "wuxing": "木", "yinyang_same": true},
+      "丙": {"shishen": "劫财", "wuxing": "火", "yinyang_same": false},
+      "丁": {"shishen": "比肩", "wuxing": "火", "yinyang_same": true},
+      "戊": {"shishen": "伤官", "wuxing": "土", "yinyang_same": false},
+      "己": {"shishen": "食神", "wuxing": "土", "yinyang_same": true},
+      "庚": {"shishen": "正财", "wuxing": "金", "yinyang_same": false},
+      "辛": {"shishen": "偏财", "wuxing": "金", "yinyang_same": true},
+      "壬": {"shishen": "正官", "wuxing": "水", "yinyang_same": false},
+      "癸": {"shishen": "七杀", "wuxing": "水", "yinyang_same": true}
+    },
+    "戊": {
+      "甲": {"shishen": "七杀", "wuxing": "木", "yinyang_same": true},
+      "乙": {"shishen": "正官", "wuxing": "木", "yinyang_same": false},
+      "丙": {"shishen": "偏印", "wuxing": "火", "yinyang_same": true},
+      "丁": {"shishen": "正印", "wuxing": "火", "yinyang_same": false},
+      "戊": {"shishen": "比肩", "wuxing": "土", "yinyang_same": true},
+      "己": {"shishen": "劫财", "wuxing": "土", "yinyang_same": false},
+      "庚": {"shishen": "食神", "wuxing": "金", "yinyang_same": true},
+      "辛": {"shishen": "伤官", "wuxing": "金", "yinyang_same": false},
+      "壬": {"shishen": "偏财", "wuxing": "水", "yinyang_same": true},
+      "癸": {"shishen": "正财", "wuxing": "水", "yinyang_same": false}
+    },
+    "己": {
+      "甲": {"shishen": "正官", "wuxing": "木", "yinyang_same": false},
+      "乙": {"shishen": "七杀", "wuxing": "木", "yinyang_same": true},
+      "丙": {"shishen": "正印", "wuxing": "火", "yinyang_same": false},
+      "丁": {"shishen": "偏印", "wuxing": "火", "yinyang_same": true},
+      "戊": {"shishen": "劫财", "wuxing": "土", "yinyang_same": false},
+      "己": {"shishen": "比肩", "wuxing": "土", "yinyang_same": true},
+      "庚": {"shishen": "伤官", "wuxing": "金", "yinyang_same": false},
+      "辛": {"shishen": "食神", "wuxing": "金", "yinyang_same": true},
+      "壬": {"shishen": "正财", "wuxing": "水", "yinyang_same": false},
+      "癸": {"shishen": "偏财", "wuxing": "水", "yinyang_same": true}
+    },
+    "庚": {
+      "甲": {"shishen": "偏财", "wuxing": "木", "yinyang_same": true},
+      "乙": {"shishen": "正财", "wuxing": "木", "yinyang_same": false},
+      "丙": {"shishen": "七杀", "wuxing": "火", "yinyang_same": true},
+      "丁": {"shishen": "正官", "wuxing": "火", "yinyang_same": false},
+      "戊": {"shishen": "偏印", "wuxing": "土", "yinyang_same": true},
+      "己": {"shishen": "正印", "wuxing": "土", "yinyang_same": false},
+      "庚": {"shishen": "比肩", "wuxing": "金", "yinyang_same": true},
+      "辛": {"shishen": "劫财", "wuxing": "金", "yinyang_same": false},
+      "壬": {"shishen": "食神", "wuxing": "水", "yinyang_same": true},
+      "癸": {"shishen": "伤官", "wuxing": "水", "yinyang_same": false}
+    },
+    "辛": {
+      "甲": {"shishen": "正财", "wuxing": "木", "yinyang_same": false},
+      "乙": {"shishen": "偏财", "wuxing": "木", "yinyang_same": true},
+      "丙": {"shishen": "正官", "wuxing": "火", "yinyang_same": false},
+      "丁": {"shishen": "七杀", "wuxing": "火", "yinyang_same": true},
+      "戊": {"shishen": "正印", "wuxing": "土", "yinyang_same": false},
+      "己": {"shishen": "偏印", "wuxing": "土", "yinyang_same": true},
+      "庚": {"shishen": "劫财", "wuxing": "金", "yinyang_same": false},
+      "辛": {"shishen": "比肩", "wuxing": "金", "yinyang_same": true},
+      "壬": {"shishen": "伤官", "wuxing": "水", "yinyang_same": false},
+      "癸": {"shishen": "食神", "wuxing": "水", "yinyang_same": true}
+    },
+    "壬": {
+      "甲": {"shishen": "食神", "wuxing": "木", "yinyang_same": true},
+      "乙": {"shishen": "伤官", "wuxing": "木", "yinyang_same": false},
+      "丙": {"shishen": "偏财", "wuxing": "火", "yinyang_same": true},
+      "丁": {"shishen": "正财", "wuxing": "火", "yinyang_same": false},
+      "戊": {"shishen": "七杀", "wuxing": "土", "yinyang_same": true},
+      "己": {"shishen": "正官", "wuxing": "土", "yinyang_same": false},
+      "庚": {"shishen": "偏印", "wuxing": "金", "yinyang_same": true},
+      "辛": {"shishen": "正印", "wuxing": "金", "yinyang_same": false},
+      "壬": {"shishen": "比肩", "wuxing": "水", "yinyang_same": true},
+      "癸": {"shishen": "劫财", "wuxing": "水", "yinyang_same": false}
+    },
+    "癸": {
+      "甲": {"shishen": "伤官", "wuxing": "木", "yinyang_same": false},
+      "乙": {"shishen": "食神", "wuxing": "木", "yinyang_same": true},
+      "丙": {"shishen": "正财", "wuxing": "火", "yinyang_same": false},
+      "丁": {"shishen": "偏财", "wuxing": "火", "yinyang_same": true},
+      "戊": {"shishen": "正官", "wuxing": "土", "yinyang_same": false},
+      "己": {"shishen": "七杀", "wuxing": "土", "yinyang_same": true},
+      "庚": {"shishen": "正印", "wuxing": "金", "yinyang_same": false},
+      "辛": {"shishen": "偏印", "wuxing": "金", "yinyang_same": true},
+      "壬": {"shishen": "劫财", "wuxing": "水", "yinyang_same": false},
+      "癸": {"shishen": "比肩", "wuxing": "水", "yinyang_same": true}
+    }
+  },
+  "naming_xiyongshen_mapping": {
+    "description": "喜用神五行 → 推荐十神类型 → 取名用字五行方向",
+    "mappings": [
+      {
+        "xiyongshen_wuxing": "木",
+        "favorable_shishen": ["正印", "偏印"],
+        "naming_direction": "取名用字五行宜属木（生我者），主学问、贵人、保护",
+        "when": "日主身弱且喜木"
+      },
+      {
+        "xiyongshen_wuxing": "木",
+        "favorable_shishen": ["正官", "七杀"],
+        "naming_direction": "取名用字五行宜属木（克我者），主权威、地位、名声",
+        "when": "日主身强且喜木为官杀"
+      },
+      {
+        "xiyongshen_wuxing": "火",
+        "favorable_shishen": ["食神", "伤官"],
+        "naming_direction": "取名用字五行宜属火（我生者），主才华、表达、创造力",
+        "when": "日主身强且喜火泄秀"
+      },
+      {
+        "xiyongshen_wuxing": "火",
+        "favorable_shishen": ["正印", "偏印"],
+        "naming_direction": "取名用字五行宜属火（生我者），主学问、贵人",
+        "when": "日主身弱且喜火"
+      },
+      {
+        "xiyongshen_wuxing": "土",
+        "favorable_shishen": ["正财", "偏财"],
+        "naming_direction": "取名用字五行宜属土（我克者），主财富、务实、信用",
+        "when": "日主身强且喜土为财"
+      },
+      {
+        "xiyongshen_wuxing": "土",
+        "favorable_shishen": ["正印", "偏印"],
+        "naming_direction": "取名用字五行宜属土（生我者），主学问、贵人",
+        "when": "日主身弱且喜土"
+      },
+      {
+        "xiyongshen_wuxing": "金",
+        "favorable_shishen": ["正官", "七杀"],
+        "naming_direction": "取名用字五行宜属金（克我者），主权威、地位、名声",
+        "when": "日主身强且喜金为官杀"
+      },
+      {
+        "xiyongshen_wuxing": "金",
+        "favorable_shishen": ["正印", "偏印"],
+        "naming_direction": "取名用字五行宜属金（生我者），主学问、贵人",
+        "when": "日主身弱且喜金"
+      },
+      {
+        "xiyongshen_wuxing": "水",
+        "favorable_shishen": ["食神", "伤官"],
+        "naming_direction": "取名用字五行宜属水（我生者），主才华、表达、创造力",
+        "when": "日主身强且喜水泄秀"
+      },
+      {
+        "xiyongshen_wuxing": "水",
+        "favorable_shishen": ["正印", "偏印"],
+        "naming_direction": "取名用字五行宜属水（生我者），主学问、贵人",
+        "when": "日主身弱且喜水"
+      }
+    ]
+  }
+}

@@ -9,7 +9,7 @@ description: >-
   for help naming a child, generating Chinese names, analyzing name fortune (姓名学),
   or creating names based on birth date/time. Supports single/double character names,
   sibling names, and renaming (改名).
-version: 1.0.0
+version: 3.2.0
 author: chinese-naming-master
 license: MIT
 ---
@@ -76,8 +76,9 @@ for c in result['candidates']:
 | Module | File | Function |
 |--------|------|----------|
 | BaZi Engine | `_tools/bazi_engine.py` | Solar date → 4 pillars + WuXing + 喜用神 |
-| Scoring Engine | `_tools/scoring_engine.py` | 7-dimension weighted scoring |
+| Scoring Engine | `_tools/scoring_engine.py` | V3.1 6-dimension weighted scoring + 乘法扣分 |
 | Name Generator | `_tools/name_generator.py` | Full pipeline: input → output |
+| Theme Narrator | `_tools/theme_narrator.py` | V3.2 seasonal grouping + per-name narrative |
 
 ### Data Resources
 
@@ -127,16 +128,22 @@ for c in result['candidates']:
 7. Find literary references in `经典文学素材库/*.json`
 8. Output analysis report per `02-输出报告模板.md`
 
-### Weight Presets
+### Weight Presets (V3.1)
 
-The scoring engine supports 4 presets (see `02-规则与算法资料/06-评分权重配置.json`):
+The scoring engine uses a **6-dimension weighted** scoring system. Default weights (other dims ×0.82 + wuxing 0.18, dynamic: 平声姓→音韵 priority, 仄声姓→寓意 priority):
 
-| Preset | Focus |
-|--------|-------|
-| `default` | Balanced (五行25% 五格15% 音韵15% 寓意15% 三才10% 字形10% 生肖10%) |
-| `八字优先` | BaZi-weighted (五行35%) |
-| `文雅古风` | Literature-weighted (寓意30% 音韵20%) |
-| `现代好听` | Modern phonetics (音韵35% 字形20%) |
+| Dimension | Default Weight | Notes |
+|-----------|----------------|-------|
+| 五格数理 (wuge_shuli) | 14.76% | 三才 + 核心格凶硬上限 |
+| 音韵流畅 (yinyun) | 20.5% (平声姓 22.96%) | 声调平仄+谐音+声母韵母+粘连度 |
+| 寓意深度 (yiyi) | 18.04% (仄声姓 20.5%) | 经典出处+字义美好度 |
+| 字形美观 (zixing) | 8.2% | 笔画搭配+结构协调 |
+| 现代语感 (modern_sense) | 20.5% | 成词性+时代感+用字审美 |
+| **五行补益 (wuxing_buyi)** | **18%** | **V3.1 复活：喜用神 +25/字，忌神 -15** |
+
+Multiplicative penalties (V3.1 full table): 谐音黑名单 ×0.1 / 核心三格凶数 ×0.5 / 外格凶数 ×0.85 / 核心半凶 ×0.9 / 俗气名 ×0.3 / 老气组合 ×0.5.
+
+> 注：`06-评分权重配置.json` 内仍保留旧 7 维预设表（`default`/`八字优先`/`文雅古风`/`现代好听`）作为可读参考，但 `score_name` 自 V3.1 起以代码内六维权重为准，preset 参数目前不改变实际权重。
 
 ### Tone Screening Rules
 

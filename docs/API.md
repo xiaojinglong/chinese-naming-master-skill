@@ -105,16 +105,16 @@ print(bazi.zodiac)       # "龙"
     'surname': '李',
     'full_name': '李明轩',
     'scores': {
-        'wuxing_match': 50,       # 五行补益匹配度 (0-100)
         'wuge_shuli': 85,         # 五格数理吉凶 (0-100)
-        'yinyun_fluency': 60,     # 音韵流畅度 (0-100)
-        'yiyi_depth': 80,         # 寓意深度 (0-100)
-        'sancai_config': 70,      # 三才配置吉凶 (0-100)
-        'zixing_beauty': 60,      # 字形美观度 (0-100)
-        'shengxiao_compat': 65,   # 生肖契合度 (0-100)
+        'yinyun': 60,             # 音韵流畅度 (0-100)
+        'yiyi': 80,               # 寓意深度 (0-100)
+        'zixing': 60,             # 字形美观度 (0-100)
+        'modern_sense': 65,       # 现代语感 (0-100)
+        'wuxing_buyi': 70,        # 五行补益 (0-100) V3.1
     },
-    'weights': {...},             # 使用的权重配置
-    'total_score': 65.8,          # 加权总分
+    'weights': {...},             # 六维权重（动态：平/仄声姓微调）
+    'penalty': 1.0,               # 乘法系数（1.0 无扣分，0.1 谐音淘汰）
+    'total_score': 65.8,          # 加权总分 × penalty
     'grade': 'C（合格）',          # 等级 (S/A/B/C/D/F)
 }
 ```
@@ -253,26 +253,20 @@ print(bazi.zodiac)       # "龙"
 }
 ```
 
-### 评分权重 (`06-评分权重配置.json`)
+### 评分权重 (V3.1，以 `scoring_engine.py` 代码内为准)
+
+> 注：`06-评分权重配置.json` 仍保留旧 7 维预设表作为可读参考，但 V3.1 起 `score_name` 实际使用以下六维权重，`weight_preset` 参数暂不改变实际权重。
 
 ```python
-{
-    "default": {
-        "wuxing_match": 25,
-        "wuge_shuli": 15,
-        "yinyun_fluency": 15,
-        "yiyi_depth": 15,
-        "sancai_config": 10,
-        "zixing_beauty": 10,
-        "shengxiao_compat": 10
-    },
-    "presets": {
-        "八字优先": {...},
-        "文雅古风": {...},
-        "现代好听": {...},
-        "传统稳健": {...}
-    },
-    "hard_filters": [...],
-    "soft_filters": [...]
+# 默认权重（wuxing 固定 0.18，其余维度 ×0.82 后动态微调）
+weights = {
+    'wuge': 0.18 * 0.82,      # ≈14.76%
+    'yinyun': 0.25 * 0.82,    # ≈20.5%（平声姓 0.28×0.82）
+    'yiyi': 0.22 * 0.82,      # ≈18.04%（仄声姓 0.25×0.82）
+    'zixing': 0.10 * 0.82,    # ≈8.2%
+    'modern': 0.25 * 0.82,    # ≈20.5%
+    'wuxing': 0.18,           # 五行补益（V3.1 复活）
 }
+# 乘法系数：谐音×0.1 / 核心格凶×0.5 / 外格凶×0.85 / 半凶×0.9 / 俗气×0.3 / 老气×0.5
+```
 ```

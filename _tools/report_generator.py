@@ -142,6 +142,14 @@ def generate_html_report(result, output_path=None):
     hanzi_map = load_hanzi_db()
     literature_refs = load_literature_refs()
 
+    # V3.2 加载主题叙事模块
+    try:
+        import theme_narrator
+        imagery_map = theme_narrator.load_imagery_map()
+    except Exception:
+        theme_narrator = None
+        imagery_map = {}
+
     # 准备数据
     input_info = result.get('input', {})
     bazi_info = result.get('bazi', {})
@@ -149,6 +157,16 @@ def generate_html_report(result, output_path=None):
     xiyongshen = result.get('xiyongshen', '')
     jiyongshen = result.get('jiyongshen', '')
     zodiac = result.get('zodiac', '')
+
+    # V3.2 季节语境（从出生月份推断）
+    birth_month = None
+    birth_str = input_info.get('birth') or ''
+    if len(birth_str) >= 7:
+        try:
+            birth_month = int(birth_str[5:7])
+        except (ValueError, IndexError):
+            birth_month = None
+    season_ctx = theme_narrator.season_context(birth_month) if theme_narrator else None
 
     # 生成时间
     gen_time = datetime.now().strftime('%Y年%m月%d日 %H:%M')
@@ -183,23 +201,31 @@ def generate_html_report(result, output_path=None):
                     'idiom': lit.get('idiom', '')
                 })
 
-        # 评分理由
+        # 评分理由（V3.1 键名）
         scores = cand.get('scores', {})
         score_reasons = []
-        if scores.get('wuxing_match', 0) >= 80:
-            score_reasons.append(f"五行补益得力（{scores['wuxing_match']}分），与喜用神高度契合")
+        if scores.get('wuxing_buyi', 0) >= 70:
+            score_reasons.append(f"五行补益得力（{scores['wuxing_buyi']}分），与喜用神高度契合")
         if scores.get('wuge_shuli', 0) >= 80:
             score_reasons.append(f"五格数理吉祥（{scores['wuge_shuli']}分），数理配置良好")
-        if scores.get('yinyun_fluency', 0) >= 70:
-            score_reasons.append(f"音韵流畅优美（{scores['yinyun_fluency']}分），声调搭配和谐")
-        if scores.get('yiyi_depth', 0) >= 80:
-            score_reasons.append(f"寓意深刻隽永（{scores['yiyi_depth']}分），文化底蕴丰富")
-        if scores.get('sancai_config', 0) >= 80:
-            score_reasons.append(f"三才配置吉祥（{scores['sancai_config']}分），天地人和谐")
-        if scores.get('zixing_beauty', 0) >= 70:
-            score_reasons.append(f"字形美观大方（{scores['zixing_beauty']}分），结构协调匀称")
-        if scores.get('shengxiao_compat', 0) >= 70:
-            score_reasons.append(f"生肖契合度高（{scores['shengxiao_compat']}分），与{zodiac}年相宜")
+        if scores.get('yinyun', 0) >= 70:
+            score_reasons.append(f"音韵流畅优美（{scores['yinyun']}分），声调搭配和谐")
+        if scores.get('yiyi', 0) >= 80:
+            score_reasons.append(f"寓意深刻隽永（{scores['yiyi']}分），文化底蕴丰富")
+        if scores.get('zixing', 0) >= 70:
+            score_reasons.append(f"字形美观大方（{scores['zixing']}分），结构协调匀称")
+        if scores.get('modern_sense', 0) >= 70:
+            score_reasons.append(f"现代语感清新（{scores['modern_sense']}分），好听不落俗套")
+
+        # V3.2 主题叙事
+        narrative = ''
+        theme_group = None
+        if theme_narrator:
+            narrative = theme_narrator.narrate(
+                name, chars_info, scores,
+                xiyongshen=xiyongshen, jiyongshen=jiyongshen,
+                season_ctx=season_ctx, imagery_map=imagery_map, zodiac=zodiac)
+            theme_group = theme_narrator.classify_name(name, hanzi_map, imagery_map)['key']
 
         detailed_candidates.append({
             'rank': i,
@@ -214,6 +240,8 @@ def generate_html_report(result, output_path=None):
             'life_meaning': life_meaning,
             'literature_sources': literature_sources,
             'score_reasons': score_reasons,
+            'narrative': narrative,
+            'theme_group': theme_group,
         })
 
     # 生成HTML
@@ -224,7 +252,9 @@ def generate_html_report(result, output_path=None):
         xiyongshen=xiyongshen,
         jiyongshen=jiyongshen,
         zodiac=zodiac,
-        gen_time=gen_time
+        gen_time=gen_time,
+        theme_narrator=theme_narrator,
+        season_ctx=season_ctx,
     )
 
     # 保存文件
@@ -237,12 +267,19 @@ def generate_html_report(result, output_path=None):
     return output_path
 
 
-def _build_html_template(input_info, bazi_info, candidates, xiyongshen, jiyongshen, zodiac, gen_time):
+def _build_html_template(input_info, bazi_info, candidates, xiyongshen, jiyongshen, zodiac, gen_time,
+                         theme_narrator=None, season_ctx=None):
     """构建HTML模板"""
 
-    # 评分维度雷达图数据
-    score_labels = ['五行补益', '五格数理', '音韵流畅', '寓意深度', '三才配置', '字形美观', '生肖契合']
-    score_keys = ['wuxing_match', 'wuge_shuli', 'yinyun_fluency', 'yiyi_depth', 'sancai_config', 'zixing_beauty', 'shengxiao_compat']
+    # 评分维度条形图数据（V3.1 六维，与实际评分键对齐）
+    score_labels = ['五格数理', '音韵流畅', '寓意深度', '字形美观', '现代语感', '五行补益']
+    score_keys = ['wuge_shuli', 'yinyun', 'yiyi', 'zixing', 'modern_sense', 'wuxing_buyi']
+
+    # V3.2 主题分组索引：key -> 分组 dict
+    theme_groups_map = {}
+    if theme_narrator:
+        for g in theme_narrator.THEME_GROUPS:
+            theme_groups_map[g['key']] = g
 
     # 生成候选名卡片HTML
     cards_html = ""
@@ -316,11 +353,27 @@ def _build_html_template(input_info, bazi_info, candidates, xiyongshen, jiyongsh
         grade = cand['grade']
         grade_color = '#4CAF50' if 'S' in grade or 'A' in grade else '#FF9800' if 'B' in grade else '#9E9E9E'
 
+        # V3.2 主题标签
+        theme_badge = ''
+        tg_key = cand.get('theme_group')
+        if tg_key and tg_key in theme_groups_map:
+            tg = theme_groups_map[tg_key]
+            theme_badge = f'<div style="display:inline-block;background:#FFF3E0;color:#E65100;font-size:12px;padding:3px 10px;border-radius:12px;margin-top:6px;">{tg["title"]}</div>'
+
+        # V3.2 名字故事
+        narrative_html = ''
+        if cand.get('narrative'):
+            narrative_html = f'''
+                <div class="section">
+                    <h3 class="section-title">💬 名字故事</h3>
+                    <div class="life-meaning" style="background:linear-gradient(135deg,#FFF8E1,#FFF3E0);border-radius:10px;padding:14px 16px;line-height:1.9;">{cand['narrative']}</div>
+                </div>'''
+
         cards_html += f'''
         <div class="name-card" id="name-{cand['rank']}">
             <div class="card-header">
                 <div class="rank-badge">#{cand['rank']}</div>
-                <div class="name-title">{cand['full_name']}</div>
+                <div class="name-title">{cand['full_name']}{theme_badge}</div>
                 <div class="score-circle" style="border-color:{grade_color}">
                     <div class="score-number">{cand['total_score']}</div>
                     <div class="score-grade">{grade}</div>
@@ -328,6 +381,7 @@ def _build_html_template(input_info, bazi_info, candidates, xiyongshen, jiyongsh
             </div>
 
             <div class="card-body">
+                {narrative_html}
                 <div class="section">
                     <h3 class="section-title">📝 字义解读</h3>
                     <div class="chars-container">{chars_html}</div>
@@ -420,6 +474,41 @@ def _build_html_template(input_info, bazi_info, candidates, xiyongshen, jiyongsh
                 <h3>五行分布</h3>
                 {wuxing_bars}
             </div>
+        </div>'''
+
+    # V3.2 时节主题分组章节
+    themed_section = ""
+    if theme_narrator and season_ctx:
+        groups_html = ""
+        grouped = {}  # key -> [cand]
+        for cand in candidates:
+            k = cand.get('theme_group')
+            if k:
+                grouped.setdefault(k, []).append(cand)
+        for g in theme_narrator.THEME_GROUPS:
+            members = grouped.get(g['key'], [])
+            if not members:
+                continue
+            chips = ''.join(
+                f'<a href="#name-{m["rank"]}" style="display:inline-block;background:#fff;border:1px solid #FFB74D;color:#E65100;'
+                f'border-radius:16px;padding:5px 14px;margin:4px;text-decoration:none;font-size:14px;">'
+                f'{m["full_name"]} <span style="color:#999;font-size:12px;">{m["total_score"]}</span></a>'
+                for m in members)
+            groups_html += f'''
+            <div style="background:#fff;border-radius:14px;padding:18px 22px;margin-bottom:14px;border-left:4px solid #FFB74D;">
+                <div style="font-size:17px;font-weight:600;color:#4E342E;margin-bottom:4px;">{g['title']}</div>
+                <div style="color:#888;font-size:13px;margin-bottom:10px;">{g['intro']}</div>
+                <div>{chips}</div>
+            </div>'''
+        if groups_html:
+            themed_section = f'''
+        <div class="section bazi-section">
+            <h2 class="section-title">🍂 {season_ctx['name']}时节 · 主题分组</h2>
+            <p style="color:#795548;margin-bottom:18px;line-height:1.8;">
+                宝宝生于{season_ctx['name']}——{season_ctx['hook']}。以下按意象主题把候选名分为数篇，
+                同一主题下的名字共享相近的时节意境，可点击名字跳转查看详细解读。
+            </p>
+            {groups_html}
         </div>'''
 
     # 输入信息
@@ -886,6 +975,8 @@ def _build_html_template(input_info, bazi_info, candidates, xiyongshen, jiyongsh
         </div>
 
         {bazi_section}
+
+        {themed_section}
 
         <div class="section" style="background:rgba(255,255,255,0.95);border-radius:20px;padding:30px;margin-bottom:30px;box-shadow:0 10px 40px rgba(0,0,0,0.08);">
             <h2 class="section-title">✨ 推荐名字（共{len(candidates)}个）</h2>

@@ -1,12 +1,23 @@
 # -*- coding: utf-8 -*-
 """
-取名生成引擎
-============
-取名全流程：用户输入 → 八字排盘 → 喜用神 → 候选字筛选 → 候选名生成 → 五格计算 → 评分排序 → 输出
+取名生成引擎 V3.0
+================
+取名全流程：用户输入 → 八字排盘 → 喜用神 → 候选字筛选 → 候选名生成 → 五格计算 → 评分排序 → 4类推荐 → 输出
+
+V3.0 核心优化：
+1. 词库优先生成：先从现代名字词库（688词）+ 经典文学词库中挑成词候选，
+   不再纯靠"字池两两组合"随机拼字（根治"换冰""苗冰"式假名字）
+2. 候选字池分层精选：组合补充只用 现代风格字 ∪ 常用308字 ∪ 有风格标签字，
+   老气字/不宜字（换/屏/病/傻等）硬过滤
+3. 多样性控制：top_n 结果中同一字出现次数设上限，避免"浩X浩X浩X"刷屏
+4. 现代语感分参与排序（见 scoring_engine V3.0），五格不再主导
+
+V2.0 保留能力：
+- 三层漏斗筛选、姓氏-名字粘连度检测、俗气阈值过滤、4组推荐输出
 
 用法：
   from bazi_engine import get_bazi
-  from scoring_engine import score_name, load_data
+  from scoring_engine import score_name, load_data, get_grade
   from name_generator import generate_names
 
   result = generate_names(
@@ -22,7 +33,7 @@ import sys
 # Add _tools to path for imports
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from bazi_engine import get_bazi, get_recommended_radicals, get_forbidden_radicals, GAN_WUXING, TIANGAN, DIZHI
-from scoring_engine import score_name, load_data, get_grade
+from scoring_engine import score_name, load_data, get_grade, categorize_names
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
@@ -199,7 +210,8 @@ def calc_wuge(surname, name, hanzi_map, surname_map):
 
 def filter_chars(hanzi_map, gender=None, xiyongshen=None, jiyongshen=None,
                  zodiac=None, min_strokes=1, max_strokes=30,
-                 exclude_rare=True, exclude_difficult=True):
+                 exclude_rare=True, exclude_difficult=True,
+                 era=None, exclude_awkward=True, exclude_dated=True):
     """
     从字库筛选候选字。
 
@@ -208,6 +220,8 @@ def filter_chars(hanzi_map, gender=None, xiyongshen=None, jiyongshen=None,
     - 难写字（exclude_difficult）
     - 忌用神五行
     - 生肖忌用偏旁
+    - V3.0 不宜入名字（exclude_awkward：换/屏/病/傻等语义差字）
+    - V3.0 老气字（exclude_dated：福禄寿财旺/淑贞桂芳一代）
 
     软过滤（优先选择）：
     - 喜用神五行匹配
@@ -215,12 +229,22 @@ def filter_chars(hanzi_map, gender=None, xiyongshen=None, jiyongshen=None,
     - 生肖喜用偏旁
     - 性别专用字优先（gender_hint=male/female 优先于 neutral）
     """
+    awkward = era.get('awkward_chars', set()) if era else set()
+    dated = era.get('dated_chars', set()) if era else set()
+
     candidates = []
     for ch, info in hanzi_map.items():
         # 硬过滤
         if exclude_rare and info.get('rare_flag'):
             continue
         if exclude_difficult and info.get('difficult_flag'):
+            continue
+
+        # V3.0 不宜入名字硬过滤
+        if exclude_awkward and ch in awkward:
+            continue
+        # V3.0 老气字硬过滤
+        if exclude_dated and ch in dated:
             continue
 
         # 五行过滤
@@ -254,11 +278,61 @@ def filter_chars(hanzi_map, gender=None, xiyongshen=None, jiyongshen=None,
     return candidates
 
 
+def check_surname_name_stickiness(surname, name, hanzi_map):
+    """
+    V2.0 姓氏-名字粘连度检测
+
+    检查姓氏+名字连读是否有不良谐音或含义
+
+    返回：
+      bool: True=通过检测，False=有不良粘连
+    """
+    full_name = surname + name
+
+    # 不良连读黑名单
+    bad_combos = [
+        '糊涂', '胡涂', '胡说', '胡闹', '胡扯', '胡搞',
+        '范统', '饭桶', '史珍香', '赖月京', '杜子腾', '肚子疼',
+        '秦寿', '禽兽', '朱逸之', '猪一只', '魏生津', '卫生巾',
+        '沈京兵', '神经病', '杜琦燕', '肚脐眼', '矫厚根', '脚后跟',
+        '朱逸群', '猪一群', '杜子腾', '肚子疼', '赖月京', '来月经',
+        '史珍香', '屎真香', '范统', '饭桶', '秦寿生', '禽兽生',
+        '初墨', '除魔', '熊初墨', '熊出没', '费彦', '肺炎',
+        '韦君智', '伪君子', '沈京冰', '神经病', '朱逸朗', '猪一郎',
+    ]
+
+    for bad in bad_combos:
+        if bad in full_name:
+            return False
+
+    # 检查姓氏+首字是否形成不良词
+    if len(name) >= 1:
+        first_two = surname + name[0]
+        for bad in bad_combos:
+            if bad in first_two:
+                return False
+
+    return True
+
+
+def is_tacky_name(full_name, tacky_names):
+    """
+    V2.0 俗气名字检测
+
+    检查是否是高频俗气名字
+
+    返回：
+      bool: True=是俗气名字，False=不是
+    """
+    return full_name in tacky_names
+
+
 def generate_names(surname, gender=None, birth_year=None, birth_month=None,
                    birth_day=None, birth_hour=12, name_length=2, style=None,
-                   top_n=10, weight_preset='default', db_type='expanded'):
+                   top_n=10, weight_preset='default', db_type='expanded',
+                   fixed_last_char=None):
     """
-    取名全流程主函数。
+    取名全流程主函数 V2.0
 
     参数：
       surname: 姓氏
@@ -269,9 +343,10 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
       top_n: 返回前N个候选名
       weight_preset: 评分权重预设
       db_type: 字库类型（'common'=308常用字，'expanded'=默认6299扩充字库，'full'=18821全量字）
+      fixed_last_char: 固定末字（如'骐'），则只生成首字+固定末字的组合
 
     返回：
-      dict: 包含 bazi, candidates(评分排序后的候选名列表), summary
+      dict: 包含 bazi, candidates(评分排序后的候选名列表), categories(4类推荐), summary
     """
     # 1. 八字排盘
     bazi = None
@@ -287,18 +362,24 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
     # 2. 加载数据
     hanzi_map = load_hanzi_db(db_type)
     surname_map = load_surnames()
-    scoring_data = load_data()
+    scoring_data = load_data(db_type)  # 传入db_type确保使用相同的字库
     xiyongshen_map = load_xiyongshen_map()
     literature_map = load_literature_map()
 
-    # 3. 筛选候选字
+    # 获取俗气名字库
+    tacky_names = scoring_data.get('tacky_names', set())
+
+    # V3.0 时代感词库
+    era = scoring_data.get('era', {})
+
+    # 3. 筛选候选字（V3.0 硬过滤不宜字/老气字）
     candidates = filter_chars(
         hanzi_map, gender=gender,
         xiyongshen=xiyongshen, jiyongshen=jiyongshen,
-        zodiac=zodiac
+        zodiac=zodiac, era=era
     )
 
-    # 按优先级排序：喜用神匹配 > 性别专用字 > 其他
+    # 按优先级排序：喜用神匹配 > 风格标签 > 性别专用字 > 其他
     def priority_key(c):
         # 五行优先级
         wx = c.get('wuxing', '')
@@ -307,11 +388,14 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
         else:
             wx_score = 1
 
+        # 风格标签优先级（有style_tags的字更时尚、有文化内涵）
+        style_score = 0 if c.get('style_tags') else 1
+
         # 性别优先级（gender_priority在filter_chars中已设置）
         gender_score = c.get('_gender_priority', 0)
 
-        # 综合排序：五行优先，性别次之
-        return (wx_score, -gender_score)
+        # 综合排序：五行优先，风格次之，性别最后
+        return (wx_score, style_score, -gender_score)
 
     candidates.sort(key=priority_key)
 
@@ -340,14 +424,128 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
     # 根据 top_n 动态调整候选字数量上限
     max_char_pool = max(80, top_n * 8)
 
-    if name_length == 2:
-        # 双字名：多样性组合策略
-        top_chars = candidates[:max_char_pool]
+    # ===== V3.0 词库优先生成 =====
+    # 先从现代名字词库 + 经典文学词库中挑"成词"候选，
+    # 避免"字池两两组合"随机拼出"换冰""苗冰"式假名字
+    word_lib_names = set()
+
+    if name_length == 2 and era and not fixed_last_char:
+        by_gender = era.get('modern_words_by_gender', {})
+        if gender == 'male':
+            word_pool = by_gender.get('male', set()) | by_gender.get('neutral', set())
+        elif gender == 'female':
+            word_pool = by_gender.get('female', set()) | by_gender.get('neutral', set())
+        else:
+            word_pool = era.get('modern_words', set())
+        # 文学词库整词也作为候选（诗经/楚辞等真实出处词）
+        if literature_map:
+            word_pool = word_pool | {w for w in literature_map.keys() if len(w) == 2}
+
+        awkward_set = era.get('awkward_chars', set())
+        dated_combo_set = era.get('dated_combos', set())
+        word_candidates = []
+        for word in word_pool:
+            if len(word) != 2:
+                continue
+            c1 = hanzi_map.get(word[0])
+            c2 = hanzi_map.get(word[1])
+            if not c1 or not c2:
+                continue
+            # 康熙笔画缺失则无法算五格，跳过
+            if not (c1.get('strokes_kangxi') or 0) or not (c2.get('strokes_kangxi') or 0):
+                continue
+            # 不宜字/老气组合不用
+            if word[0] in awkward_set or word[1] in awkward_set:
+                continue
+            if word in dated_combo_set:
+                continue
+            # 五行：忌用神字不用
+            wx1 = c1.get('wuxing', '')
+            wx2 = c2.get('wuxing', '')
+            if jiyongshen and (wx1 == jiyongshen or wx2 == jiyongshen):
+                continue
+            # 性别字冲突过滤
+            if gender == 'male' and (c1.get('gender_hint') == 'female' or c2.get('gender_hint') == 'female'):
+                continue
+            if gender == 'female' and (c1.get('gender_hint') == 'male' or c2.get('gender_hint') == 'male'):
+                continue
+            # 姓氏粘连/俗气检测
+            if not check_surname_name_stickiness(surname, word, hanzi_map):
+                continue
+            full_name = surname + word
+            if is_tacky_name(full_name, tacky_names) or word in tacky_names:
+                continue
+            word_candidates.append({
+                'name': word,
+                'chars': [c1, c2],
+                'wuge': calc_wuge(surname, word, hanzi_map, surname_map),
+                '_xy_match': (1 if wx1 == xiyongshen else 0) + (1 if wx2 == xiyongshen else 0),
+            })
+        # 喜用神匹配数优先，取前若干个进入评分
+        word_candidates.sort(key=lambda x: -x['_xy_match'])
+        for wc in word_candidates[:max(top_n * 8, 60)]:
+            wc.pop('_xy_match', None)
+            names.append(wc)
+            word_lib_names.add(wc['name'])
+
+    # V3.0 组合池精选：现代风格字 ∪ 有风格标签字 ∪ 性别标注字（均为人工精挑字）
+    # 避免 6299 字库里"换/屏/苗"等无审美标注的字进入组合池
+    modern_chars = era.get('modern_chars', set()) if era else set()
+    quality_candidates = [
+        c for c in candidates
+        if c['char'] in modern_chars or c.get('style_tags') or c.get('gender_hint', 'neutral') != 'neutral'
+    ]
+    if len(quality_candidates) < 20:
+        quality_candidates = candidates  # 兜底：精选池太小时退回全池
+
+    # 如果固定了末字，获取末字信息
+    fixed_last_info = None
+    if fixed_last_char and name_length == 2:
+        fixed_last_info = hanzi_map.get(fixed_last_char)
+        if not fixed_last_info:
+            # 如果末字不在字库中，创建一个基本信息
+            fixed_last_info = {'char': fixed_last_char, 'wuxing': '', 'strokes_kangxi': 0}
+
+    if fixed_last_char and name_length == 2:
+        # 固定末字模式：只生成 首字+固定末字 的组合
+        top_chars = quality_candidates[:max_char_pool]
+        max_combos = top_n * 2  # 多生成再筛选
+
+        seen_names = set(word_lib_names)
+        for c1 in top_chars:
+            if c1['char'] == fixed_last_char:
+                continue  # 跳过与末字相同的首字
+            name = c1['char'] + fixed_last_char
+            if name in seen_names:
+                continue
+            seen_names.add(name)
+
+            # V2.0 姓氏粘连度检测
+            if not check_surname_name_stickiness(surname, name, hanzi_map):
+                continue
+
+            # V2.0 俗气名字检测
+            full_name = surname + name
+            if is_tacky_name(full_name, tacky_names):
+                continue
+
+            # 计算五格
+            wuge_info = calc_wuge(surname, name, hanzi_map, surname_map)
+            names.append({
+                'name': name,
+                'chars': [c1, fixed_last_info],
+                'wuge': wuge_info,
+            })
+            if len(names) >= max_combos:
+                break
+    elif name_length == 2:
+        # 双字名：多样性组合策略（V3.0 使用精选组合池）
+        top_chars = quality_candidates[:max_char_pool]
         max_combos = top_n * 10  # 多生成再筛选
 
         # 策略：从候选池中均匀采样首字，每个首字配对多个尾字
         # 首字从不同位置采样以保证多样性
-        seen_names = set()
+        seen_names = set(word_lib_names)
         n_chars = len(top_chars)
         if n_chars == 0:
             pass
@@ -370,6 +568,16 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
                     if name in seen_names:
                         continue
                     seen_names.add(name)
+
+                    # V2.0 姓氏粘连度检测
+                    if not check_surname_name_stickiness(surname, name, hanzi_map):
+                        continue
+
+                    # V2.0 俗气名字检测
+                    full_name = surname + name
+                    if is_tacky_name(full_name, tacky_names):
+                        continue
+
                     # 计算五格
                     wuge_info = calc_wuge(surname, name, hanzi_map, surname_map)
                     names.append({
@@ -385,9 +593,19 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
                 if len(names) >= max_combos:
                     break
     else:
-        # 单字名
-        for c in candidates[:max_char_pool]:
+        # 单字名（V3.0 使用精选组合池）
+        for c in quality_candidates[:max_char_pool]:
             name = c['char']
+
+            # V2.0 姓氏粘连度检测
+            if not check_surname_name_stickiness(surname, name, hanzi_map):
+                continue
+
+            # V2.0 俗气名字检测
+            full_name = surname + name
+            if is_tacky_name(full_name, tacky_names):
+                continue
+
             wuge_info = calc_wuge(surname, name, hanzi_map, surname_map)
             names.append({
                 'name': name,
@@ -395,8 +613,9 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
                 'wuge': wuge_info,
             })
 
-    # 5. 评分排序（传入 literature_map 以启用文学出处加成）
+    # 5. 评分排序（传入 literature_map 以启用文学出处加成，gender 用于现代语感性别匹配）
     scored = []
+    surname_chars = list(surname)
     for n in names:
         result = score_name(
             n['name'], surname, scoring_data,
@@ -406,6 +625,8 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
             sancai_wuxing=n['wuge']['sancai_wuxing'],
             weight_preset=weight_preset,
             literature_map=literature_map,
+            surname_chars=surname_chars,
+            gender=gender,
         )
         scored.append(result)
 
@@ -443,10 +664,29 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
         if not skip:
             filtered.append(s)
 
-    # 取前 top_n
-    top_names = filtered[:top_n]
+    # 取前 top_n（V3.0 多样性控制：同一字出现次数设上限，避免"浩X浩X浩X"刷屏）
+    max_repeat = max(3, (top_n + 2) // 3)
+    char_count = {}
+    top_names = []
+    overflow = []
+    for s in filtered:
+        chars_in_name = set(s['name'])
+        if all(char_count.get(ch, 0) < max_repeat for ch in chars_in_name):
+            top_names.append(s)
+            for ch in chars_in_name:
+                char_count[ch] = char_count.get(ch, 0) + 1
+        else:
+            overflow.append(s)
+        if len(top_names) >= top_n:
+            break
+    # 不足 top_n 时用溢出的候选补齐
+    if len(top_names) < top_n:
+        top_names.extend(overflow[:top_n - len(top_names)])
 
-    # 6. 输出
+    # V2.0 生成4类推荐
+    categories = categorize_names(filtered)
+
+    # 7. 输出
     return {
         'input': {
             'surname': surname,
@@ -460,9 +700,11 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
         'jiyongshen': jiyongshen,
         'zodiac': zodiac,
         'candidates': top_names,
+        'categories': categories,
         'summary': {
             'total_candidates': len(names),
             'scored': len(scored),
+            'filtered': len(filtered),
             'top_n': top_n,
         }
     }
@@ -470,13 +712,15 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
 
 def generate_names_with_report(surname, gender=None, birth_year=None, birth_month=None,
                                birth_day=None, birth_hour=12, name_length=2, style=None,
-                               top_n=10, weight_preset='default', output_path=None, db_type='common'):
+                               top_n=10, weight_preset='default', output_path=None, db_type='common',
+                               fixed_last_char=None):
     """
     取名全流程 + 生成HTML报告（便捷函数）
 
     参数：同 generate_names()
     output_path: HTML报告输出路径，默认为当前目录下的 naming_report.html
     db_type: 字库类型（'common'=308常用字，'full'=18821全量字）
+    fixed_last_char: 固定末字（如'骐'）
 
     返回：
       dict: 同 generate_names()，额外包含 report_path 字段
@@ -492,7 +736,8 @@ def generate_names_with_report(surname, gender=None, birth_year=None, birth_mont
         birth_day=birth_day, birth_hour=birth_hour,
         name_length=name_length, style=style,
         top_n=top_n, weight_preset=weight_preset,
-        db_type=db_type
+        db_type=db_type,
+        fixed_last_char=fixed_last_char
     )
 
     # 生成HTML报告
@@ -505,7 +750,7 @@ def generate_names_with_report(surname, gender=None, birth_year=None, birth_mont
 
 if __name__ == '__main__':
     # 测试取名生成
-    print('=== 取名生成引擎测试 ===')
+    print('=== 取名生成引擎 V2.0 测试 ===')
     print()
 
     # 测试1：李姓男宝宝，2024年3月15日10点
@@ -518,6 +763,14 @@ if __name__ == '__main__':
     print(f'候选名 ({len(r1["candidates"])}):')
     for c in r1['candidates']:
         print(f'  {c["full_name"]:8s} 总分={c["total_score"]:5.1f} ({c["grade"]})')
+    print()
+
+    # V2.0 输出4类推荐
+    print('=== 4类推荐 ===')
+    for cat_name, cat_names in r1.get('categories', {}).items():
+        print(f'\n【{cat_name}】({len(cat_names)}个):')
+        for c in cat_names[:5]:  # 每类显示前5个
+            print(f'  {c["full_name"]:8s} 总分={c["total_score"]:5.1f} ({c["grade"]})')
     print()
 
     # 测试2：王姓女宝宝，1990年5月20日14点

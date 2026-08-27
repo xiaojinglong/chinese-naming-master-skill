@@ -327,10 +327,46 @@ def is_tacky_name(full_name, tacky_names):
     return full_name in tacky_names
 
 
+def _mmr_rank(candidates, top_n, lam=0.7):
+    """
+    V3.3 最大边际相关性排序 (Maximal Marginal Relevance)
+
+    在保证质量的前提下，惩罚与已选名字字面高度相似（共享字）的候选，
+    避免"沐泽/沐谦/沐辰/沐阳"这类同字扎堆。
+
+    lam: 质量-多样性权衡系数（1.0=纯质量，0.0=纯多样性）。默认 0.7 偏质量。
+    """
+    if not candidates:
+        return []
+    sorted_c = sorted(candidates, key=lambda x: -x['total_score'])
+    if len(sorted_c) <= top_n:
+        return sorted_c
+    selected = [sorted_c[0]]
+    pool = sorted_c[1:]
+    while len(selected) < top_n and pool:
+        best_idx, best_score, best_c = -1, -1e18, None
+        for i, c in enumerate(pool):
+            cset = set(c['name'])
+            max_sim = 0.0
+            for s in selected:
+                sset = set(s['name'])
+                union = len(cset | sset)
+                if union:
+                    sim = len(cset & sset) / union
+                    if sim > max_sim:
+                        max_sim = sim
+            mmr = lam * c['total_score'] - (1 - lam) * 100 * max_sim
+            if mmr > best_score:
+                best_score, best_idx, best_c = mmr, i, c
+        selected.append(best_c)
+        pool.pop(best_idx)
+    return selected
+
+
 def generate_names(surname, gender=None, birth_year=None, birth_month=None,
                    birth_day=None, birth_hour=12, name_length=2, style=None,
                    top_n=10, weight_preset='default', db_type='expanded',
-                   fixed_last_char=None):
+                   fixed_last_char=None, diversity=True, diversity_lambda=0.7):
     """
     取名全流程主函数 V2.0
 
@@ -664,21 +700,28 @@ def generate_names(surname, gender=None, birth_year=None, birth_month=None,
         if not skip:
             filtered.append(s)
 
-    # 取前 top_n（V3.0 多样性控制：同一字出现次数设上限，避免"浩X浩X浩X"刷屏）
-    max_repeat = max(3, (top_n + 2) // 3)
-    char_count = {}
-    top_names = []
-    overflow = []
-    for s in filtered:
-        chars_in_name = set(s['name'])
-        if all(char_count.get(ch, 0) < max_repeat for ch in chars_in_name):
-            top_names.append(s)
-            for ch in chars_in_name:
-                char_count[ch] = char_count.get(ch, 0) + 1
-        else:
-            overflow.append(s)
-        if len(top_names) >= top_n:
-            break
+    # 取前 top_n
+    # V3.3 多样性排序：MMR（最大边际相关性），平衡质量与字面重复度
+    # 替代旧版"同字次数上限"——后者对"沐/辰"这类高频好字仍会扎堆
+    if diversity:
+        top_names = _mmr_rank(filtered, top_n, lam=diversity_lambda)
+        selected_set = {s['name'] for s in top_names}
+        overflow = [s for s in filtered if s['name'] not in selected_set]
+    else:
+        max_repeat = max(3, (top_n + 2) // 3)
+        char_count = {}
+        top_names = []
+        overflow = []
+        for s in filtered:
+            chars_in_name = set(s['name'])
+            if all(char_count.get(ch, 0) < max_repeat for ch in chars_in_name):
+                top_names.append(s)
+                for ch in chars_in_name:
+                    char_count[ch] = char_count.get(ch, 0) + 1
+            else:
+                overflow.append(s)
+            if len(top_names) >= top_n:
+                break
     # 不足 top_n 时用溢出的候选补齐
     if len(top_names) < top_n:
         top_names.extend(overflow[:top_n - len(top_names)])

@@ -1,0 +1,15 @@
+[project]
+name = "chinese-naming-master"
+version = "3.2.0"
+description = "基于八字五行+三才五格+生肖喜忌+经典文学的中文取名引擎"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[tool.pytest.ini_options]
+pythonpath = ["_tools"]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py38"

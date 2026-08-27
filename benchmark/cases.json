@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "name": "取名引擎基准集",
+    "version": "1.0",
+    "purpose": "固化已知好名/坏名用例，防止算法修改导致回归（如V3.2静默bug类灾难）",
+    "来源": "多轮验证复盘：本地引擎六场景测试 + DeepSeek/豆包/ChatGPT/Claude 名单复核"
+  },
+  "good_cases": [
+    {
+      "surname": "李", "gender": "male", "birth": "2024-03-15 10:00",
+      "xiyongshen": "水", "zodiac": "龙",
+      "names": [
+        {"name": "沐泽", "min_score": 90, "must_contain_wuxing": "水", "must_grade": ["S"]},
+        {"name": "明澈", "min_score": 85, "must_contain_wuxing": "水"},
+        {"name": "鸿渐", "min_score": 85}
+      ]
+    },
+    {
+      "surname": "陈", "gender": "male", "birth": "2026-09-01 12:00",
+      "xiyongshen": "水", "zodiac": "马",
+      "names": [
+        {"name": "沐泽", "min_score": 88, "must_contain_wuxing": "水"},
+        {"name": "鹤鸣", "min_score": 88, "must_contain_wuxing": "水"},
+        {"name": "衍辰", "min_score": 85}
+      ]
+    },
+    {
+      "surname": "石", "gender": "male", "birth": "2024-05-18 12:00",
+      "xiyongshen": "金", "zodiac": "龙",
+      "names": [
+        {"name": "柏舟", "min_score": 80, "must_contain_wuxing": "金"},
+        {"name": "浩初", "min_score": 85, "must_contain_wuxing": "金"}
+      ]
+    }
+  ],
+  "bad_cases": [
+    {"surname": "陈", "name": "子涵",  "reason": "俗气名+人格19凶", "max_score": 30, "must_penalty_below": 1.0},
+    {"surname": "陈", "name": "亦辰",  "reason": "俗气名+人格22凶", "max_score": 30, "must_penalty_below": 1.0},
+    {"surname": "陈", "name": "景行",  "reason": "人格28凶+总格34大凶", "max_score": 50},
+    {"surname": "陈", "name": "沐谦",  "reason": "谐音木钱(黑名单)", "max_score": 20, "must_penalty_below": 1.0},
+    {"surname": "陈", "name": "屹舟",  "reason": "人22/地12/总28三格全凶", "max_score": 40},
+    {"surname": "陈", "name": "嘉禾",  "reason": "地格19凶", "max_score": 50},
+    {"surname": "陈", "name": "予安",  "reason": "人格20凶+地格10凶", "max_score": 50},
+    {"surname": "李", "name": "浩宇",  "reason": "俗气名", "max_score": 40, "must_penalty_below": 1.0}
+  ],
+  "bazi_day_pillar_cases": [
+    {"date": "2024-03-15", "expected": "戊寅"},
+    {"date": "2023-07-20", "expected": "己卯"},
+    {"date": "2026-08-31", "expected": "丁丑"},
+    {"date": "2026-09-01", "expected": "戊寅"}
+  ]
+}

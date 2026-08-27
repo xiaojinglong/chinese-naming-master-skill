@@ -174,20 +174,22 @@ def _load_literature_data():
 
 
 def _load_homophone_blacklist():
-    """加载谐音黑名单"""
+    """加载谐音黑名单（V3.3：路径错误不再静默，打印告警）"""
     blacklist_path = os.path.join(BASE, '02-规则与算法资料', '04-谐音黑名单词库.json')
-    if os.path.exists(blacklist_path):
-        try:
-            with open(blacklist_path, encoding='utf-8') as f:
-                data = json.load(f)
-            return {
-                'bad_words': set(data.get('bad_words', [])),
-                'ambiguous_words': set(data.get('ambiguous_words', [])),
-                'negative_combos': data.get('negative_combos', []),
-            }
-        except Exception:
-            pass
-    return {'bad_words': set(), 'ambiguous_words': set(), 'negative_combos': []}
+    if not os.path.exists(blacklist_path):
+        print(f'[WARN] 谐音黑名单文件不存在: {blacklist_path}', file=__import__('sys').stderr)
+        return {'bad_words': set(), 'ambiguous_words': set(), 'negative_combos': []}
+    try:
+        with open(blacklist_path, encoding='utf-8') as f:
+            data = json.load(f)
+        return {
+            'bad_words': set(data.get('bad_words', [])),
+            'ambiguous_words': set(data.get('ambiguous_words', [])),
+            'negative_combos': data.get('negative_combos', []),
+        }
+    except Exception as e:
+        print(f'[WARN] 谐音黑名单加载异常: {type(e).__name__}: {e}', file=__import__('sys').stderr)
+        return {'bad_words': set(), 'ambiguous_words': set(), 'negative_combos': []}
 
 
 def _load_shengmu_yunmu():

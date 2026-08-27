@@ -9,7 +9,7 @@ description: >-
   for help naming a child, generating Chinese names, analyzing name fortune (姓名学),
   or creating names based on birth date/time. Supports single/double character names,
   sibling names, and renaming (改名).
-version: 3.2.0
+version: 3.3.0
 author: chinese-naming-master
 license: MIT
 ---

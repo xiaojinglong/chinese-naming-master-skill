@@ -59,8 +59,10 @@ def main():
     for i, c in enumerate(result['candidates'], 1):
         print(f'\n{i}. {c["full_name"]}  {c["total_score"]}分 ({c["grade"]})')
         for dim, score in c['scores'].items():
-            bar = '█' * (score // 10)
-            print(f'   {dim:20s} {score:3d} {bar}')
+            if not isinstance(score, (int, float)):
+                continue
+            bar = '█' * (int(score) // 10)
+            print(f'   {dim:20s} {score:3.0f} {bar}')
 
 
 if __name__ == '__main__':

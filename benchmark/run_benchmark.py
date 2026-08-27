@@ -9,7 +9,12 @@
 import sys
 import os
 import json
+import io
 from datetime import date
+
+# Windows 控制台 UTF-8 输出
+if sys.platform == 'win32':
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(BASE, '_tools'))

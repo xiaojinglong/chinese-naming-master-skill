@@ -4,11 +4,11 @@
 >
 > 覆盖 **18,821 字库**（康熙笔画 98.8%）+ **1,138 条经典取名素材**（18 部经典）+ **59 种取名技法** + 完整排盘/评分/生成引擎
 >
-> **V3.2 核心升级**：五行补益回归评分 · 五格凶格硬上限 · 全量凶数乘法扣分 · 通规字表分级 · 时节主题报告 · 6 维度评分
+> **V3.3 核心升级**：数据完整性检查 · 基准回归 · pytest 测试 · CI 流水线 · MMR 候选多样性 · 名字对比模式
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Version: V3.2](https://img.shields.io/badge/version-3.2-blue.svg)](#changelog)
+[![Version: V3.3](https://img.shields.io/badge/version-3.3-blue.svg)](#changelog)
 [![Data: 144 files](https://img.shields.io/badge/data-144%20files-green.svg)](#)
 
 ---
@@ -37,7 +37,7 @@
 
 ```bash
 # 克隆仓库（请替换为实际仓库地址）
-git clone https://github.com/YOUR_USERNAME/chinese-naming-master.git
+git clone https://github.com/xiaojinglong/chinese-naming-master.git
 cd chinese-naming-master
 
 # 无需安装额外依赖（仅依赖 Python 标准库）
@@ -98,15 +98,29 @@ print(bazi)
 # 五行统计：{'金': 3.5, '木': 1.3, '水': 1.0, '火': 2.5, '土': 1.8}
 ```
 
+### 📊 HTML 报告预览
+
+运行 `examples/naming_with_report.py` 可生成完整的 HTML 取名报告，包含八字分析、时节主题分组、名字故事、六维评分条形图等：
+
+<!-- TODO: 替换为实际报告截图 -->
+<!-- ![报告预览](docs/images/report_preview.png) -->
+
+报告示例可运行 `python examples/naming_with_report.py` 后在浏览器中打开生成的 `naming_report.html`。
+
 ## 📁 项目结构
 
 ```
 chinese-naming-master/
 ├── SKILL.md                        ← Skill 定义文件（WorkBuddy 标准）
 ├── README.md                       ← 本文件
+├── CHANGELOG.md                    ← 版本更新记录
 ├── LICENSE                         ← MIT 许可证
 ├── requirements.txt                ← Python 依赖（可选）
+├── pyproject.toml                  ← 项目元数据 + pytest/ruff 配置
 ├── .gitignore
+│
+├── scripts/                        ← 批量生成脚本（调试/测试用）
+│   └── batch_generate*.py
 │
 ├── _tools/                         ← 核心引擎代码（4 个模块 + 7 个工具脚本）
 │   ├── bazi_engine.py              ← 八字排盘引擎（公历→干支四柱+五行+喜用神）
@@ -344,28 +358,8 @@ V3.2 报告（`report_generator.py`）调用本模块，在 HTML 报告顶部新
 
 ## 📝 Changelog
 
-### V3.3 (2026-08)
+### V3.3 (2026-08) — 最新版本
 
-**工程化与可解释性**：数据完整性检查器（`data_check.py`，11 项数据源启动校验，根治 V3.2 静默失效类 bug）；基准回归集（`benchmark/`，20 个固化用例）；pytest 测试套件（11 项）+ GitHub Actions CI；名字对比模式（`compare_names.py`，多维度对比表 + 风格化推荐）。**候选多样性**：`name_generator` 引入 MMR 排序（`diversity`/`diversity_lambda` 参数），替代旧版"同字次数上限"，惩罚与已选名字字面相似的高分候选。修复 `scoring_engine` 裸 `except`（路径错误现打印告警而非静默）。
+数据完整性检查器 · 基准回归 · pytest 测试 · CI 流水线 · MMR 候选多样性 · 名字对比模式
 
-### V3.2 (2026-08)
-
-**主题化报告**：新增 `theme_narrator.py`，按诗词意象库把候选名分入 5 个主题篇章（秋水长天/五谷丰登/星辰大海/君子之风/气宇灵动），按出生月份自动生成时节语境（初秋/盛夏/隆冬/仲春）+ 祝福语，为每个名字生成个性化叙事解读。HTML 报告新增"时节主题分组"章节与"名字故事"段落。
-
-**数据完整性修复**：修复 `scoring_engine.py` 中 7 处数据路径多写一层 `..` 导致谐音黑名单/声母韵母表/成语典故库/诗词意象库/声调模式表/姓氏声调表长期静默加载为空（异常被 except 吞掉）的严重 bug；修复评分条形图/评分理由引用的旧 7 维键名（与 V3.1 实际键不符，一直显示 0）。
-
-### V3.1 (2026-08)
-
-**评分体系重做**：恢复五行补益维度（18% 权重，其余维度等比收缩至 82%）；中性字不再送分，拉开命中/不命中区分度。**五格凶格强约束**：核心三格（人/地/总）含凶数→五格分硬上限 40，半凶→上限 60；乘法扣分由 8 个大凶数扩至全量 32 个凶数（核心格 ×0.5、外格 ×0.85、半凶 ×0.9）。
-
-**数据校正**：按首拼音声调批量校正 723 个多音字的 tone 字段（含王/不/上/个等高频字）；用通用规范汉字表（8105 字）给全字库标注 tgh_level，表外字标记 rare_flag；单字名外格恒为 2 的结构性扣分予以豁免；补录鹤/霁等缺失字。
-
-**候选多样性 (MMR)**：V3.3 引入最大边际相关性排序，平衡质量与字面重复度，避免"沐泽/沐谦/沐辰/沐阳"同字扎堆（`diversity=True` 默认开启，`diversity_lambda=0.7`）。
-
-### V3.0 (2026-08)
-
-六维评分体系重构：现代语感 25% / 音韵 25% / 寓意 22% / 五格 18% / 字形 10%（五行补益当时被移出主链路，V3.1 恢复）。引入时代感词库与老气名乘法扣分，三层漏斗筛选（硬性红线→命理适配→美学筛选）。
-
-### V2.0
-
-三层漏斗筛选 · 乘法扣分制 · 动态权重 · 声调平仄强化 · 4 组推荐输出。
+👉 完整版本历史见 [CHANGELOG.md](CHANGELOG.md)

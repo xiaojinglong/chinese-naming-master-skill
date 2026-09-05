@@ -1,0 +1,692 @@
+[
+ {
+  "full_name": "陈湛淇",
+  "name": "湛淇",
+  "total_score": 83.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 54,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治淇",
+  "name": "治淇",
+  "total_score": 82.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈汇淇",
+  "name": "汇淇",
+  "total_score": 81.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈波淇",
+  "name": "波淇",
+  "total_score": 78.1,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 70,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈晖淇",
+  "name": "晖淇",
+  "total_score": 76.5,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 67,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治旗",
+  "name": "治旗",
+  "total_score": 76.1,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 94,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈湛期",
+  "name": "湛期",
+  "total_score": 75.9,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 85,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治齐",
+  "name": "治齐",
+  "total_score": 75.9,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 94,
+   "yinyun": 88,
+   "yiyi": 100,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 50,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈煜淇",
+  "name": "煜淇",
+  "total_score": 75.8,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治期",
+  "name": "治期",
+  "total_score": 75.3,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈湛棋",
+  "name": "湛棋",
+  "total_score": 75.2,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 85,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈俊淇",
+  "name": "俊淇",
+  "total_score": 75.1,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 81,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈以淇",
+  "name": "以淇",
+  "total_score": 75.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 54,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 54,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治岐",
+  "name": "治岐",
+  "total_score": 75.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 94,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 82,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治圻",
+  "name": "治圻",
+  "total_score": 75.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 94,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 82,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈治棋",
+  "name": "治棋",
+  "total_score": 74.6,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈沐岐",
+  "name": "沐岐",
+  "total_score": 74.2,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 72,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 92,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈沐圻",
+  "name": "沐圻",
+  "total_score": 74.2,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 72,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 92,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈汇期",
+  "name": "汇期",
+  "total_score": 73.6,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 85,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈沛岐",
+  "name": "沛岐",
+  "total_score": 73.3,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 72,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 92,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈沛圻",
+  "name": "沛圻",
+  "total_score": 73.3,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 72,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 92,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈润岐",
+  "name": "润岐",
+  "total_score": 73.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 68,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 84,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈润圻",
+  "name": "润圻",
+  "total_score": 73.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 68,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 84,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈润岐",
+  "name": "润岐",
+  "total_score": 73.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 68,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 84,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈润圻",
+  "name": "润圻",
+  "total_score": 73.0,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 68,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 84,
+   "modern_sense": 46,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈泓淇",
+  "name": "泓淇",
+  "total_score": 72.9,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 40,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 54,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈汇棋",
+  "name": "汇棋",
+  "total_score": 72.9,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 88,
+   "yiyi": 90,
+   "zixing": 85,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈波旗",
+  "name": "波旗",
+  "total_score": 72.4,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 94,
+   "yinyun": 70,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 38,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈波齐",
+  "name": "波齐",
+  "total_score": 72.2,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 94,
+   "yinyun": 70,
+   "yiyi": 100,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 50,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ },
+ {
+  "full_name": "陈雨岐",
+  "name": "雨岐",
+  "total_score": 71.9,
+  "grade": "B（良好）",
+  "scores": {
+   "wuge_shuli": 72,
+   "yinyun": 94,
+   "yiyi": 100,
+   "zixing": 92,
+   "modern_sense": 20,
+   "wuxing_buyi": 69,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  }
+ }
+]

@@ -1,0 +1,1002 @@
+[
+ {
+  "full_name": "陈衍淇",
+  "name": "衍淇",
+  "total_score": 86.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 54,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈勉淇",
+  "name": "勉淇",
+  "total_score": 85.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 54,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈厚淇",
+  "name": "厚淇",
+  "total_score": 84.5,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 91,
+   "yiyi": 100,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈保淇",
+  "name": "保淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈姥淇",
+  "name": "姥淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈很淇",
+  "name": "很淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈抹淇",
+  "name": "抹淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈昴淇",
+  "name": "昴淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈某淇",
+  "name": "某淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈染淇",
+  "name": "染淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈沼淇",
+  "name": "沼淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈法淇",
+  "name": "法淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈泖淇",
+  "name": "泖淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈泳淇",
+  "name": "泳淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈罕淇",
+  "name": "罕淇",
+  "total_score": 84.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈沈淇",
+  "name": "沈淇",
+  "total_score": 84.1,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈蟒淇",
+  "name": "蟒淇",
+  "total_score": 84.1,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈渺淇",
+  "name": "渺淇",
+  "total_score": 84.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 54,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈品淇",
+  "name": "品淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈弭淇",
+  "name": "弭淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈扁淇",
+  "name": "扁淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈抿淇",
+  "name": "抿淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈拇淇",
+  "name": "拇淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈拊淇",
+  "name": "拊淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈泯淇",
+  "name": "泯淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈癸淇",
+  "name": "癸淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈眄淇",
+  "name": "眄淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈眇淇",
+  "name": "眇淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈秒淇",
+  "name": "秒淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈秕淇",
+  "name": "秕淇",
+  "total_score": 83.6,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 100,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈瘪淇",
+  "name": "瘪淇",
+  "total_score": 83.4,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈谱淇",
+  "name": "谱淇",
+  "total_score": 83.4,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈蹼淇",
+  "name": "蹼淇",
+  "total_score": 83.4,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈黼淇",
+  "name": "黼淇",
+  "total_score": 83.4,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 84,
+   "yinyun": 94,
+   "yiyi": 90,
+   "zixing": 97,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈湛淇",
+  "name": "湛淇",
+  "total_score": 83.3,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 91,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 54,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈惹淇",
+  "name": "惹淇",
+  "total_score": 83.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈涌淇",
+  "name": "涌淇",
+  "total_score": 83.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈港淇",
+  "name": "港淇",
+  "total_score": 83.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈渴淇",
+  "name": "渴淇",
+  "total_score": 83.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ },
+ {
+  "full_name": "陈犸淇",
+  "name": "犸淇",
+  "total_score": 83.0,
+  "grade": "A（优秀）",
+  "scores": {
+   "wuge_shuli": 78,
+   "yinyun": 97,
+   "yiyi": 90,
+   "zixing": 95,
+   "modern_sense": 46,
+   "wuxing_buyi": 100,
+   "weights": {
+    "wuge": 0.14759999999999998,
+    "yinyun": 0.2296,
+    "yiyi": 0.1558,
+    "zixing": 0.082,
+    "modern": 0.205,
+    "wuxing": 0.18
+   },
+   "penalty": 1.0
+  },
+  "_qi": "淇",
+  "_first_wuxing": "水"
+ }
+]
